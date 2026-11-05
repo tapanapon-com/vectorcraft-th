@@ -29,7 +29,7 @@ sed -e "s/@VERSION@/$VERSION/g" -e 's/@SHORT_VERSION@/0.21.0/g' \
 printf 'APPL????' > "$APP/Contents/PkgInfo"
 plutil -lint "$APP/Contents/Info.plist"
 xattr -cr "$APP"
-lipo -verify_arch "$ARCH" "$APP/Contents/MacOS/VectorCraft"
+lipo "$APP/Contents/MacOS/VectorCraft" -verify_arch "$ARCH"
 codesign --force --sign - --timestamp=none --identifier ai.storyteller.vectorcraft-cli "$APP/Contents/MacOS/vectorcraft-cli"
 codesign --force --sign - --timestamp=none "$APP/Contents/MacOS/VectorCraft"
 codesign --force --sign - --timestamp=none "$APP"
