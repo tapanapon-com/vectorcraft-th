@@ -1,6 +1,6 @@
 # Localization parity
 
-> **Last reviewed:** 2026-10-10 · **Last updated:** 2026-10-31 · **Change:** minor (Brazilian Portuguese: 154 rows for the strings the sibling catalogs translate — smart-filter and print presets, dimension lines, swatches, canvas messages; previously minor: Bosnian (`bs`): complete catalog; previously minor: Vietnamese text: stacked diacritics tested and attach in every form, #4491; previously: Catalan (`ca`) catalog added, complete under the tests)
+> **Last reviewed:** 2026-10-10 · **Last updated:** 2026-11-05 · **Change:** minor (Brazilian Portuguese: 154 rows for the strings the sibling catalogs translate — smart-filter and print presets, dimension lines, swatches, canvas messages; previously minor: Bosnian (`bs`): complete catalog; previously minor: Vietnamese text: stacked diacritics tested and attach in every form, #4491; previously: Catalan (`ca`) catalog added, complete under the tests)
 
 Per-language status of VectorCraft's interface. How the catalogs work and how to add a language:
 [`development.md` › Localisation](development.md#localisation). Part of
@@ -43,6 +43,10 @@ Chinese by `imachus`). Only Georgian is recorded as reviewed by a native speaker
 **To `full` for all twelve: ~50–85 h**, most of it Arabic (right-to-left interface) and Hindi (interface
 shaping). Each new Latin-script catalog is ~4,000 rows; the existing ones were written in a few agent hours each
 plus review. Native-speaker review is human work and isn't in the hours.
+
+## Thai fork
+
+The independent Thai edition adds `th` and regional-tag matching, count-neutral plurals, embedded Noto Sans Thai from craft-fonts, and a catalog checked against the union of sibling language catalogs. It is machine-assisted with terminology corrections; native proofreading remains welcome. See [localization-th.md](localization-th.md) for measured coverage and validation. This does not change the upstream twelve-language score or feature-parity estimates.
 
 ## Other shipped languages
 

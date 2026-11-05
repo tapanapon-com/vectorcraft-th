@@ -1,0 +1,13 @@
+{
+  "catalogEntries": 7813,
+  "catalogErrors": 0,
+  "workspaceTestsPassed": 13965,
+  "workspaceTestsFailed": 0,
+  "workspaceTestsIgnored": 15,
+  "ciSummary": "CI summary: all 12 steps passed (fmt, clippy, test, doctests, no-bundled-fonts, pdf-deps, assets, brands, cursors, i18n-report, layers, wasm)",
+  "nativeSaveReopen": true,
+  "reopenPngIdentical": true,
+  "languageSwitchPreservesDocument": true,
+  "macOS": "26.3.1",
+  "architecture": "arm64"
+}

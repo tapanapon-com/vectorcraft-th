@@ -163,7 +163,7 @@ fn each_language_counts_with_its_plural_rule() {
     for (codes, forms) in [
         (&["de", "es", "it", "pt-br", "fi", "ca"][..], [1, 0, 1, 1, 1, 1, 1, 1]),
         (&["fr"], [0, 0, 1, 1, 1, 1, 1, 1]),
-        (&["ja", "ka", "hu", "ko", "vi", "tr"], [0; 8]),
+        (&["ja", "ka", "hu", "ko", "vi", "tr", "th"], [0; 8]),
         (&["ru", "uk", "bs"], [2, 0, 1, 1, 2, 2, 0, 1]),
         (&["cs"], [2, 0, 1, 1, 2, 2, 2, 2]),
         (&["pl"], [2, 0, 1, 1, 2, 2, 2, 1]),
@@ -409,13 +409,15 @@ fn is_georgian(c: char) -> bool {
 /// the craft-fonts build input, which is optional: without it they are left to the installed
 /// fonts, and with it the Japanese catalog is checked against BIZ UDPGothic (the Traditional
 /// Chinese one waits for a Traditional Chinese UI font in craft-fonts). Georgian letters are the
-/// same: checked against Noto Sans Georgian when craft-fonts has it. It needs the interface's own
+/// same: checked against Noto Sans Georgian when craft-fonts has it. Thai is checked when the
+/// optional craft-fonts input supplies its Thai face. It needs the interface's own
 /// faces (`interface-fonts`): egui's built-in fonts lack some of the catalogs' symbols.
 #[cfg(feature = "interface-fonts")]
 #[test]
 fn bundled_fonts_cover_the_catalogs() {
     let japanese_ui_font = vectorcraft_text::CRAFT_FONTS.iter().any(|f| f.is_japanese());
     let georgian_ui_font = vectorcraft_text::CRAFT_FONTS.iter().any(|f| f.is_georgian());
+    let thai_ui_font = vectorcraft_text::CRAFT_FONTS.iter().any(|f| f.is_thai());
     let ctx = egui::Context::default();
     crate::theme::install_fonts(&ctx);
     let mut output = ctx.run_ui(egui::RawInput::default(), |_| {});
@@ -434,7 +436,12 @@ fn bundled_fonts_cover_the_catalogs() {
             let chars: std::collections::BTreeSet<char> = entries
                 .iter()
                 .flat_map(|(_, _, tr)| tr.chars())
-                .filter(|c| !c.is_whitespace() && (cjk_checked || !is_cjk(*c)) && (georgian_ui_font || !is_georgian(*c)))
+                .filter(|c| {
+                    !c.is_whitespace()
+                        && (cjk_checked || !is_cjk(*c))
+                        && (georgian_ui_font || !is_georgian(*c))
+                        && (thai_ui_font || !matches!(*c as u32, 0x0E00..=0x0E7F))
+                })
                 .collect();
             for family in &families {
                 let font = egui::FontId::new(13.0, family.clone());
@@ -2018,8 +2025,9 @@ fn shared_param_check_errors_show_their_values_as_given() {
 
 /// Languages whose catalogs translate status and error messages; [`untranslated_report`] lists
 /// the messages each one lacks.
-const COMPLETE_MESSAGES: &[&str] =
-    &["cs", "de", "el", "es", "fr", "hu", "it", "ja", "ka", "ko", "pl", "pt-br", "ru", "sv", "uk", "vi", "zh-hans", "zh-hant", "fi", "tr", "ca"];
+const COMPLETE_MESSAGES: &[&str] = &[
+    "cs", "de", "el", "es", "fr", "hu", "it", "ja", "ka", "ko", "pl", "pt-br", "ru", "sv", "uk", "vi", "zh-hans", "zh-hant", "fi", "tr", "ca", "th",
+];
 
 /// Crates whose error and status messages reach the status bar.
 const MESSAGE_CRATES: &[&str] = &["ui-egui", "engine", "doc", "format", "svg", "pdf", "eps", "text", "plugins", "metafile", "cad", "trace"];
@@ -2282,4 +2290,23 @@ fn every_catalog_names_the_digits_menus_numeral_systems() {
         }
     }
     assert!(missing.is_empty(), "Digits menu labels without a row:\n{}", missing.join("\n"));
+}
+
+/// Thai regional tags, neutral plurals and the live frame lookup preserve numeric values.
+#[test]
+fn thai_locale_and_live_language_lookup() {
+    let thai = Lang::from_code("th").expect("Thai is registered");
+    for tag in ["th", "th-TH", "th_TH.UTF-8", "TH-th"] {
+        assert_eq!(lang_from_tag(tag), Some(thai), "{tag}");
+    }
+    let before = current();
+    set_current(thai);
+    assert_eq!(t("File"), "ไฟล์");
+    assert_eq!(t("Cancel"), "ยกเลิก");
+    for n in [0, 1, 2, 21, 100] {
+        assert_eq!(trn(thai, n, "{n} Layer", "{n} Layers"), format!("{n} เลเยอร์"));
+    }
+    set_current(Lang::EN);
+    assert_eq!(t("File"), "File");
+    set_current(before);
 }

@@ -375,3 +375,11 @@ The shared PDF backend keeps the existing standard-font and CMap features. These
 | `hayro-interpret 0.7.0 / assets/CGATS001Compat-v2-micro.icc` | Clinton Ingram (saucecontrol/Compact-ICC-Profiles) | https://github.com/storytold/craft-libs/blob/9be9a63782298ab59cd9b7a42ee9cba4f42a5ccb/vendor/hayro-interpret/assets/CGATS001Compat-v2-micro.icc | CC0-1.0 | `73e1ba37d2bad5bab2a964f40a9eed96209666efc067c3322626214bbef234a0` | Default CMYK colour conversion (pinned hayro-interpret) |
 | `hayro-cmap 0.1.0 / assets/cmaps.brotli` | Adobe | https://github.com/storytold/craft-libs/blob/9be9a63782298ab59cd9b7a42ee9cba4f42a5ccb/vendor/hayro-cmap/assets/cmaps.brotli | BSD-3-Clause | `ddf37af521d904d5646c2fc37b2b7e912dc1b56f0d210190b61f598154758e46` | Character-code mapping tables required to read CJK PDFs. Non-visual dependency data; existing embedding unchanged |
 | `hayro-interpret 0.7.0 / src/font/generated/metrics.rs` | Adobe (Core 14 AFM metrics, PDF specification encodings); tables by The Hayro Authors | https://github.com/storytold/craft-libs/blob/9be9a63782298ab59cd9b7a42ee9cba4f42a5ccb/vendor/hayro-interpret/src/font/generated/metrics.rs | MIT OR Apache-2.0 | `2ec9e608573eda459de1e1d9bda3bb494315e36bee885acc88912a11fe0caa41` | Glyph widths and encodings for non-embedded standard fonts. Non-visual dependency data; existing embedding unchanged |
+
+## Thai edition demo
+
+| Path | Author | Source | License | Notes |
+|---|---|---|---|---|
+| `docs/images/th/vectorcraft-th-demo.svg` | Tapanapon Thai localization project | Original geometric artwork created for this repository | MIT OR Apache-2.0 | Synthetic editable vector demo; no external images or proprietary artwork |
+| `docs/images/th/vectorcraft-th-workspace.png` | Tapanapon Thai localization project; upstream VectorCraft UI contributors | Screenshot of this fork displaying its original demo | MIT OR Apache-2.0; upstream brand terms retained | Actual Thai macOS UI; no user documents or third-party artwork |
+| `docs/images/th/vectorcraft-th-new-document.png` | Tapanapon Thai localization project; upstream VectorCraft UI contributors | Screenshot of this fork | MIT OR Apache-2.0; upstream brand terms retained | Actual Thai New Document dialog |

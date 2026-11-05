@@ -1,0 +1,1373 @@
+	 to move in perspective  |  	 เพื่อย้ายตามทัศนมิติ  |  
+	Add Anchor (Pen)	เพิ่มจุดยึด (ปากกา)
+	Add Anchor Point	เพิ่มจุดยึด
+	Add Anchor Point Tool	เครื่องมือเพิ่มจุดยึด
+	Add Anchor Points	เพิ่มจุดยึด
+	Add Anchors	เพิ่มจุดยึด
+	Add Anchors…	เพิ่มจุดยึด…
+	Align Stroke to Center	จัดเส้นขอบไว้กึ่งกลางพาธ
+	Align Stroke to Inside	จัดเส้นขอบไว้ด้านในพาธ
+	Align Stroke to Outside	จัดเส้นขอบไว้ด้านนอกพาธ
+	Align to Artboard	จัดแนวตามอาร์ตบอร์ด
+	Anchor Inspector	ตัวตรวจจุดยึด
+	Anchor Point	จุดยึด
+	Anchor Point Tool	เครื่องมือจุดยึด
+	Anchor Points	จุดยึด
+	Anchor/Path Labels	ป้ายจุดยึด/พาธ
+	Anchors	จุดยึด
+	Anchors selected: {count}	จุดยึดที่เลือก: {count}
+	Anchors:	จุดยึด:
+	Apply Gradient Preset	ใช้ค่าตั้งไล่ระดับสี
+	Apply Last Gradient	ใช้สีไล่ระดับล่าสุด
+	Area / Path Type	ข้อความแบบพื้นที่ / บนพาธ
+	Art	งานภาพ
+	Art Brush	แปรงอาร์ต
+	Art Brush Options	ตัวเลือกแปรงอาร์ต
+	Art Optimized	ปรับให้เหมาะกับงานภาพ
+	Art using a deleted global swatch keeps its colour.	งานภาพที่ใช้ตัวอย่างสีส่วนกลางที่ถูกลบจะยังคงสีเดิม
+	Artboard	อาร์ตบอร์ด
+	Artboard Options	ตัวเลือกอาร์ตบอร์ด
+	Artboard Options…	ตัวเลือกอาร์ตบอร์ด…
+	Artboard Tool	เครื่องมืออาร์ตบอร์ด
+	Artboard {n} of {total}	อาร์ตบอร์ด {n} จาก {total}
+	Artboards	อาร์ตบอร์ด
+	Artwork	งานภาพ
+	Artwork Cleanup	เก็บกวาดงานภาพ
+	As Multiple Assets	แยกเป็นหลายแอสเซ็ต
+	As Single Asset	รวมเป็นแอสเซ็ตเดียว
+	Ascender	ส่วนเหนือเส้นฐาน
+	Ascent	ระยะเหนือเส้นฐาน
+	Asset Export	ส่งออกแอสเซ็ต
+	Asset Export Settings	การตั้งค่าส่งออกแอสเซ็ต
+	Assets	แอสเซ็ต
+	Auto Leading:	ระยะบรรทัดอัตโนมัติ:
+	Backspace	Backspace
+	Bar Graph Tool	เครื่องมือกราฟแท่ง
+	Barbed	มีหนาม
+	Bas Relief…	ภาพนูนต่ำ…
+	Baseline (Standard)	เบสไลน์ (มาตรฐาน)
+	Batch Trace Folder	ลากเส้นภาพทั้งโฟลเดอร์
+	Begin Undo Group	เริ่มกลุ่มเลิกทำ
+	Between Line and Object	ระหว่างเส้นกับวัตถุ
+	Bleed	ระยะตัดตก
+	Bleed:	ระยะตัดตก:
+	Bleeds	ระยะตัดตก
+	Bloat Tool	เครื่องมือพองรูปทรง
+	Blob Brush Tool	เครื่องมือแปรงบล็อบ
+	Bottom in Front	ชิ้นล่างอยู่ด้านหน้า
+	Bottom-to-Bottom Leading	ระยะบรรทัดจากด้านล่างถึงด้านล่าง
+	Bounding Box	กรอบขอบเขต
+	Bounds (Fill Proportionally)	ขอบเขต (เติมให้เต็มโดยคงสัดส่วน)
+	Bounds (Fit Proportionally)	ขอบเขต (ปรับให้พอดีโดยคงสัดส่วน)
+	Brick Offset:	ระยะเยื้องแบบอิฐ:
+	Brick by Column	เรียงอิฐตามคอลัมน์
+	Brick by Row	เรียงอิฐตามแถว
+	Bristle Density:	ความหนาแน่นของขนแปรง:
+	Brush Affects:	แปรงส่งผลต่อ:
+	Brush Art	งานภาพของแปรง
+	Brush Libraries	คลังแปรง
+	Brush Libraries Menu	เมนูคลังแปรง
+	Brush Library	คลังแปรง
+	Built-in Libraries	คลังที่มาพร้อมโปรแกรม
+	Bulge…	โป่ง…
+	Bullet	สัญลักษณ์หัวข้อย่อย
+	Bullets	สัญลักษณ์หัวข้อย่อย
+	Bullets and Numbering	สัญลักษณ์หัวข้อย่อยและลำดับเลข
+	Business Card 3.5 × 2 in	นามบัตร 3.5 × 2 in
+	Business Card 85 × 55 mm	นามบัตร 85 × 55 mm
+	Business Card 91 × 55 mm	นามบัตร 91 × 55 mm
+	Butt Cap	ปลายเส้นตัดตรง
+	By Count	ตามจำนวน
+	By Distance	ตามระยะห่าง
+	By Format	ตามรูปแบบ
+	By Item, Then Format	ตามรายการ แล้วตามรูปแบบ
+	By Layer	ตามเลเยอร์
+	By Object	ตามวัตถุ
+	By Rows	ตามแถว
+	By Size or Row	ตามขนาดหรือแถว
+	Cancel	ยกเลิก
+	Cancel Image Trace	ยกเลิกการแปลงภาพเป็นเวกเตอร์
+	Cancel Pattern Editing	ยกเลิกการแก้ไขลวดลาย
+	Cap Height	ความสูงตัวพิมพ์ใหญ่
+	Caps Lock Cursor State	สถานะเคอร์เซอร์เมื่อกด Caps Lock
+	Case	รูปแบบตัวพิมพ์
+	Chalk & Charcoal…	ชอล์กและถ่าน…
+	Change Case	เปลี่ยนรูปแบบตัวพิมพ์
+	Change to Artboard Rulers	เปลี่ยนเป็นไม้บรรทัดอาร์ตบอร์ด
+	Change to Global Rulers	เปลี่ยนเป็นไม้บรรทัดส่วนกลาง
+	Clipping Mask	คลิปปิงมาสก์
+	Clipping Masks	คลิปปิงมาสก์
+	Column Graph Tool	เครื่องมือกราฟแท่งแนวตั้ง
+	Column Type:	ชนิดคอลัมน์:
+	Column Width:	ความกว้างคอลัมน์:
+	Columns:	คอลัมน์:
+	Column…	คอลัมน์…
+	Combine Point Text	รวมข้อความแบบจุด
+	Coming soon — tracked in the parity plan	กำลังพัฒนา — ติดตามในแผนความสามารถเทียบเท่า
+	Command Dialog	กล่องคำสั่ง
+	Compatible Gradient and Gradient Mesh Printing	การพิมพ์ไล่ระดับสีและตาข่ายไล่ระดับสีแบบเข้ากันได้
+	Compiled or not text	ผ่านการคอมไพล์หรือไม่ใช่ข้อความ
+	Compiled script: ask its author for the .jsx file	สคริปต์ที่คอมไพล์แล้ว: ขอไฟล์ .jsx จากผู้เขียน
+	Compound Path	พาธผสม
+	Concave	เว้า
+	Concentric Dividers:	เส้นแบ่งวงร่วมศูนย์:
+	Consider Open Filled Paths as Closed	ถือว่าพาธเปิดที่เติมสีเป็นพาธปิด
+	Conté Crayon…	สีเทียนคอนเต…
+	Convert All Strokes to Outlines	แปลงเส้นขอบทั้งหมดเป็นเค้าโครง
+	Convert All Text to Outlines	แปลงข้อความทั้งหมดเป็นเค้าโครง
+	Convert Anchor Point	แปลงจุดยึด
+	Convert Anchor Points	แปลงจุดยึด
+	Convert Process to Global	แปลงสีโปรเซสเป็นสีส่วนกลาง
+	Convert Selected Anchor Points to Corner	แปลงจุดยึดที่เลือกเป็นมุม
+	Convert Selected Anchor Points to Smooth	แปลงจุดยึดที่เลือกเป็นจุดโค้งเรียบ
+	Convert To Area Type	แปลงเป็นข้อความในพื้นที่
+	Convert To Outlines	แปลงเป็นเค้าโครง
+	Convert To Point Type	แปลงเป็นข้อความแบบจุด
+	Convert text to outlines	แปลงข้อความเป็นเค้าโครง
+	Convert to Global	แปลงเป็นสีส่วนกลาง
+	Convert to destination (preserve numbers)	แปลงเป็นโปรไฟล์ปลายทาง (คงค่าตัวเลข)
+	Convex	นูน
+	Copy Fonts Used in the Document	คัดลอกฟอนต์ที่ใช้ในเอกสาร
+	Copy in Perspective	คัดลอกตามทัศนมิติ
+	Copy only fonts you own or are licensed to install.	คัดลอกเฉพาะฟอนต์ที่คุณเป็นเจ้าของหรือมีสิทธิ์ติดตั้ง
+	Coral	สีปะการัง
+	Corner Point Angle Threshold:	เกณฑ์มุมสำหรับจุดมุม:
+	Couldn't copy to the system clipboard: {e}	ไม่สามารถคัดลอกไปยังคลิปบอร์ดของระบบ: {e}
+	Couldn't paste from the clipboard: {e}	ไม่สามารถวางจากคลิปบอร์ด: {e}
+	Couldn't save recovery data: {e}	ไม่สามารถบันทึกข้อมูลกู้คืน: {e}
+	Create Clipping Mask	สร้างคลิปปิงมาสก์
+	Create Compound Path From Ellipses	สร้างพาธผสมจากวงรี
+	Create Gradient Mesh…	สร้างตาข่ายไล่ระดับสี…
+	Create New Sublayer	สร้างเลเยอร์ย่อยใหม่
+	Crosshatch…	เส้นแรเงาไขว้…
+	Curvature Tool	เครื่องมือเส้นโค้ง
+	Cutout…	ภาพตัดกระดาษ…
+	Decrease Font Size by Five Steps	ลดขนาดฟอนต์ห้าขั้น
+	Default Fill and Stroke	สีเติมและเส้นขอบเริ่มต้น
+	Default Fill and Stroke (D)	สีเติมและเส้นขอบเริ่มต้น (D)
+	Delete Anchor Point	ลบจุดยึด
+	Delete Anchor Point Tool	เครื่องมือลบจุดยึด
+	Delete Anchor Points	ลบจุดยึด
+	Delete Artboard	ลบอาร์ตบอร์ด
+	Delete Artboards	ลบอาร์ตบอร์ด
+	Delete Gradient Preset	ลบค่าตั้งไล่ระดับสี
+	Direct Selection	เลือกโดยตรง
+	Direct Selection Tool	เครื่องมือเลือกโดยตรง
+	Direction Handles	แขนปรับทิศทาง
+	Display Bitmaps as Anti-aliased Images in Pixel Preview	แสดงบิตแมปแบบลบรอยหยักในตัวอย่างพิกเซล
+	Display Print Size at 100% Zoom	แสดงขนาดพิมพ์เมื่อซูม 100%
+	Distort Appearance	บิดรูปลักษณ์
+	Distort Linear Gradients	บิดการไล่ระดับสีเชิงเส้น
+	Distribute Evenly	กระจายให้เท่ากัน
+	Divide into Dashes	แบ่งเป็นเส้นประ
+	Divide into Dashes…	แบ่งเป็นเส้นประ…
+	Document Health Check	ตรวจสภาพเอกสาร
+	Document Ink Options	ตัวเลือกหมึกของเอกสาร
+	Document Library	คลังเอกสาร
+	Document Raster Effects Settings	การตั้งค่าเอฟเฟกต์ราสเตอร์ของเอกสาร
+	Document Raster Effects Settings Dialog	กล่องตั้งค่าเอฟเฟกต์ราสเตอร์ของเอกสาร
+	Document Raster Effects Settings…	การตั้งค่าเอฟเฟกต์ราสเตอร์ของเอกสาร…
+	Drawing : real size — 1:10 labels 1 unit on the page as 10.	ขนาดวาด : ขนาดจริง — 1:10 ระบุ 1 หน่วยบนหน้าเป็น 10 หน่วย
+	Duplicate Artboard	ทำสำเนาอาร์ตบอร์ด
+	Duplicate Artboards	ทำสำเนาอาร์ตบอร์ด
+	Duplicate Effects	ทำสำเนาเอฟเฟกต์
+	Ease In Out	เริ่มช้าและจบช้า
+	Ease Out In	จบช้าแล้วเริ่มช้า
+	Edit	แก้ไข
+	Edit Artboards	แก้ไขอาร์ตบอร์ด
+	Edit Character Style	แก้ไขสไตล์ตัวอักษร
+	Edit Custom Dictionary…	แก้ไขพจนานุกรมกำหนดเอง…
+	Edit Envelope	แก้ไขกรอบบิดรูปทรง
+	Edit Perspective Grid	แก้ไขกริดทัศนมิติ
+	Edit Views	แก้ไขมุมมอง
+	Edit Views…	แก้ไขมุมมอง…
+	Effect	เอฟเฟกต์
+	Effect Gallery	แกลเลอรีเอฟเฟกต์
+	Effect Gallery Dialog	กล่องแกลเลอรีเอฟเฟกต์
+	Effect Gallery…	แกลเลอรีเอฟเฟกต์…
+	Ellipse Properties:	คุณสมบัติวงรี:
+	Ellipse…	วงรี…
+	Em Box	กรอบ Em
+	Em Box Bottom/Left	ด้านล่าง/ซ้ายของกรอบ Em
+	Em Box Center	กึ่งกลางกรอบ Em
+	Em Box Top/Right	ด้านบน/ขวาของกรอบ Em
+	Em Dash	ขีดยาว Em
+	Em Space	ช่องว่าง Em
+	Embed Fonts (Glyphs Used)	ฝังฟอนต์ (เฉพาะรูปอักษรที่ใช้)
+	Embed Fonts (for other applications)	ฝังฟอนต์ (สำหรับแอปอื่น)
+	Embed ICC Profile	ฝังโปรไฟล์ ICC
+	Embed ICC Profiles	ฝังโปรไฟล์ ICC
+	Embed Image	ฝังภาพ
+	Embed Image(s)	ฝังภาพ
+	Embed page thumbnails	ฝังภาพย่อของหน้า
+	Embedded	ฝังอยู่
+	Embedded Image	ภาพที่ฝังอยู่
+	Emulsion:	ชั้นอิมัลชัน:
+	En Dash	ขีดสั้น En
+	En Space	ช่องว่าง En
+	Enable Background Export	เปิดการส่งออกเบื้องหลัง
+	Enable Guides for 9-Slice Scaling	เปิดเส้นไกด์สำหรับการปรับขนาดแบบ 9 ส่วน
+	Enable Touch Gestures	เปิดท่าทางสัมผัส
+	Enable in-menu font previews	แสดงตัวอย่างฟอนต์ในเมนู
+	Enclosing Lasso	บ่วงเลือกแบบล้อมรอบ
+	Enclosing Lasso Tool	เครื่องมือบ่วงเลือกแบบล้อมรอบ
+	End Undo Group	จบกลุ่มเลิกทำ
+	End arrowhead	หัวลูกศรปลายเส้น
+	English	English
+	English: UK	อังกฤษ: สหราชอาณาจักร
+	English: USA	อังกฤษ: สหรัฐอเมริกา
+	Enter	Enter
+	Envelope	กรอบบิดรูปทรง
+	Envelope #10	ซองจดหมาย #10
+	Envelope DL	ซองจดหมาย DL
+	Envelope Distort	บิดรูปทรงด้วยกรอบ
+	Envelope Info	ข้อมูลกรอบบิดรูปทรง
+	Envelope Mesh	ตาข่ายกรอบบิดรูปทรง
+	Envelope Options	ตัวเลือกกรอบบิดรูปทรง
+	Envelope Options…	ตัวเลือกกรอบบิดรูปทรง…
+	Equalize Handles	ปรับแขนโค้งให้เท่ากัน
+	Esc	Esc
+	Essentials	พื้นฐาน
+	Essentials Classic	พื้นฐานแบบคลาสสิก
+	Every-line Composer	ตัวจัดข้อความทุกบรรทัด
+	Exact dash lengths	ความยาวเส้นประตามค่าที่กำหนด
+	Exceptions (comma separated)	ข้อยกเว้น (คั่นด้วยจุลภาค)
+	Expand	แปลงเป็นวัตถุ
+	Expand 1 Selected	แปลงรายการที่เลือก 1 รายการเป็นวัตถุ
+	Expand Appearance	แปลงรูปลักษณ์เป็นวัตถุ
+	Expand Appearance first (Object › Expand Appearance)	แปลงรูปลักษณ์เป็นวัตถุก่อน (วัตถุ › แปลงรูปลักษณ์เป็นวัตถุ)
+	Expand Blend	แปลงการผสมเป็นวัตถุ
+	Expand Brush Strokes	แปลงเส้นแปรงเป็นวัตถุ
+	Expand Compound Shape	แปลงรูปทรงผสมเป็นวัตถุ
+	Expand Dashes into Paths	แปลงเส้นประเป็นพาธ
+	Expand Envelope	แปลงกรอบบิดรูปทรงเป็นวัตถุ
+	Expand Gradient Mesh	แปลงตาข่ายไล่ระดับสีเป็นวัตถุ
+	Expand Gradient To	แปลงการไล่ระดับสีเป็น
+	Expand Image Trace	แปลงผลลากเส้นภาพเป็นวัตถุ
+	Expand Instances	แปลงอินสแตนซ์เป็นวัตถุ
+	Expand Layers Panel Rows	ขยายแถวในแผงเลเยอร์
+	Expand Live Paint	แปลงกลุ่มระบายสีไลฟ์เป็นวัตถุ
+	Expand Object	แปลงวัตถุ
+	Expand Objects on Path	แปลงวัตถุบนพาธ
+	Expand Options	ตัวเลือกการแปลงเป็นวัตถุ
+	Expand Panels	ขยายแผง
+	Expand Repeat	แปลงชุดซ้ำเป็นวัตถุ
+	Expand Shape	แปลงรูปทรงเป็นวัตถุ
+	Expand Shaper Group	แปลงกลุ่ม Shaper เป็นวัตถุ
+	Expand:	แปลงเป็นวัตถุ:
+	Expanded Patterns	ลวดลายที่แปลงเป็นวัตถุแล้ว
+	Expand…	แปลงเป็นวัตถุ…
+	Export All Open Documents	ส่งออกเอกสารที่เปิดทั้งหมด
+	Export Asset	ส่งออกแอสเซ็ต
+	Export Assets	ส่งออกแอสเซ็ต
+	Export Export Presets	ส่งออกค่าที่ตั้งไว้สำหรับการส่งออก
+	Export Keyboard Shortcuts…	ส่งออกแป้นพิมพ์ลัด…
+	Export PDF Presets	ส่งออกค่าที่ตั้งไว้สำหรับ PDF
+	Export Perspective Grid Presets	ส่งออกค่าที่ตั้งไว้สำหรับกริดทัศนมิติ
+	Export Selected Art Only	ส่งออกเฉพาะงานภาพที่เลือก
+	Export Transparency Flattener Presets	ส่งออกค่าที่ตั้งไว้สำหรับการรวมความโปร่งใส
+	Export and Clipboard Transparency Flattener Settings	การตั้งค่ารวมความโปร่งใสสำหรับการส่งออกและคลิปบอร์ด
+	Export the selected assets (else all of them)	ส่งออกแอสเซ็ตที่เลือก (หากไม่ได้เลือก จะส่งออกทั้งหมด)
+	Extension:	นามสกุลไฟล์:
+	Eyedropper Applies:	หลอดดูดสีใช้ค่า:
+	Eyedropper Options	ตัวเลือกหลอดดูดสี
+	Eyedropper Picks Up:	หลอดดูดสีเก็บค่า:
+	Eyedropper: click the art to sample the key color	หลอดดูดสี: คลิกงานภาพเพื่อเก็บตัวอย่างสีหลัก
+	Eyedropper: click the art to sample the stop's colour	หลอดดูดสี: คลิกงานภาพเพื่อเก็บตัวอย่างสีของจุดสี
+	Feet & Inches	ฟุตและนิ้ว
+	Figure Space	ช่องว่างเท่าความกว้างตัวเลข
+	File	ไฟล์
+	Fill	เติมสี
+	Fill & Stroke	สีเติมและเส้นขอบ
+	Fill (X), double-click for the Color Picker	เติมสี (X), ดับเบิลคลิกเพื่อเปิดตัวเลือกสี
+	Fill Arc	เติมสีส่วนโค้ง
+	Fill Color	สีเติม
+	Fill New Type Objects With Placeholder Text	ใส่ข้อความตัวอย่างในวัตถุข้อความใหม่
+	Fill Rule	กฎการเติมสี
+	Fill and Stroke	สีเติมและเส้นขอบ
+	Fill:	เติมสี:
+	Fills	สีเติม
+	Film Grain…	เกรนฟิล์ม…
+	Filter Layers Panel Rows	กรองแถวในแผงเลเยอร์
+	Filters	ตัวกรอง
+	Find Font	ค้นหาฟอนต์
+	Fit Artboard in Window	แสดงอาร์ตบอร์ดพอดีหน้าต่าง
+	Freeform Gradient	สีไล่ระดับแบบอิสระ
+	GPL palettes keep solid colours only, as RGB.	ชุดสี GPL เก็บเฉพาะสีทึบในรูปแบบ RGB
+	Gear	เฟือง
+	General › Thumbnails	ทั่วไป › ภาพย่อ
+	Geometric Guides	เส้นไกด์เรขาคณิต
+	Geometric Patterns	ลวดลายเรขาคณิต
+	Get Preferences	อ่านการตั้งค่า
+	Global Adjust	ปรับแบบส่วนกลาง
+	Global Brush Dimensions	ขนาดแปรงส่วนกลาง
+	Global Edit Options	ตัวเลือกการแก้ไขส่วนกลาง
+	Global Process Color	สีโปรเซสส่วนกลาง
+	Global Process Color, CMYK	สีโปรเซสส่วนกลาง, CMYK
+	Glowing Edges…	ขอบเรืองแสง…
+	Gradient Fill: click to apply, drag onto art	เติมสีไล่ระดับ: คลิกเพื่อใช้ หรือลากลงบนงานภาพ
+	Gradient Mesh	ตาข่ายไล่ระดับสี
+	Gradient Presets	ค่าตั้งไล่ระดับสี
+	Gradient across stroke	ไล่ระดับสีตามความกว้างเส้นขอบ
+	Gradient along stroke	ไล่ระดับสีตามความยาวเส้นขอบ
+	Gradient and Mesh Resolution:	ความละเอียดของการไล่ระดับสีและตาข่าย:
+	Graphic Style Libraries	คลังสไตล์กราฟิก
+	Graphic Style Libraries Menu	เมนูคลังสไตล์กราฟิก
+	Graphic Style Library	คลังสไตล์กราฟิก
+	Grays and Neutrals	สีเทาและสีกลาง
+	Greeting Card	การ์ดอวยพร
+	Hair Space	ช่องว่างบางพิเศษ
+	Half Arrow (left)	ลูกศรครึ่งซีก (ซ้าย)
+	Half Arrow (right)	ลูกศรครึ่งซีก (ขวา)
+	Handles	แขนปรับโค้ง
+	Harmony Rules	กฎความกลมกลืนของสี
+	Harmony Rules:	กฎความกลมกลืนของสี:
+	Harmony Sets	ชุดสีกลมกลืน
+	Health Check	ตรวจสภาพ
+	Help	วิธีใช้
+	Help › Search Commands…	วิธีใช้ › ค้นหาคำสั่ง…
+	Hide Corner Widget	ซ่อนตัวปรับมุม
+	Hide Corner Widget for angles greater than	ซ่อนตัวปรับมุมสำหรับมุมที่มากกว่า
+	Hide Gradient Annotator	ซ่อนตัวปรับไล่ระดับสี
+	Hide Presets	ซ่อนค่าตั้ง
+	Hide Print Tiling	ซ่อนแนวแบ่งหน้าพิมพ์
+	Hide Text Threads	ซ่อนเส้นเชื่อมข้อความ
+	High Fidelity Photo	ภาพถ่ายรายละเอียดสูง
+	Horizon Height:	ความสูงเส้นขอบฟ้า:
+	Horizontal Dividers:	เส้นแบ่งแนวนอน:
+	Import Export Presets	นำเข้าค่าที่ตั้งไว้สำหรับการส่งออก
+	Import Perspective Grid Presets	นำเข้าค่าที่ตั้งไว้สำหรับกริดทัศนมิติ
+	In Tangent Handles	แขนสัมผัสขาเข้า
+	Include Clip Groups	รวมกลุ่มคลิปปิง
+	Include Metadata	รวมข้อมูลเมตา
+	Include non-printing layers	รวมเลเยอร์ที่ไม่พิมพ์
+	Include tagged source profiles	รวมโปรไฟล์ต้นทางที่ระบุไว้
+	Increase Font Size by Five Steps	เพิ่มขนาดฟอนต์ห้าขั้น
+	Ink Limit	ขีดจำกัดปริมาณหมึก
+	Ink Outlines…	เส้นหมึก…
+	Inks	หมึก
+	Inner Corner Tile	ชิ้นลวดลายมุมด้านใน
+	Input Black	ค่าดำขาเข้า
+	Input White	ค่าขาวขาเข้า
+	Japanese Double Postcard	ไปรษณียบัตรญี่ปุ่นแบบคู่
+	Japanese Envelope #3	ซองจดหมายญี่ปุ่น #3
+	Japanese Envelope #4	ซองจดหมายญี่ปุ่น #4
+	Japanese Postcard	ไปรษณียบัตรญี่ปุ่น
+	Join Point Text	รวมข้อความแบบจุด
+	Join the lines of each paragraph	รวมบรรทัดของแต่ละย่อหน้า
+	Keep Handles	คงแขนปรับโค้ง
+	Keep the pasted color as a new swatch with a numbered name.	เก็บสีที่วางเป็นตัวอย่างสีใหม่ โดยเติมหมายเลขในชื่อ
+	Kerning	ระยะห่างคู่ตัวอักษร
+	Kite	รูปว่าว
+	Last Artboard	อาร์ตบอร์ดสุดท้าย
+	Leader:	อักขระนำแท็บ:
+	Leading	ระยะบรรทัด
+	Ligatures are off while the text is tracked.	อักษรเชื่อมจะปิดเมื่อปรับระยะห่างตัวอักษร
+	Limit Color Guide to Library	จำกัดคู่มือสีไว้ในคลัง
+	Line Art and Text Resolution:	ความละเอียดของภาพเส้นและข้อความ:
+	Line Color	สีเส้น
+	Line Endings:	รูปแบบจบบรรทัด:
+	Line {line}	บรรทัด {line}
+	Line {line}: {name}: {status}	บรรทัด {line}: {name}: {status}
+	Line-end Punctuation Half Width	เครื่องหมายวรรคตอนท้ายบรรทัดแบบครึ่งความกว้าง
+	Link Opacity Mask	เชื่อมโยงมาสก์ความทึบ
+	Link start and end arrowhead scales	เชื่อมค่าขนาดหัวลูกศรต้นเส้นและปลายเส้น
+	Live Paint	ระบายสีแบบไลฟ์
+	Live Paint Bucket	ถังสีไลฟ์
+	Live Paint Bucket (Stroke)	ถังสีไลฟ์ (เส้นขอบ)
+	Live Paint Selection Tool	เครื่องมือเลือกพื้นที่สีไลฟ์
+	Load Place Cursor	โหลดรายการลงเคอร์เซอร์วาง
+	Local Libraries	คลังในเครื่อง
+	Lock Grid	ล็อกกริด
+	Lock Selected	ล็อกสิ่งที่เลือก
+	Lock Station Point	ล็อกจุดมอง
+	Lock Variables	ล็อกตัวแปร
+	Low Fidelity Photo	ภาพถ่ายรายละเอียดต่ำ
+	Magic Wand	ไม้กายสิทธิ์
+	Magic Wand Options	ตัวเลือกไม้กายสิทธิ์
+	Magic Wand Settings	การตั้งค่าไม้กายสิทธิ์
+	Make Clipping Mask	สร้างคลิปปิงมาสก์
+	Make Compound Path	สร้างพาธผสม
+	Make Dynamic	กำหนดให้เปลี่ยนตามข้อมูล
+	Make Graph Dynamic	กำหนดให้กราฟเปลี่ยนตามข้อมูล
+	Make Image Dynamic	กำหนดให้ภาพเปลี่ยนตามข้อมูล
+	Make Live Paint	สร้างกลุ่มระบายสีไลฟ์
+	Make Pixel Perfect	ปรับให้ตรงพิกเซล
+	Make Sides Equal	ปรับด้านให้เท่ากัน
+	Make Smooth	ปรับให้เรียบ
+	Make Text Dynamic	กำหนดให้ข้อความเปลี่ยนตามข้อมูล
+	Make Text Wrap	จัดข้อความล้อมวัตถุ
+	Make Visibility Dynamic	กำหนดให้การแสดงผลเปลี่ยนตามข้อมูล
+	Make Visible	แสดงให้เห็น
+	Make a theme on Create and save it.	สร้างธีมในแท็บสร้าง แล้วบันทึก
+	Make/Release Clipping Mask	สร้าง/ยกเลิกคลิปปิงมาสก์
+	Mark as trapped	ระบุว่าทำแทรปสีแล้ว
+	Match User Interface Brightness	ใช้ความสว่างตามส่วนติดต่อผู้ใช้
+	Merge Live Paint	รวมกลุ่มระบายสีไลฟ์
+	More Pathfinder options	ตัวเลือกพาธไฟน์เดอร์เพิ่มเติม
+	Move Anchor Point	ย้ายจุดยึด
+	Move Anchors	ย้ายจุดยึด
+	Move Artwork with Artboard	ย้ายงานภาพพร้อมอาร์ตบอร์ด
+	Move Locked and Hidden Artwork with Artboard	ย้ายงานภาพที่ล็อกและซ่อนพร้อมอาร์ตบอร์ด
+	Move Spine Point	ย้ายจุดบนแนวแกน
+	Move Type on a Path	ย้ายข้อความบนพาธ
+	Muted	สีหม่น
+	N pt per	N pt ต่อ
+	N slices …, evenly spaced	N สไลซ์ … เว้นระยะเท่ากัน
+	Needless Clipping Groups	กลุ่มคลิปปิงที่ไม่จำเป็น
+	Needs Attention Only	เฉพาะรายการที่ต้องตรวจสอบ
+	Needs the desktop app	ต้องใช้แอปเดสก์ท็อป
+	Neon Glow…	เรืองแสงนีออน…
+	New Artboard	อาร์ตบอร์ดใหม่
+	New Artboard Options…	ตัวเลือกอาร์ตบอร์ดใหม่…
+	Object	วัตถุ
+	Off-Axis Back	ด้านหลังนอกแกน
+	Off: an editable copy of its art, embedded in this document.	ปิด: ฝังสำเนางานที่แก้ไขได้ไว้ในเอกสารนี้
+	Offset X	ระยะเยื้อง X
+	Omit	ละเว้น
+	On: one locked object showing the document, updated when it changes.	เปิด: แสดงเอกสารเป็นวัตถุที่ล็อกไว้หนึ่งชิ้น และอัปเดตเมื่อเอกสารเปลี่ยนแปลง
+	One File of the Selection	รวมส่วนที่เลือกเป็นไฟล์เดียว
+	One Point	หนึ่งจุด
+	One Point Perspective	ทัศนมิติแบบจุดเดียว
+	One Point Perspective Preset 1	ค่าตั้งทัศนมิติแบบจุดเดียว 1
+	One Point Perspective Preset 2	ค่าตั้งทัศนมิติแบบจุดเดียว 2
+	One Point Perspective Preset 3	ค่าตั้งทัศนมิติแบบจุดเดียว 3
+	One Point Perspective Preset 4	ค่าตั้งทัศนมิติแบบจุดเดียว 4
+	One Point Perspective Preset 5	ค่าตั้งทัศนมิติแบบจุดเดียว 5
+	One page per artboard.	หนึ่งหน้าต่ออาร์ตบอร์ด
+	Open Paths	พาธเปิด
+	Open Recent File 1	เปิดไฟล์ล่าสุด 1
+	Open Recent File 10	เปิดไฟล์ล่าสุด 10
+	Open Recent File 11	เปิดไฟล์ล่าสุด 11
+	Open Recent File 12	เปิดไฟล์ล่าสุด 12
+	Open Recent File 13	เปิดไฟล์ล่าสุด 13
+	Open Recent File 14	เปิดไฟล์ล่าสุด 14
+	Open Recent File 15	เปิดไฟล์ล่าสุด 15
+	Open Recent File 16	เปิดไฟล์ล่าสุด 16
+	Open Recent File 17	เปิดไฟล์ล่าสุด 17
+	Open Recent File 18	เปิดไฟล์ล่าสุด 18
+	Open Recent File 19	เปิดไฟล์ล่าสุด 19
+	Open Recent File 2	เปิดไฟล์ล่าสุด 2
+	Open Recent File 20	เปิดไฟล์ล่าสุด 20
+	Open Recent File 21	เปิดไฟล์ล่าสุด 21
+	Open Recent File 22	เปิดไฟล์ล่าสุด 22
+	Open Recent File 23	เปิดไฟล์ล่าสุด 23
+	Open Recent File 24	เปิดไฟล์ล่าสุด 24
+	Open Recent File 25	เปิดไฟล์ล่าสุด 25
+	Open Recent File 26	เปิดไฟล์ล่าสุด 26
+	Open Recent File 27	เปิดไฟล์ล่าสุด 27
+	Open Recent File 28	เปิดไฟล์ล่าสุด 28
+	Open Recent File 29	เปิดไฟล์ล่าสุด 29
+	Open Recent File 3	เปิดไฟล์ล่าสุด 3
+	Open Recent File 30	เปิดไฟล์ล่าสุด 30
+	Open Recent File 4	เปิดไฟล์ล่าสุด 4
+	Open Recent File 5	เปิดไฟล์ล่าสุด 5
+	Open Recent File 6	เปิดไฟล์ล่าสุด 6
+	Open Recent File 7	เปิดไฟล์ล่าสุด 7
+	Open Recent File 8	เปิดไฟล์ล่าสุด 8
+	Open Recent File 9	เปิดไฟล์ล่าสุด 9
+	Open Recent Files	เปิดไฟล์ล่าสุด
+	Open a document to navigate it.	เปิดเอกสารเพื่อเลื่อนดู
+	Open a document to preview its pages	เปิดเอกสารเพื่อดูตัวอย่างหน้า
+	Open password:	รหัสผ่านสำหรับเปิด:
+	Opening it left out what VectorCraft can't read yet ({what}), so replacing it loses that for good. Save under another name to keep it.	ขณะเปิดไฟล์ ส่วนที่ VectorCraft ยังอ่านไม่ได้ ({what}) จะถูกละไว้ การบันทึกทับจึงทำให้ส่วนนั้นสูญหายถาวร โปรดบันทึกด้วยชื่ออื่นเพื่อเก็บต้นฉบับไว้
+	Optical Margin Alignment	จัดแนวขอบตามสายตา
+	Out Tangent Handles	แขนสัมผัสขาออก
+	Outline Others	แสดงวัตถุอื่นเป็นเส้นเค้าโครง
+	Outline Stroke	แปลงเส้นขอบเป็นเค้าโครง
+	Outline Text	แปลงข้อความเป็นเส้นเค้าโครง
+	Outlined Strokes	เส้นขอบที่แปลงเป็นเส้นเค้าโครง
+	Outlined Text	ข้อความที่แปลงเป็นเส้นเค้าโครง
+	Output:	ผลลัพธ์:
+	Overprint Preview (separations)	ดูตัวอย่างการพิมพ์ทับ (แยกสี)
+	Override Action "Export" Commands	แทนที่คำสั่ง "ส่งออก" ในแอ็กชัน
+	Override Action "Open" Commands	แทนที่คำสั่ง "เปิด" ในแอ็กชัน
+	Override Action "Save" Commands	แทนที่คำสั่ง "บันทึก" ในแอ็กชัน
+	Override Character Color	แทนที่สีตัวอักษร
+	Paint Daubs	ป้ายสี
+	Paint Daubs…	ป้ายสี…
+	Paintbrush	พู่กัน
+	Paintbrush Tool	เครื่องมือพู่กัน
+	Palette Knife…	เกรียงปาดสี…
+	Palette:	ชุดสี:
+	Parametric Shape	รูปทรงพารามิเตอร์
+	Parametric Shape Tool	เครื่องมือรูปทรงพารามิเตอร์
+	Paste Remembers Layers	วางโดยคงโครงสร้างเลเยอร์
+	Paste without Formatting	วางโดยไม่ใช้รูปแบบ
+	Patchwork…	ลายผ้าปะ…
+	Pathfinder	พาธไฟน์เดอร์
+	Pathfinder Options	ตัวเลือกพาธไฟน์เดอร์
+	Pathfinder Options…	ตัวเลือกพาธไฟน์เดอร์…
+	Pattern	ลวดลาย
+	Pattern Type	ประเภทลวดลาย
+	Pen Tool	เครื่องมือปากกา
+	Pentagram	ดาวห้าแฉก
+	Perceptual	ตามการรับรู้
+	Perceptual Scales	สเกลตามการรับรู้
+	Perspective	ทัศนมิติ
+	Perspective Distort	บิดรูปทรงตามทัศนมิติ
+	Perspective Grid	กริดทัศนมิติ
+	Perspective Grid Options	ตัวเลือกกริดทัศนมิติ
+	Perspective Grid Preset	ค่าตั้งกริดทัศนมิติ
+	Perspective Grid Presets	ค่าตั้งกริดทัศนมิติ
+	Perspective Grid Presets…	ค่าตั้งกริดทัศนมิติ…
+	Perspective Grid Settings	การตั้งค่ากริดทัศนมิติ
+	Perspective Grid Tool	เครื่องมือกริดทัศนมิติ
+	Perspective Plane Options…	ตัวเลือกระนาบทัศนมิติ…
+	Perspective Selection Tool	เครื่องมือเลือกตามทัศนมิติ
+	Perspective grid presets	ค่าตั้งกริดทัศนมิติ
+	Photo Low Fidelity	ภาพถ่ายรายละเอียดต่ำ
+	Photocopy…	ถ่ายสำเนา…
+	Place onto a new locked, dimmed template layer below the current layer	วางบนเลเยอร์แม่แบบใหม่ที่ล็อกและแสดงจางไว้ใต้เลเยอร์ปัจจุบัน
+	Plaster	ปูนปลาสเตอร์
+	Plaster…	ปูนปลาสเตอร์…
+	Plates	แม่พิมพ์
+	Plug-ins & Scratch Disks	ปลั๊กอินและดิสก์พักข้อมูล
+	Points: clicks add free points	จุด: คลิกเพื่อเพิ่มจุดอิสระ
+	Polar Grid	กริดเชิงขั้ว
+	Polar Grid Tool	เครื่องมือกริดเชิงขั้ว
+	Polar Grid Tool Options	ตัวเลือกเครื่องมือกริดเชิงขั้ว
+	Power Saving (integrated)	ประหยัดพลังงาน (กราฟิกในตัว)
+	Precise Cursors	เคอร์เซอร์แบบแม่นยำ
+	Preserve Appearance	คงรูปลักษณ์
+	Press Quality	คุณภาพสำหรับโรงพิมพ์
+	Press and hold to view the source image	กดค้างเพื่อดูภาพต้นฉบับ
+	Print Layers:	เลเยอร์ที่พิมพ์:
+	Print Tiling	พิมพ์แบบแบ่งหน้า
+	Print Tiling Pages	หน้าสำหรับพิมพ์แบบแบ่งหน้า
+	Print Tiling Tool	เครื่องมือพิมพ์แบบแบ่งหน้า
+	Printer mark type:	ประเภทเครื่องหมายการพิมพ์:
+	Profile Cover 1500×500	ภาพปกโปรไฟล์ 1500×500
+	Projecting Cap	ปลายเส้นสี่เหลี่ยมยื่น
+	Public Domain	สาธารณสมบัติ
+	Pucker & Bloat	หดและพอง
+	Pucker & Bloat…	หดและพอง…
+	Pucker Tool	เครื่องมือหดรูปทรง
+	Punjabi	ปัญจาบ
+	Puppet Warp Pins	หมุดบิดรูปทรงแบบหุ่นเชิด
+	Puppet Warp Tool	เครื่องมือบิดรูปทรงแบบหุ่นเชิด
+	Quarter Space	ช่องว่างหนึ่งในสี่ em
+	Quick Actions	คำสั่งด่วน
+	RECENT	ล่าสุด
+	RECENT (1)	ล่าสุด (1)
+	Randomly change saturation and brightness	สุ่มเปลี่ยนความอิ่มสีและความสว่าง
+	Registration marks	เครื่องหมายจัดแนวพิมพ์
+	Regular expression not closed	นิพจน์ปกติยังปิดไม่ครบ
+	Release	แยกออก
+	Release Clipping Mask	ยกเลิกคลิปปิงมาสก์
+	Release Compound Path	แยกพาธผสม
+	Release Image Trace	ยกเลิกการแปลงภาพเป็นเวกเตอร์
+	Release Intertwine	ยกเลิกการสอดประสาน
+	Release Live Paint	ยกเลิกกลุ่มระบายสีไลฟ์
+	Release Opacity Mask	ยกเลิกมาสก์ความทึบ
+	Release Repeat	ยกเลิกการทำซ้ำ
+	Release Slice	ยกเลิกชิ้นภาพ
+	Release Text Wrap	ยกเลิกข้อความล้อมวัตถุ
+	Remove Effects	ลบเอฟเฟกต์
+	Remove Line Breaks	ลบตัวแบ่งบรรทัด
+	Remove Paragraph Breaks	ลบตัวแบ่งย่อหน้า
+	Rename Style	เปลี่ยนชื่อสไตล์
+	Render Threads (-1 = Automatic)	เธรดเรนเดอร์ (-1 = อัตโนมัติ)
+	Repeat Pathfinder	ทำพาธไฟน์เดอร์ซ้ำ
+	Replace Spine	แทนที่แกนกลาง
+	Report copied	คัดลอกรายงานแล้ว
+	Reset Essentials	คืนค่าพื้นที่ทำงานพื้นฐาน
+	Reset Essentials Classic	คืนค่าพื้นที่ทำงานพื้นฐานแบบคลาสสิก
+	Reset Tracing	คืนค่าการแปลงภาพเป็นเวกเตอร์
+	Reset Tracking and Kerning	คืนค่าระยะห่างตัวอักษรและระยะห่างคู่ตัวอักษร
+	Reshape Type Area	ปรับรูปทรงพื้นที่ข้อความ
+	Reshape Type Path	ปรับรูปทรงพาธข้อความ
+	Resize Slice	ปรับขนาดชิ้นภาพ
+	Resize Type Area	ปรับขนาดพื้นที่ข้อความ
+	Restore	คืนค่า
+	Reticulation	ลายร่างแห
+	Reticulation…	ลายร่างแห…
+	Retract Handles	หดแขนปรับโค้ง
+	Retract Handles…	หดแขนปรับโค้ง…
+	Revolve	หมุนสร้างรูปทรง
+	Right to Left	จากขวาไปซ้าย
+	Right-to-Left Paragraph Direction	ทิศทางย่อหน้าจากขวาไปซ้าย
+	Ring	วงแหวน
+	Rings	วงแหวน
+	Rise	ยกสูง
+	Roman	โรมัน
+	Roman Hanging Punctuation	เครื่องหมายวรรคตอนโรมันยื่นนอกขอบ
+	Rough Pastels…	สีพาสเทลแบบหยาบ…
+	Roughen	ทำให้หยาบ
+	Round Blunt	ปลายมนทู่
+	Round Corners	ทำมุมมน
+	Round Join	รอยต่อมน
+	Rounded Rectangle	สี่เหลี่ยมมุมมน
+	Rounded Rectangle…	สี่เหลี่ยมมุมมน…
+	Run Plug-in	เรียกใช้ปลั๊กอิน
+	Sample Color	ดูดสี
+	Sample Color from Screen	ดูดสีจากหน้าจอ
+	Sans Serif / Gothic	ไม่มีเชิง / โกธิก
+	Saturate…	เพิ่มความอิ่มสี…
+	Save As	บันทึกเป็น
+	Save Gradient Preset	บันทึกค่าตั้งไล่ระดับสี
+	Save Gradient Preset…	บันทึกค่าตั้งไล่ระดับสี…
+	Save Image Trace Preset	บันทึกค่าตั้งการแปลงภาพเป็นเวกเตอร์
+	Save Recovery Data	บันทึกข้อมูลกู้คืน
+	Save a Timestamped Copy	บันทึกสำเนาพร้อมวันเวลา
+	Save for Office Documents	บันทึกสำหรับเอกสาร Office
+	Save for Office Documents…	บันทึกสำหรับเอกสาร Office…
+	Saved Selection 1	ส่วนที่เลือกที่บันทึกไว้ 1
+	Saved Selection 10	ส่วนที่เลือกที่บันทึกไว้ 10
+	Saved Selection 11	ส่วนที่เลือกที่บันทึกไว้ 11
+	Saved Selection 12	ส่วนที่เลือกที่บันทึกไว้ 12
+	Saved Selection 13	ส่วนที่เลือกที่บันทึกไว้ 13
+	Saved Selection 14	ส่วนที่เลือกที่บันทึกไว้ 14
+	Saved Selection 15	ส่วนที่เลือกที่บันทึกไว้ 15
+	Saved Selection 16	ส่วนที่เลือกที่บันทึกไว้ 16
+	Saved Selection 17	ส่วนที่เลือกที่บันทึกไว้ 17
+	Saved Selection 18	ส่วนที่เลือกที่บันทึกไว้ 18
+	Saved Selection 19	ส่วนที่เลือกที่บันทึกไว้ 19
+	Saved Selection 2	ส่วนที่เลือกที่บันทึกไว้ 2
+	Saved Selection 20	ส่วนที่เลือกที่บันทึกไว้ 20
+	Saved Selection 21	ส่วนที่เลือกที่บันทึกไว้ 21
+	Saved Selection 22	ส่วนที่เลือกที่บันทึกไว้ 22
+	Saved Selection 23	ส่วนที่เลือกที่บันทึกไว้ 23
+	Saved Selection 24	ส่วนที่เลือกที่บันทึกไว้ 24
+	Saved Selection 25	ส่วนที่เลือกที่บันทึกไว้ 25
+	Saved Selection 3	ส่วนที่เลือกที่บันทึกไว้ 3
+	Saved Selection 4	ส่วนที่เลือกที่บันทึกไว้ 4
+	Saved Selection 5	ส่วนที่เลือกที่บันทึกไว้ 5
+	Saved Selection 6	ส่วนที่เลือกที่บันทึกไว้ 6
+	Saved Selection 7	ส่วนที่เลือกที่บันทึกไว้ 7
+	Saved Selection 8	ส่วนที่เลือกที่บันทึกไว้ 8
+	Saved Selection 9	ส่วนที่เลือกที่บันทึกไว้ 9
+	Saved Selections	ส่วนที่เลือกที่บันทึกไว้
+	Saved View 1	มุมมองที่บันทึกไว้ 1
+	Saved View 10	มุมมองที่บันทึกไว้ 10
+	Saved View 11	มุมมองที่บันทึกไว้ 11
+	Saved View 12	มุมมองที่บันทึกไว้ 12
+	Saved View 13	มุมมองที่บันทึกไว้ 13
+	Saved View 14	มุมมองที่บันทึกไว้ 14
+	Saved View 15	มุมมองที่บันทึกไว้ 15
+	Saved View 16	มุมมองที่บันทึกไว้ 16
+	Saved View 17	มุมมองที่บันทึกไว้ 17
+	Saved View 18	มุมมองที่บันทึกไว้ 18
+	Saved View 19	มุมมองที่บันทึกไว้ 19
+	Saved View 2	มุมมองที่บันทึกไว้ 2
+	Saved View 20	มุมมองที่บันทึกไว้ 20
+	Saved View 21	มุมมองที่บันทึกไว้ 21
+	Saved View 22	มุมมองที่บันทึกไว้ 22
+	Saved View 23	มุมมองที่บันทึกไว้ 23
+	Saved View 24	มุมมองที่บันทึกไว้ 24
+	Saved View 25	มุมมองที่บันทึกไว้ 25
+	Saved View 3	มุมมองที่บันทึกไว้ 3
+	Saved View 4	มุมมองที่บันทึกไว้ 4
+	Saved View 5	มุมมองที่บันทึกไว้ 5
+	Saved View 6	มุมมองที่บันทึกไว้ 6
+	Saved View 7	มุมมองที่บันทึกไว้ 7
+	Saved View 8	มุมมองที่บันทึกไว้ 8
+	Saved View 9	มุมมองที่บันทึกไว้ 9
+	Saved Views	มุมมองที่บันทึกไว้
+	Scale Artwork with Artboard	ปรับขนาดงานภาพพร้อมอาร์ตบอร์ด
+	Scale Cursor Proportional to UI	ปรับขนาดเคอร์เซอร์ตามสัดส่วนหน้าจอ
+	Scallop	ขอบหยักเว้า
+	Scallop Tool	เครื่องมือขอบหยักเว้า
+	Scissors	กรรไกร
+	Scissors Tool	เครื่องมือกรรไกร
+	Scribble	ขีดเขียน
+	Script / Brush	ลายมือ / พู่กัน
+	Select	เลือก
+	Select All Bound Objects	เลือกวัตถุที่ผูกไว้ทั้งหมด
+	Select Anchors	เลือกจุดยึด
+	Select Appearance Item	เลือกรายการรูปลักษณ์
+	Select Bound Object	เลือกวัตถุที่ผูกไว้
+	Select Gradient Stop	เลือกจุดสีไล่ระดับ
+	Select Unused	เลือกรายการที่ไม่ได้ใช้
+	Select an image to trace	เลือกภาพเพื่อแปลงเป็นเวกเตอร์
+	Separate several keywords with commas.	คั่นคำสำคัญด้วยเครื่องหมายจุลภาค
+	Separations	การแยกสี
+	Separations Preview	ดูตัวอย่างการแยกสี
+	Separations list the document's inks here: one page per ink that prints.	แสดงรายการหมึกพิมพ์ในเอกสารที่นี่ โดยแยกหนึ่งหน้าต่อหมึกแต่ละสีที่พิมพ์
+	Serialize Document	แปลงเอกสารเป็นข้อมูลสำหรับจัดเก็บ
+	Serif / Mincho	มีเชิง / มินโช
+	Set Preference	กำหนดการตั้งค่า
+	Set Size of Each…	กำหนดขนาดแต่ละชิ้น…
+	Set Slice Rectangle	กำหนดกรอบสี่เหลี่ยมของชิ้นภาพ
+	Shaft:	ก้าน:
+	Shape Builder	สร้างรูปทรง
+	Shape Builder Delete	ลบด้วยเครื่องมือสร้างรูปทรง
+	Shape Builder Regions	บริเวณสร้างรูปทรง
+	Shape Builder Tool	เครื่องมือสร้างรูปทรง
+	Shaper	ปรับรูปทรงอิสระ
+	Shaper Tool	เครื่องมือปรับรูปทรงอิสระ
+	Shell Lower	เปลือกหอยด้านล่าง
+	Shell Upper	เปลือกหอยด้านบน
+	Shift to Color	เลื่อนไปยังสี
+	Shifts the tints of global and spot colors; other colors stay.	ปรับระดับสีของสีส่วนกลางและสีพิเศษ โดยคงสีอื่นไว้
+	Show All Plates	แสดงแม่พิมพ์ทั้งหมด
+	Show Gradient Swatches	แสดงตัวอย่างสีไล่ระดับ
+	Show Presets	แสดงค่าตั้ง
+	Show Print Tiling	แสดงการพิมพ์แบบแบ่งหน้า
+	Show Text Threads	แสดงเส้นเชื่อมกรอบข้อความ
+	Show Vivid/Muted	แสดงสีสด/สีหม่น
+	Show Warm/Cool	แสดงสีโทนร้อน/โทนเย็น
+	Show all plates	แสดงแม่พิมพ์ทั้งหมด
+	Show and print from the Lab definition; PDF files carry it as the ink's alternate color.	แสดงและพิมพ์ตามค่าสี Lab โดยไฟล์ PDF จะเก็บค่านี้เป็นสีทดแทนของหมึก
+	Silhouettes	ภาพเงาทึบ
+	Simplified Chinese	จีนตัวย่อ
+	Simplify Anchors	ลดจำนวนจุดยึด
+	Simplify Anchors (Keep Shape)	ลดจำนวนจุดยึด (คงรูปทรง)
+	Simplify Anchors (Keep Shape)…	ลดจำนวนจุดยึด (คงรูปทรง)…
+	Simplify Anchors…	ลดจำนวนจุดยึด…
+	Single Left Quotation Mark	อัญประกาศเดี่ยวเปิด
+	Single Quotes:	อัญประกาศเดี่ยว:
+	Single Right Quotation Mark	อัญประกาศเดี่ยวปิด
+	Sixth Space	ช่องว่างหนึ่งในหก em
+	Size/Leading	ขนาด/ระยะบรรทัด
+	Size: {size}  Tracking: {tracking}	ขนาด: {size}  ระยะห่างตัวอักษร: {tracking}
+	Sketch	ภาพร่าง
+	Sketched Art	งานภาพร่าง
+	Slices	ชิ้นภาพ
+	Slide Anchor Along Path	เลื่อนจุดยึดตามพาธ
+	Small Caps	ตัวพิมพ์ใหญ่ขนาดเล็ก
+	Small Caps (on the roadmap)	ตัวพิมพ์ใหญ่ขนาดเล็ก (อยู่ในแผนพัฒนา)
+	Smart Pen Tool	เครื่องมือปากกาอัจฉริยะ
+	Smart Punctuation…	เครื่องหมายวรรคตอนอัจฉริยะ…
+	Smooth Anchors	ปรับจุดยึดให้เรียบ
+	Smooth Anchors…	ปรับจุดยึดให้เรียบ…
+	Smudge Stick…	แท่งป้ายสี…
+	Snap to Glyph	สแนปกับรูปอักษร
+	Snap to Perpendicular	สแนปกับแนวตั้งฉาก
+	Snap to Pixel	สแนปกับพิกเซล
+	Snap to Point	สแนปกับจุด
+	Snap to Tangent	สแนปกับแนวสัมผัส
+	Snap to Unit	สแนปกับหน่วย
+	Social	โซเชียล
+	Social Landscape Post 1200×630	โพสต์โซเชียลแนวนอน 1200×630
+	Social Portrait Post 1080×1350	โพสต์โซเชียลแนวตั้ง 1080×1350
+	Social Square Post 1080×1080	โพสต์โซเชียลจัตุรัส 1080×1080
+	Social Story 1080×1920	สตอรีโซเชียล 1080×1920
+	Social Tall Post 1000×1500	โพสต์โซเชียลทรงสูง 1000×1500
+	Source Sans 3	Source Sans 3
+	Sparkle	ประกาย
+	Spatter	สีสาด
+	Speckle	จุดกระ
+	Speech Bubble	กรอบคำพูด
+	Spike	ปลายแหลม
+	Spiral	เกลียว
+	Spiral Tool	เครื่องมือเกลียว
+	Split Complementary	สีคู่ตรงข้ามแบบแยก
+	Split Freeform Line	แบ่งเส้นไล่ระดับสีอิสระ
+	Split at Anchors	แยกที่จุดยึด
+	Split at Anchors…	แยกที่จุดยึด…
+	Sponge…	ฟองน้ำ…
+	Squeeze	บีบ
+	Stamp…	ตราประทับ…
+	Standard Vertical Roman Alignment	การจัดแนวอักษรโรมันแนวตั้งมาตรฐาน
+	Start arrowhead	หัวลูกศรต้นเส้น
+	Stippled	ลายจุด
+	Stray Points	จุดโดด
+	String not closed	สตริงยังปิดไม่ครบ
+	Stroke	เส้นขอบ
+	Stroke Color	สีเส้นขอบ
+	Stroke Direction	ทิศทางเส้นขอบ
+	Stroke Options	ตัวเลือกเส้นขอบ
+	Stroke Pressure	แรงกดเส้นขอบ
+	Stroke Weight	ความหนาเส้นขอบ
+	Stroke Width	ความกว้างเส้นขอบ
+	Stroke:	เส้นขอบ:
+	Strokes	เส้นขอบ
+	Swap Fill and Stroke	สลับสีเติมกับเส้นขอบ
+	Swap Fill and Stroke (Shift+X)	สลับสีเติมกับเส้นขอบ (Shift+X)
+	Tablet 1024×1366	แท็บเล็ต 1024×1366
+	Tablet 1024×768	แท็บเล็ต 1024×768
+	Tablet 768×1024	แท็บเล็ต 768×1024
+	Tablet 800×1280	แท็บเล็ต 800×1280
+	Tablet 820×1180	แท็บเล็ต 820×1180
+	Tablet 834×1194	แท็บเล็ต 834×1194
+	Tamil	ทมิฬ
+	Taper	เรียว
+	Telugu	เตลูกู
+	Template literal not closed	เทมเพลตลิเทอรัลยังปิดไม่ครบ
+	Text Wrap	ข้อความล้อมวัตถุ
+	Text Wrap Options	ตัวเลือกข้อความล้อมวัตถุ
+	Text Wrap Options…	ตัวเลือกข้อความล้อมวัตถุ…
+	The Print Tiling tool placed the pages.	เครื่องมือพิมพ์แบบแบ่งหน้าได้จัดวางหน้าไว้แล้ว
+	The cell shows the type object's text as HTML.	เซลล์แสดงข้อความจากวัตถุข้อความในรูปแบบ HTML
+	The key color becomes the stroke color. The other colors shift their hue by the same amount and keep their saturation and brightness.	สีหลักจะเปลี่ยนเป็นสีเส้นขอบ สีอื่นจะเลื่อนเฉดสีเท่ากัน โดยคงความอิ่มสีและความสว่างไว้
+	The name in the save panel was “{typed}”; VectorCraft added the file type's extension. Replacing the file overwrites its contents.	ชื่อในหน้าต่างบันทึกคือ “{typed}” โดย VectorCraft เพิ่มนามสกุลตามประเภทไฟล์ การแทนที่ไฟล์จะเขียนทับเนื้อหาเดิม
+	Thin Space	ช่องว่างแคบ
+	Third Space	ช่องว่างหนึ่งในสาม em
+	Third Vanishing Point:	จุดรวมสายตาที่สาม:
+	This panel is on the roadmap (see the parity plan).	แผงนี้อยู่ในแผนพัฒนา (ดูแผนความเทียบเท่าของคุณสมบัติ)
+	Thread Text	เชื่อมกรอบข้อความ
+	Threaded Text	ข้อความในกรอบที่เชื่อมกัน
+	Threads	เธรด
+	Three Point Perspective	ทัศนมิติแบบสามจุด
+	Three Point Perspective Preset 1	ค่าตั้งทัศนมิติแบบสามจุด 1
+	Three Point Perspective Preset 2	ค่าตั้งทัศนมิติแบบสามจุด 2
+	Three Point Perspective Preset 3	ค่าตั้งทัศนมิติแบบสามจุด 3
+	Three Point Perspective Preset 4	ค่าตั้งทัศนมิติแบบสามจุด 4
+	Three Point Perspective Preset 5	ค่าตั้งทัศนมิติแบบสามจุด 5
+	Title Case	ตัวพิมพ์ใหญ่ต้นคำ
+	Toggle Line Composer	สลับระบบจัดบรรทัด
+	Top-to-Top Leading	ระยะบรรทัดจากด้านบนถึงด้านบน
+	Torn Edges…	ขอบฉีก…
+	Touch Type	ปรับตัวอักษรโดยตรง
+	Touch Type Tool	เครื่องมือปรับตัวอักษรโดยตรง
+	Trace	แปลงภาพเป็นเวกเตอร์
+	Trace the image with the Default preset	แปลงภาพเป็นเวกเตอร์ด้วยค่าตั้งเริ่มต้น
+	Tracing	การแปลงภาพเป็นเวกเตอร์
+	Tracing Presets	ค่าตั้งการแปลงภาพเป็นเวกเตอร์
+	Tracing Result	ผลการแปลงภาพเป็นเวกเตอร์
+	Tracing Result with Outlines	ผลการแปลงภาพพร้อมเส้นเค้าโครง
+	Tracing the colors…	กำลังแปลงสีเป็นเวกเตอร์…
+	Tracking	ระยะห่างตัวอักษร
+	Trackpad Gesture to Rotate View	ใช้ท่าทางบนแทร็กแพดเพื่อหมุนมุมมอง
+	Trademark Symbol	สัญลักษณ์เครื่องหมายการค้า
+	Transparency is flattened with the preset. Type is written as outlines; gradients as bands of colour.	รวมความโปร่งใสตามค่าตั้ง โดยแปลงข้อความเป็นเส้นเค้าโครง และไล่ระดับสีเป็นแถบสี
+	Transparency is flattened with the preset. Type is written as outlines; gradients stay smooth.	รวมความโปร่งใสตามค่าตั้ง โดยแปลงข้อความเป็นเส้นเค้าโครง และคงการไล่ระดับสีที่เรียบเนียน
+	Transverse (the page a quarter turn on the paper)	ตามขวาง (หมุนหน้าหนึ่งในสี่รอบบนกระดาษ)
+	Tweak	ปรับแต่ง
+	Two Point Perspective	ทัศนมิติแบบสองจุด
+	Two Point Perspective Preset 1	ค่าตั้งทัศนมิติแบบสองจุด 1
+	Two Point Perspective Preset 2	ค่าตั้งทัศนมิติแบบสองจุด 2
+	Two Point Perspective Preset 3	ค่าตั้งทัศนมิติแบบสองจุด 3
+	Two Point Perspective Preset 4	ค่าตั้งทัศนมิติแบบสองจุด 4
+	Two Point Perspective Preset 5	ค่าตั้งทัศนมิติแบบสองจุด 5
+	Type	ตัวอักษร
+	Type Object Selection by Path Only	เลือกวัตถุข้อความผ่านพาธเท่านั้น
+	Type Optimized	ปรับให้เหมาะกับข้อความ
+	Type Orientation	แนวข้อความ
+	Type Tools	เครื่องมือข้อความ
+	Type becomes outlines, and strokes a CAD line can't draw become filled shapes.	ข้อความจะถูกแปลงเป็นเส้นเค้าโครง และเส้นขอบที่เส้น CAD วาดไม่ได้จะกลายเป็นรูปทรงเติมสี
+	Type stays text, and every stroke is a line with its lineweight and dashes.	ข้อความยังคงแก้ไขได้ และเส้นขอบทุกเส้นจะเก็บความหนาและรูปแบบเส้นประไว้
+	Unlink Opacity Mask	ยกเลิกการเชื่อมโยงมาสก์ความทึบ
+	Unlink harmony colors	ยกเลิกการเชื่อมโยงสีในชุดสีสัมพันธ์
+	Unlink the mask	ยกเลิกการเชื่อมโยงมาสก์
+	Unprintable margin:	ขอบที่พิมพ์ไม่ได้:
+	Use Low Resolution Proxy for Linked EPS	ใช้ภาพตัวแทนความละเอียดต่ำสำหรับ EPS ที่เชื่อมโยง
+	Use Precise Cursors	ใช้เคอร์เซอร์แบบแม่นยำ
+	Use Typographer's Quotes	ใช้อัญประกาศแบบตัวพิมพ์
+	User Brush Library 1	คลังแปรงของผู้ใช้ 1
+	User Brush Library 10	คลังแปรงของผู้ใช้ 10
+	User Brush Library 2	คลังแปรงของผู้ใช้ 2
+	User Brush Library 3	คลังแปรงของผู้ใช้ 3
+	User Brush Library 4	คลังแปรงของผู้ใช้ 4
+	User Brush Library 5	คลังแปรงของผู้ใช้ 5
+	User Brush Library 6	คลังแปรงของผู้ใช้ 6
+	User Brush Library 7	คลังแปรงของผู้ใช้ 7
+	User Brush Library 8	คลังแปรงของผู้ใช้ 8
+	User Brush Library 9	คลังแปรงของผู้ใช้ 9
+	User Interface	ส่วนติดต่อผู้ใช้
+	Vector illustration — fast, open, scriptable.	วาดภาพเวกเตอร์ — รวดเร็ว โอเพนซอร์ส และควบคุมด้วยสคริปต์ได้
+	VectorCraft Generic CMYK (SWOP-like)	VectorCraft CMYK ทั่วไป (คล้าย SWOP)
+	VectorCraft documents: one locked object, updated when the file changes.	เอกสาร VectorCraft: วัตถุที่ล็อกไว้หนึ่งชิ้น ซึ่งอัปเดตเมื่อไฟล์เปลี่ยนแปลง
+	VectorCraft read this script without running it.	VectorCraft อ่านสคริปต์นี้โดยไม่ได้เรียกใช้
+	VectorCraft {release} and later (version {n})	VectorCraft {release} ขึ้นไป (รุ่น {n})
+	Version {version} — open-source vector illustration in pure Rust.	รุ่น {version} — โปรแกรมวาดภาพเวกเตอร์โอเพนซอร์สที่เขียนด้วย Rust ทั้งหมด
+	Vertical Area Type	ข้อความในพื้นที่แนวตั้ง
+	Vertical Area Type Tool	เครื่องมือข้อความในพื้นที่แนวตั้ง
+	Vertical Type	ข้อความแนวตั้ง
+	Vertical Type on a Path	ข้อความแนวตั้งบนพาธ
+	Vertical Type on a Path Tool	เครื่องมือข้อความแนวตั้งบนพาธ
+	View	มุมมอง
+	Watch 184×224	นาฬิกา 184×224
+	Watch 198×242	นาฬิกา 198×242
+	Web Shift	เปลี่ยนเป็นสีเว็บ
+	Web Snap:	ปรับเข้าชุดสีเว็บ:
+	Window	หน้าต่าง
+	Working CMYK (don't tag)	CMYK ที่ใช้งาน (ไม่แนบโปรไฟล์)
+	Wrinkle	ย่น
+	Wrinkle Tool	เครื่องมือย่น
+	Zig Zag	ซิกแซก
+	{n} objects selected	เลือกวัตถุ {n} ชิ้น
+	{pages} in all, {count} per copy	รวม {pages} หน้า สำเนาละ {count} หน้า
+	{page} of {count}	{page} จาก {count}
+	{people} contributors · {commits} commits	ผู้ร่วมพัฒนา {people} คน · {commits} คอมมิต
+	{percent}% opacity	ความทึบ {percent}%
+	{ready} of {total} ready	พร้อม {ready} จาก {total}
+	{secs} sec	{secs} วินาที
+	{shortcut} with the tool sizes the brush	ใช้ {shortcut} ร่วมกับเครื่องมือเพื่อปรับขนาดแปรง
+	{title} (selection)	{title} (ส่วนที่เลือก)
+	{tool} Options	ตัวเลือก {tool}
+	{tool} Tool Options	ตัวเลือกเครื่องมือ {tool}
+	{warning}: click to correct to the closest color ({hex})	{warning}: คลิกเพื่อแก้เป็นสีที่ใกล้ที่สุด ({hex})
+	“{file}” is protected by a password.	“{file}” ป้องกันด้วยรหัสผ่าน
+	▾ Default Actions	▾ แอ็กชันเริ่มต้น
+	⚠ {chord} was already used by {names} — it has been removed there.	⚠ {chord} ถูกใช้โดย {names} อยู่แล้ว จึงนำปุ่มลัดออกจากคำสั่งเดิม
+3d	Bevel	ลบมุม
+@id	file.close	ปิด
+@id	pathfinder.add	รวมรูปทรง
+@msg	An object takes one 3D effect. Edit the existing effect's options, or remove it first.	วัตถุหนึ่งชิ้นใช้เอฟเฟกต์ 3D ได้หนึ่งรายการ ให้แก้ตัวเลือกของเอฟเฟกต์เดิมหรือลบออกก่อน
+@msg	Batch: {count} processed	ประมวลผลเป็นชุด: เสร็จแล้ว {count} รายการ
+@msg	Batch: {count} processed, {failed} failed	ประมวลผลเป็นชุด: เสร็จแล้ว {count} รายการ ล้มเหลว {failed} รายการ
+@msg	CSV holds NUL bytes: save it as UTF-8, or as UTF-16 with a byte-order mark	CSV มีไบต์ NUL: บันทึกเป็น UTF-8 หรือ UTF-16 พร้อมเครื่องหมายลำดับไบต์
+@msg	Choose a circle or a perfect arc	เลือกวงกลมหรือส่วนโค้งวงกลมที่สมบูรณ์
+@msg	Click in type with a Type tool to split it	คลิกในข้อความด้วยเครื่องมือข้อความเพื่อแบ่งข้อความ
+@msg	Create Outlines: select text objects	สร้างเส้นเค้าโครง: เลือกวัตถุข้อความ
+@msg	First measured segment no longer exists	ส่วนของเส้นที่วัดชิ้นแรกไม่มีอยู่แล้ว
+@msg	Flare click coordinates must be finite numbers	พิกัดคลิกของแสงแฟลร์ต้องเป็นจำนวนจำกัด
+@msg	HTML Text applies to object slices of type only	ข้อความ HTML ใช้ได้เฉพาะชิ้นภาพจากวัตถุข้อความ
+@msg	Identify Objects By is XML ID: the name must be a valid XML ID (start with a letter, underscore or colon; no spaces)	ระบุวัตถุด้วย XML ID: ชื่อต้องเป็น XML ID ที่ถูกต้อง (เริ่มด้วยตัวอักษร ขีดล่าง หรือทวิภาค และไม่มีช่องว่าง)
+@msg	Image Trace failed: internal error: its thread stopped (please report this bug)	แปลงภาพเป็นเวกเตอร์ล้มเหลว: ข้อผิดพลาดภายใน เธรดหยุดทำงาน (โปรดรายงานข้อบกพร่องนี้)
+@msg	Image Trace failed: {e}	แปลงภาพเป็นเวกเตอร์ล้มเหลว: {e}
+@msg	Image Trace finished, but its document was closed	แปลงภาพเป็นเวกเตอร์เสร็จแล้ว แต่เอกสารถูกปิด
+@msg	Image Trace finished, but the image or its settings changed meanwhile: trace it again	แปลงภาพเป็นเวกเตอร์เสร็จแล้ว แต่ภาพหรือการตั้งค่าเปลี่ยนระหว่างทำงาน: โปรดแปลงใหม่
+@msg	Image Trace: the traced image is missing	แปลงภาพเป็นเวกเตอร์: ไม่พบภาพต้นทาง
+@msg	Live Paint takes paths and compound paths: convert type, images and other objects to paths first	ระบายสีไลฟ์ใช้พาธและพาธผสม ให้แปลงข้อความ ภาพ และวัตถุอื่นเป็นพาธก่อน
+@msg	Live Paint: these paths are too degenerate to paint	ระบายสีไลฟ์: รูปทรงพาธเหล่านี้ผิดรูปจนไม่สามารถระบายสีได้
+@msg	Lock Workspace is not available in VectorCraft	VectorCraft ยังไม่รองรับการล็อกพื้นที่ทำงาน
+@msg	Measured anchor no longer exists	จุดยึดที่วัดไม่มีอยู่แล้ว
+@msg	Measured segment no longer exists	ส่วนของเส้นที่วัดไม่มีอยู่แล้ว
+@msg	No line breaks to remove	ไม่มีตัวแบ่งบรรทัดให้ลบ
+@msg	No paragraph breaks to remove	ไม่มีตัวแบ่งย่อหน้าให้ลบ
+@msg	No saved views (View → New View…)	ไม่มีมุมมองที่บันทึกไว้ (มุมมอง → มุมมองใหม่…)
+@msg	Non-finite dimension	ค่ามิติไม่ใช่จำนวนจำกัด
+@msg	PDF writer error: {0}	ข้อผิดพลาดในการเขียน PDF: {0}
+@msg	Packaging {_1}	กำลังรวบรวมแพ็กเกจ {_1}
+@msg	Replace Spine: select a blend and a path	แทนที่แกนกลาง: เลือกวัตถุผสมและพาธ
+@msg	Save writes one artboard: name one, or export several with document.export	การบันทึกเขียนได้หนึ่งอาร์ตบอร์ด: ระบุอาร์ตบอร์ดหนึ่งชิ้น หรือส่งออกหลายชิ้นด้วย document.export
+@msg	Saved {path} with {_1} note(s): {first}	บันทึก {path} พร้อมหมายเหตุ {_1} รายการ: {first}
+@msg	Scale Text Attributes: selected type has no scale to bake	ปรับขนาดคุณลักษณะข้อความ: ข้อความที่เลือกไม่มีมาตราส่วนให้รวมเข้ากับคุณลักษณะ
+@msg	Second measured segment no longer exists	ส่วนของเส้นที่วัดชิ้นที่สองไม่มีอยู่แล้ว
+@msg	Select horizontal point or area type whose text fits	เลือกข้อความแนวนอนแบบจุดหรือแบบพื้นที่ที่ข้อความไม่ล้นกรอบ
+@msg	Select point type	เลือกข้อความแบบจุด
+@msg	Select text or click into text with the Type tool to insert glyphs	เลือกข้อความหรือคลิกในข้อความด้วยเครื่องมือข้อความเพื่อแทรกรูปอักษร
+@msg	Select two or more one-line point type objects on one baseline to combine	เลือกวัตถุข้อความแบบจุดหนึ่งบรรทัดอย่างน้อยสองชิ้นบนเส้นฐานเดียวกันเพื่อรวม
+@msg	Select two or more one-line point type objects to join	เลือกวัตถุข้อความแบบจุดหนึ่งบรรทัดอย่างน้อยสองชิ้นเพื่อเชื่อม
+@msg	Text Wrap: select a wrap object	ข้อความล้อมวัตถุ: เลือกวัตถุสำหรับให้ข้อความล้อม
+@msg	The point type has no transform to reset	ข้อความแบบจุดไม่มีการแปลงให้คืนค่า
+@msg	The point type is aligned that way already	ข้อความแบบจุดจัดแนวแบบนั้นอยู่แล้ว
+@msg	This shortcut file is in a form VectorCraft can't read.	ไฟล์ปุ่มลัดนี้อยู่ในรูปแบบที่ VectorCraft อ่านไม่ได้
+@msg	Too many type objects to change at once	มีวัตถุข้อความมากเกินไปที่จะเปลี่ยนพร้อมกัน
+@msg	Trap: no edges of different colours meet among the selected objects	ขยายขอบสีเพื่อการพิมพ์: วัตถุที่เลือกไม่มีขอบสีต่างกันสัมผัสกัน
+@msg	Trap: select two or more objects filled with solid colours	ขยายขอบสีเพื่อการพิมพ์: เลือกวัตถุที่เติมสีทึบอย่างน้อยสองชิ้น
+@msg	`align` must be "left", "center" or "right", not {other}	`align` ต้องเป็น "left", "center" หรือ "right" ไม่ใช่ {other}
+@msg	`artboards`: all or a range such as 1, 3-5, not {v}	`artboards`: ใช้ all หรือช่วง เช่น 1, 3-5 ไม่ใช่ {v}
+@msg	`by` must be lines, paragraphs, words or glyphs, not {other}	`by` ต้องเป็น lines, paragraphs, words หรือ glyphs ไม่ใช่ {other}
+@msg	`clear` must be a list of type object ids, not {v}	`clear` ต้องเป็นรายการรหัสวัตถุข้อความ ไม่ใช่ {v}
+@msg	`clear` must list type objects; {_1} is not one	`clear` ต้องระบุวัตถุข้อความ แต่ {_1} ไม่ใช่วัตถุข้อความ
+@msg	`columnType` is vertical, uniform, repeating or sliding	`columnType` ต้องเป็น vertical, uniform, repeating หรือ sliding
+@msg	`documentData` is {size} bytes (limit {MAX_DOCUMENT_DATA})	`documentData` มีขนาด {size} ไบต์ (ขีดจำกัด {MAX_DOCUMENT_DATA})
+@msg	`from` must be area type or type on a path	`from` ต้องเป็นข้อความแบบพื้นที่หรือข้อความบนพาธ
+@msg	`glyphAlternate` belongs to one character, not to a character style (text.setGlyphAlternate sets it)	`glyphAlternate` ใช้กับตัวอักษรหนึ่งตัว ไม่ใช่สไตล์ตัวอักษร (กำหนดด้วย text.setGlyphAlternate)
+@msg	`hAlign` must be default, left, center or right	`hAlign` ต้องเป็น default, left, center หรือ right
+@msg	`kind` must be one of: rectangle, ellipse, polygon, star, ring, arrow, cross, heart, gear, bubble	`kind` ต้องเป็นหนึ่งในค่าเหล่านี้: rectangle, ellipse, polygon, star, ring, arrow, cross, heart, gear, bubble
+@msg	`minAnchors` and `maxAnchors` must be whole numbers	`minAnchors` และ `maxAnchors` ต้องเป็นจำนวนเต็ม
+@msg	`mode` applies to freeform gradients	`mode` ใช้กับการไล่ระดับสีอิสระ
+@msg	`position` is above or below	`position` ต้องเป็น above หรือ below
+@msg	`radius` must be from 0 to 1000000 pt	`radius` ต้องอยู่ระหว่าง 0 ถึง 1000000 pt
+@msg	`rect` must be [x, y, width, height] with a positive size	`rect` ต้องเป็น [x, y, width, height] โดยมีขนาดเป็นบวก
+@msg	`shift` must be a number of points	`shift` ต้องเป็นตัวเลขในหน่วยพอยต์
+@msg	`stop` must be a stop index	`stop` ต้องเป็นดัชนีจุดสีไล่ระดับ
+@msg	`subpaths` must be two integer indices	`subpaths` ต้องเป็นดัชนีจำนวนเต็มสองค่า
+@msg	`tint` applies to global and spot colours	`tint` ใช้กับสีส่วนกลางและสีพิเศษ
+@msg	`tint` goes with a global or spot `swatch`	`tint` ใช้ร่วมกับ `swatch` ชนิดสีส่วนกลางหรือสีพิเศษ
+@msg	`tint` needs a global or spot colour	`tint` ต้องใช้สีส่วนกลางหรือสีพิเศษ
+@msg	`to` must be a closed path, area type or type on a path other than `from`	`to` ต้องเป็นพาธปิด ข้อความแบบพื้นที่ หรือข้อความบนพาธที่ต่างจาก `from`
+@msg	`{_1}` can't be edited or removed	แก้ไขหรือนำ `{_1}` ออกไม่ได้
+@msg	`{_1}` is a live effect: apply it with effect.apply {{"effect"}"}}	`{_1}` เป็นเอฟเฟกต์แบบสด: ใช้ด้วย effect.apply {{"effect"}"}}
+@msg	`{_1}` is a {_2}, not an exporter	`{_1}` เป็น {_2} ไม่ใช่ตัวส่งออก
+@msg	`{_1}` is an exporter: export with document.export {{"format"}"}}	`{_1}` เป็นตัวส่งออก: ส่งออกด้วย document.export {{"format"}"}}
+@msg	`{_1}` is built in and always listed	`{_1}` มีมาในตัวและแสดงในรายการเสมอ
+@msg	`{_1}` is not a font file the last text.findFontFiles search found	`{_1}` ไม่ใช่ไฟล์ฟอนต์ที่พบจากการค้นหา text.findFontFiles ครั้งล่าสุด
+@msg	`{_1}` would be overwritten by the package: choose a different folder or name	แพ็กเกจจะเขียนทับ `{_1}`: โปรดเลือกโฟลเดอร์หรือชื่ออื่น
+@msg	`{color}` is not a colour (#rrggbb or a preset name)	`{color}` ไม่ใช่ค่าสี (#rrggbb หรือชื่อค่าตั้ง)
+@msg	`{file}` has no art to place	`{file}` ไม่มีงานภาพให้นำมาวาง
+@msg	`{file}` is over {_1} MB	`{file}` มีขนาดเกิน {_1} MB
+@msg	`{file}` isn't a VectorCraft document, a PDF or a PDF-compatible .ai file	`{file}` ไม่ใช่เอกสาร VectorCraft, PDF หรือ .ai ที่เข้ากันได้กับ PDF
+@msg	`{given}` isn't a library panel (see window.swatchLibrary)	`{given}` ไม่ใช่แผงคลัง (ดู window.swatchLibrary)
+@msg	`{id}` isn't a loaded library	`{id}` ไม่ใช่คลังที่โหลดอยู่
+@msg	`{name}` is a working space: choose another with edit.colorSettings first	`{name}` เป็นปริภูมิสีที่ใช้งานอยู่: เลือกปริภูมิสีอื่นด้วย edit.colorSettings ก่อน
+@msg	`{name}`: Minimum must not exceed Desired, nor Desired Maximum	`{name}`: ค่าต่ำสุดต้องไม่เกินค่าที่ต้องการ และค่าที่ต้องการต้องไม่เกินค่าสูงสุด
+@msg	`{n}` isn't a solid colour	`{n}` ไม่ใช่สีทึบ
+@msg	`{n}`: colour groups hold solid colours only	`{n}`: กลุ่มสีเก็บได้เฉพาะสีทึบ
+@msg	`{other}` doesn't trace an image	`{other}` ไม่ใช่คำสั่งแปลงภาพเป็นเวกเตอร์
+@msg	`{tag}` is not an axis tag: a tag is four characters, such as "wght"	`{tag}` ไม่ใช่แท็กแกน: แท็กต้องมีสี่อักขระ เช่น "wght"
+@msg	a DXF drawing has one origin: pass useArtboards: true for one drawing per artboard	ภาพวาด DXF มีจุดกำเนิดเดียว: กำหนด useArtboards: true เพื่อสร้างหนึ่งภาพวาดต่ออาร์ตบอร์ด
+@msg	a PostScript error ({name} in `{op}`)	ข้อผิดพลาดของ PostScript ({name} ใน `{op}`)
+@msg	a PostScript error ({name} in `{op}`), in {procs}	ข้อผิดพลาดของ PostScript ({name} ใน `{op}`) ใน {procs}
+@msg	a PostScript error ({name} in `{op}`: {at})	ข้อผิดพลาดของ PostScript ({name} ใน `{op}`: {at})
+@msg	a PostScript error ({name} in `{op}`: {at}), in {procs}	ข้อผิดพลาดของ PostScript ({name} ใน `{op}`: {at}) ใน {procs}
+@msg	a PostScript error ({name} in `{op}`: {at}; {meaning})	ข้อผิดพลาดของ PostScript ({name} ใน `{op}`: {at}; {meaning})
+@msg	a PostScript error ({name} in `{op}`: {at}; {meaning}), in {procs}	ข้อผิดพลาดของ PostScript ({name} ใน `{op}`: {at}; {meaning}) ใน {procs}
+@msg	a PostScript error ({name} in `{op}`; {meaning})	ข้อผิดพลาดของ PostScript ({name} ใน `{op}`; {meaning})
+@msg	a PostScript error ({name} in `{op}`; {meaning}), in {procs}	ข้อผิดพลาดของ PostScript ({name} ใน `{op}`; {meaning}) ใน {procs}
+@msg	a freeform gradient keeps at least one point	การไล่ระดับสีอิสระต้องมีจุดอย่างน้อยหนึ่งจุด
+@msg	a gradient needs at least two stops	การไล่ระดับสีต้องมีจุดสีอย่างน้อยสองจุด
+@msg	a live effect runs while the document is drawn, so it can't be `heavy`	เอฟเฟกต์แบบสดทำงานขณะวาดเอกสาร จึงกำหนดเป็น `heavy` ไม่ได้
+@msg	a name names one asset: give multiple: false, or one object	หนึ่งชื่อระบุได้หนึ่งแอสเซ็ต: กำหนด multiple: false หรือระบุวัตถุหนึ่งชิ้น
+@msg	a page's placement is not finite	ตำแหน่งของหน้าไม่ใช่ค่าจำนวนจำกัด
+@msg	a theme is already called {name} (replace: "{name}" overwrites it)	มีธีมชื่อ {name} อยู่แล้ว (replace: "{name}" จะเขียนทับธีมนั้น)
+@msg	a view named `{_1}` exists	มีมุมมองชื่อ `{_1}` แล้ว
+@msg	a view named `{name}` exists	มีมุมมองชื่อ `{name}` แล้ว
+@msg	aiVersion 7 writes legacy .ai files, not .ait templates	aiVersion 7 เขียนไฟล์ .ai แบบเก่า ไม่ใช่แม่แบบ .ait
+@msg	already editing another object's opacity mask	กำลังแก้ไขมาสก์ความทึบของวัตถุอื่นอยู่
+@msg	an image VectorCraft can't read was left out	ละภาพที่ VectorCraft อ่านไม่ได้ไว้
+@msg	an index must be a whole number	ดัชนีต้องเป็นจำนวนเต็ม
+@msg	an inline graphic has no glyphs	กราฟิกแทรกในบรรทัดไม่มีรูปอักษร
+@msg	angle and roundness must be finite	มุมและความกลมต้องเป็นจำนวนจำกัด
+@msg	antiAlias `{id}`: none, art or type	antiAlias `{id}`: ใช้ none, art หรือ type
+@msg	area type in frames too short for a line of the font it shows in got taller frames ({_1}): their type wouldn't show otherwise	เพิ่มความสูงให้กรอบข้อความแบบพื้นที่ที่เตี้ยเกินกว่าหนึ่งบรรทัดของฟอนต์ที่ใช้ ({_1}) มิฉะนั้นข้อความจะไม่ปรากฏ
+@msg	area type needs a path that encloses an area	ข้อความแบบพื้นที่ต้องใช้พาธที่ล้อมพื้นที่
+@msg	area type {_1} is named twice	ระบุข้อความแบบพื้นที่ {_1} ซ้ำ
+@msg	automation path rejected: parent traversal below a folder that doesn't exist: {path}	ปฏิเสธพาธอัตโนมัติ: มีการย้อนขึ้นโฟลเดอร์แม่จากโฟลเดอร์ที่ไม่มีอยู่: {path}
+@msg	automation path rejected: reserved device names are not allowed: {path}	ปฏิเสธพาธอัตโนมัติ: ไม่อนุญาตชื่ออุปกรณ์ที่สงวนไว้: {path}
+@msg	axis must be "vertical", "horizontal" or an angle in degrees, not `{given}`	axis ต้องเป็น "vertical", "horizontal" หรือมุมเป็นองศา ไม่ใช่ `{given}`
+@msg	axis must be "vertical", "horizontal" or an angle in degrees, not `{v}`	axis ต้องเป็น "vertical", "horizontal" หรือมุมเป็นองศา ไม่ใช่ `{v}`
+@msg	background {other}: transparent, white, black or a colour such as "#ff8800"	background {other}: ใช้ transparent, white, black หรือค่าสี เช่น "#ff8800"
+@msg	backgroundContents must be transparent or white	backgroundContents ต้องเป็น transparent หรือ white
+@msg	bad model {other} (keep, new or document)	model {other} ไม่ถูกต้อง (ใช้ keep, new หรือ document)
+@msg	bad trailer	ส่วนท้ายข้อมูลไม่ถูกต้อง
+@msg	bad trailer size	ขนาดส่วนท้ายข้อมูลไม่ถูกต้อง
+@msg	bleed must be 0–{MAX_BLEED} pt: a number, [top, bottom, left, right] or {{top, bottom, left, right}}	bleed ต้องอยู่ในช่วง 0–{MAX_BLEED} pt: ระบุเป็นตัวเลข, [top, bottom, left, right] หรือ {{top, bottom, left, right}}
+@msg	brushes VectorCraft can't read yet were left out of the Brushes panel ({_1})	ละแปรงที่ VectorCraft ยังอ่านไม่ได้ออกจากแผงแปรง ({_1})
+@msg	can't write .{e} images: use .png, .jpg, .gif, .webp, .tif or .bmp	เขียนภาพ .{e} ไม่ได้: ใช้ .png, .jpg, .gif, .webp, .tif หรือ .bmp
+@msg	case must be upper|lower|title|sentence	case ต้องเป็น upper|lower|title|sentence
+@msg	check a layer to export	ทำเครื่องหมายเลือกเลเยอร์ที่จะส่งออก
+@msg	check an artboard to export	ทำเครื่องหมายเลือกอาร์ตบอร์ดที่จะส่งออก
+@msg	check an asset to export	ทำเครื่องหมายเลือกแอสเซ็ตที่จะส่งออก
+@msg	choice must be "merge" or "add", not `{choice}`	choice ต้องเป็น "merge" หรือ "add" ไม่ใช่ `{choice}`
+@msg	closing needs three anchors	การปิดพาธต้องมีจุดยึดสามจุด
+@msg	column must be true or a number from 1	column ต้องเป็น true หรือจำนวนตั้งแต่ 1 ขึ้นไป
+@msg	column {column}: `{cell}` names no variable	คอลัมน์ {column}: `{cell}` ไม่ตรงกับชื่อตัวแปรใด
+@msg	column: true floats the whole column and takes no onto, above or below	column: true ทำให้ทั้งคอลัมน์ลอย และไม่รับ onto, above หรือ below
+@msg	command must be a shape.* command	command ต้องเป็นคำสั่ง shape.*
+@msg	commands[{i}]: missing `command`	commands[{i}]: ขาด `command`
+@msg	compound shapes take paths, compound paths, groups, compound shapes, type, blends and envelopes	รูปทรงผสมรับพาธ พาธผสม กลุ่ม รูปทรงผสม ข้อความ วัตถุผสม และกรอบบิดรูปทรง
+@msg	counterPer `{c}`: item or file	counterPer `{c}`: ใช้ item หรือ file
+@msg	crop `{_1}`: only PDF pages have art, trim, bleed and media boxes; use "crop" or "bounding"	crop `{_1}`: เฉพาะหน้า PDF ที่มีกรอบ art, trim, bleed และ media ให้ใช้ "crop" หรือ "bounding"
+@msg	data key `{k}`: letters, digits, -, _ and . (not name or vc-…)	คีย์ข้อมูล `{k}`: ใช้ตัวอักษร ตัวเลข -, _ และ . (ห้ามใช้ name หรือ vc-…)
+@msg	date `{d}`: YYYY-MM-DD	วันที่ `{d}`: ใช้รูปแบบ YYYY-MM-DD
+@msg	docking action contains an unknown panel or an excessive split path	คำสั่งจัดวางแผงมีแผงที่ไม่รู้จักหรือพาธการแบ่งยาวเกินขีดจำกัด
+@msg	dxf fitTo must be [width, height], positive	dxf fitTo ต้องเป็น [width, height] โดยทั้งสองค่าเป็นบวก
+@msg	dxf unit `{u}`: a unit such as mm, cm, in or pt	dxf unit `{u}`: ใช้หน่วย เช่น mm, cm, in หรือ pt
+@msg	exportText must be editable or appearance	exportText ต้องเป็น editable หรือ appearance
+@msg	flattener: {e}	ตัวรวมความโปร่งใส: {e}
+@msg	folders `{f}`: none, rows, format, item or itemFormat	folders `{f}`: ใช้ none, rows, format, item หรือ itemFormat
+@msg	give `x` and `y` (and a `tolerance` of 0 or more)	ระบุ `x` และ `y` (และ `tolerance` ตั้งแต่ 0 ขึ้นไป)
+@msg	give a name, or paint the active proxy with a saved preset	ระบุชื่อ หรือใช้ค่าตั้งที่บันทึกไว้กับสีเติมหรือเส้นขอบที่กำลังใช้งาน
+@msg	give color, none, swatch or gradient	ระบุ color, none, swatch หรือ gradient
+@msg	give fill, stroke, opacity and/or blend	ระบุ fill, stroke, opacity และ/หรือ blend
+@msg	give horizontal or vertical	ระบุ horizontal หรือ vertical
+@msg	give newName or delete	ระบุ newName หรือ delete
+@msg	give path (a file) or folder	ระบุ path (ไฟล์) หรือ folder
+@msg	give path, or name and dataBase64	ระบุ path หรือ name และ dataBase64
+@msg	give paths or files	ระบุ paths หรือ files
+@msg	give text	ระบุ text
+@msg	give the settings to change, e.g. {"formats"}]}	ระบุการตั้งค่าที่จะเปลี่ยน เช่น {"formats"}]}
+@msg	glyph {_1} is not drawn for {ch} with the character's style (such as All Caps, Small Caps or a numeral system)	รูปอักษร {_1} ไม่ได้ใช้วาด {ch} ตามสไตล์ตัวอักษรนี้ (เช่น ตัวพิมพ์ใหญ่ทั้งหมด ตัวพิมพ์ใหญ่ขนาดเล็ก หรือระบบตัวเลข)
+@msg	handle must be in or out	handle ต้องเป็น in หรือ out
+@msg	heightWidth must be from 1 to 1000 %	heightWidth ต้องอยู่ระหว่าง 1 ถึง 1000 %
+@msg	ids must contain 1–10000 object ids	ids ต้องมีรหัสวัตถุ 1–10000 รายการ
+@msg	imageMap `{m}`: none, client or server	imageMap `{m}`: ใช้ none, client หรือ server
+@msg	invalid object id {value}: expected a non-negative integer	รหัสวัตถุ {value} ไม่ถูกต้อง: ต้องเป็นจำนวนเต็มที่ไม่ติดลบ
+@msg	is not an image VectorCraft reads	ไม่ใช่ภาพที่ VectorCraft อ่านได้
+@msg	it has more than one artboard	มีอาร์ตบอร์ดมากกว่าหนึ่งชิ้น
+@msg	its metadata has no description	ข้อมูลเมตาไม่มีคำอธิบาย
+@msg	its metadata has no direct length	ข้อมูลเมตาไม่มีค่าความยาวโดยตรง
+@msg	keywords must be a list of words or a comma-separated string	keywords ต้องเป็นรายการคำหรือสตริงที่คั่นด้วยจุลภาค
+@msg	layers can't be wrap objects	เลเยอร์ใช้เป็นวัตถุสำหรับให้ข้อความล้อมไม่ได้
+@msg	line {line}: unclosed quote	บรรทัด {line}: ยังไม่ปิดเครื่องหมายอัญประกาศ
+@msg	margin: a {m} pt margin leaves no imageable area on the paper	margin: ขอบ {m} pt ทำให้ไม่เหลือพื้นที่พิมพ์บนกระดาษ
+@msg	matte: {e}	สีพื้นรอง: {e}
+@msg	member is for order front, forward, backward or back	member ใช้กับ order ค่า front, forward, backward หรือ back
+@msg	missing `id`: give one, or select one type object	ขาด `id`: ระบุรหัสหรือเลือกวัตถุข้อความหนึ่งชิ้น
+@msg	missing `index` (a point index, or null to clear)	ขาด `index` (ดัชนีจุด หรือ null เพื่อล้างค่า)
+@msg	missing `index` (a stop index, or null to clear)	ขาด `index` (ดัชนีจุดสีไล่ระดับ หรือ null เพื่อล้างค่า)
+@msg	missing from	ขาด from
+@msg	missing id or ids	ขาด id หรือ ids
+@msg	missing ids	ขาด ids
+@msg	mode is set, add or toggle, not `{other}`	mode ต้องเป็น set, add หรือ toggle ไม่ใช่ `{other}`
+@msg	more than 10000 linked files: package dependencies in smaller parts	มีไฟล์ที่เชื่อมโยงมากกว่า 10000 ไฟล์: แบ่งรวบรวมไฟล์ที่อ้างอิงเป็นแพ็กเกจย่อย
+@msg	moved must be [[x,y]…]	moved ต้องเป็น [[x,y]…]
+@msg	name (a toolbar's name) is required	ต้องระบุ name (ชื่อแถบเครื่องมือ)
+@msg	name (a toolbar's name) must be a string	name (ชื่อแถบเครื่องมือ) ต้องเป็นสตริง
+@msg	name must be a toolbar's name	name ต้องเป็นชื่อแถบเครื่องมือ
+@msg	no Live Paint edge near that point	ไม่มีขอบระบายสีไลฟ์ใกล้จุดนั้น
+@msg	no Live Paint face at that point	ไม่มีพื้นที่ระบายสีไลฟ์ที่จุดนั้น
+@msg	no bound object reports a value (locked objects and embedded images report none)	ไม่มีวัตถุที่ผูกไว้รายงานค่า (วัตถุที่ล็อกและภาพฝังจะไม่รายงานค่า)
+@msg	no clock to keep a heartbeat by	ไม่มีนาฬิกาสำหรับส่งสัญญาณสถานะตามช่วงเวลา
+@msg	no folder: pass `path` or set Preferences › Plug-ins & Scratch Disks › Additional Plug-ins Folder	ไม่มีโฟลเดอร์: ระบุ `path` หรือตั้งค่าที่ การตั้งค่า › ปลั๊กอินและดิสก์พักข้อมูล › โฟลเดอร์ปลั๊กอินเพิ่มเติม
+@msg	no free data set file name in destination folder	ไม่มีชื่อไฟล์ชุดข้อมูลที่ยังว่างในโฟลเดอร์ปลายทาง
+@msg	no free recovery area	ไม่มีพื้นที่กู้คืนที่ว่าง
+@msg	no gradient stop or freeform point is selected	ยังไม่ได้เลือกจุดสีไล่ระดับหรือจุดสีอิสระ
+@msg	no parent layer	ไม่มีเลเยอร์แม่
+@msg	no saved views	ไม่มีมุมมองที่บันทึกไว้
+@msg	no stop {i} (the gradient has {n})	ไม่มีจุดสี {i} (การไล่ระดับสีมี {n} จุด)
+@msg	no view named `{name}`	ไม่มีมุมมองชื่อ `{name}`
+@msg	node {_1} is not type	โหนด {_1} ไม่ใช่ข้อความ
+@msg	not a WebAssembly binary (missing \0asm header)	ไม่ใช่ไบนารี WebAssembly (ขาดส่วนหัว \0asm)
+@msg	not a shortcut set: the text doesn't start with a slash name and an opening brace	ไม่ใช่ชุดปุ่มลัด: ข้อความไม่ได้เริ่มด้วยชื่อที่นำหน้าด้วยสแลชและวงเล็บปีกกาเปิด
+@msg	not an image VectorCraft reads (see document.formats)	ไม่ใช่ภาพที่ VectorCraft อ่านได้ (ดู document.formats)
+@msg	not area type (text in a frame) outside perspective	ไม่ใช่ข้อความแบบพื้นที่ (ข้อความในกรอบ) ที่อยู่นอกทัศนมิติ
+@msg	not type on a path outside perspective	ไม่ใช่ข้อความบนพาธที่อยู่นอกทัศนมิติ
+@msg	nothing selected	ยังไม่ได้เลือกสิ่งใด
+@msg	nothing selected is in a group	ไม่มีวัตถุที่เลือกอยู่ในกลุ่ม
+@msg	nothing to wrap	ไม่มีวัตถุสำหรับให้ข้อความล้อม
+@msg	object ids are non-negative integers, not {v}	รหัสวัตถุต้องเป็นจำนวนเต็มที่ไม่ติดลบ ไม่ใช่ {v}
+@msg	object transparency cannot be sampled onto highlighted characters; disable Transparency in Eyedropper Options or select the whole object	ดูดค่าความโปร่งใสของวัตถุไปใช้กับตัวอักษรที่เลือกไม่ได้: ปิดความโปร่งใสในตัวเลือกหลอดดูดสี หรือเลือกทั้งวัตถุ
+@msg	only groups, layers, type and images have a Contents (Characters) row	เฉพาะกลุ่ม เลเยอร์ ข้อความ และภาพเท่านั้นที่มีแถวเนื้อหา (ตัวอักษร)
+@msg	only solid colours can be added (not gradients or patterns)	เพิ่มได้เฉพาะสีทึบ (ไม่ใช่การไล่ระดับสีหรือลวดลาย)
+@msg	only solid-colour swatches can be spot colours	เฉพาะตัวอย่างสีทึบเท่านั้นที่ใช้เป็นสีพิเศษได้
+@msg	onto, above, below, icon and a column place take no anchor, side, zone or before	onto, above, below, icon และตำแหน่งคอลัมน์ไม่รับ anchor, side, zone หรือ before
+@msg	onto, above, below, icon and a column place take no x, y, width or height	onto, above, below, icon และตำแหน่งคอลัมน์ไม่รับ x, y, width หรือ height
+@msg	others must be true or false	others ต้องเป็น true หรือ false
+@msg	outlineText {v}: true or false	outlineText {v}: ใช้ true หรือ false
+@msg	pdfs `{m}`: single or multiple	pdfs `{m}`: ใช้ single หรือ multiple
+@msg	place is above, below or inside, not `{other}`	place ต้องเป็น above, below หรือ inside ไม่ใช่ `{other}`
+@msg	plane must be left, right or ground	plane ต้องเป็น left, right หรือ ground
+@msg	plug-in trapped: {0}	ปลั๊กอินหยุดจากข้อผิดพลาดขณะรัน: {0}
+@msg	rect is [x, y, width, height] in points	rect เป็น [x, y, width, height] ในหน่วยพอยต์
+@msg	rect must be [x, y, width, height]	rect ต้องเป็น [x, y, width, height]
+@msg	rect must be [x, y, width, height] with a positive width and height	rect ต้องเป็น [x, y, width, height] โดยความกว้างและความสูงเป็นบวก
+@msg	replace keeps the replaced object's place and transform: drop template, at and rect	replace คงตำแหน่งและการแปลงของวัตถุเดิม: ไม่ต้องระบุ template, at และ rect
+@msg	resolutions must be between 1 and 2400 ppi	resolutions ต้องอยู่ระหว่าง 1 ถึง 2400 ppi
+@msg	scale must be a number from {_1} to {_2}, not {_3}	scale ต้องเป็นตัวเลขตั้งแต่ {_1} ถึง {_2} ไม่ใช่ {_3}
+@msg	scale must be a number from {_1} to {_2}, not {s}	scale ต้องเป็นตัวเลขตั้งแต่ {_1} ถึง {_2} ไม่ใช่ {s}
+@msg	scope must be selection or all (got {other})	scope ต้องเป็น selection หรือ all (ได้รับ {other})
+@msg	seconds must be a whole number from 1 to 60	seconds ต้องเป็นจำนวนเต็มตั้งแต่ 1 ถึง 60
+@msg	select a clip group	เลือกกลุ่มคลิปปิง
+@msg	select an Image Trace object	เลือกวัตถุแปลงภาพเป็นเวกเตอร์
+@msg	select an Intertwine group	เลือกกลุ่มสอดประสาน
+@msg	select something to export (or turn off selectedOnly)	เลือกสิ่งที่จะส่งออก (หรือปิด selectedOnly)
+@msg	select two or more objects to intertwine	เลือกวัตถุอย่างน้อยสองชิ้นเพื่อสานไขว้
+@msg	select two or more slices to combine	เลือกชิ้นภาพอย่างน้อยสองชิ้นเพื่อรวมกัน
+@msg	selection `{m}`: one or each	selection `{m}`: ใช้ one หรือ each
+@msg	settings is an object of document.exportForScreens params	settings เป็นออบเจ็กต์พารามิเตอร์ของ document.exportForScreens
+@msg	show `{show}`: all, missing, modified or embedded	show `{show}`: ใช้ all, missing, modified หรือ embedded
+@msg	size must be "small", "medium", "large" or a number of points over 0 up to {_1}	size ต้องเป็น "small", "medium", "large" หรือจำนวนพอยต์มากกว่า 0 ถึง {_1}
+@msg	sizeMode is "fixed" or "pressure", not `{other}`	sizeMode ต้องเป็น "fixed" หรือ "pressure" ไม่ใช่ `{other}`
+@msg	sizeMode is "fixed" or "pressure", not {other}	sizeMode ต้องเป็น "fixed" หรือ "pressure" ไม่ใช่ {other}
+@msg	sizeVariation must be 0 or more	sizeVariation ต้องเป็น 0 หรือมากกว่า
+@msg	sort `{x}`: name, kind or status	sort `{x}`: ใช้ name, kind หรือ status
+@msg	spot, mode and group apply to solid colours only	spot, mode และ group ใช้ได้กับสีทึบเท่านั้น
+@msg	steps must be 1..1000	steps ต้องอยู่ในช่วง 1..1000
+@msg	steps must be 1..{MAX_STEPS}	steps ต้องอยู่ในช่วง 1..{MAX_STEPS}
+@msg	strokeMode must be within|along|across, got {m}	strokeMode ต้องเป็น within|along|across แต่ได้รับ {m}
+@msg	strokeOptions must be an object of stroke.set options	strokeOptions ต้องเป็นออบเจ็กต์ตัวเลือกของ stroke.set
+@msg	strokeWidth must be a positive number of pixels	strokeWidth ต้องเป็นจำนวนพิกเซลที่เป็นบวก
+@msg	subpath {si} is not an open subpath	พาธย่อย {si} ไม่ใช่พาธย่อยแบบเปิด
+@msg	subpaths required when joining the same path	ต้องระบุ subpaths เมื่อเชื่อมภายในพาธเดียวกัน
+@msg	swatchConflict must be "merge" or "add", not {v}	swatchConflict ต้องเป็น "merge" หรือ "add" ไม่ใช่ {v}
+@msg	textureImage: give {path} or {name, dataBase64} of an image file, or a texture as effect.list gives it	textureImage: ระบุ {path} หรือ {name, dataBase64} ของไฟล์ภาพ หรือพื้นผิวในรูปแบบที่ effect.list ส่งกลับ
+@msg	that makes too many pieces (at most 100000): make the dashes longer	ทำให้เกิดชิ้นส่วนมากเกินไป (สูงสุด 100000): เพิ่มความยาวขีดเส้นประ
+@msg	the PDF security settings were saved without their passwords: give openPassword or permissionsPassword again, or security without passwordRequired to export unprotected	บันทึกการตั้งค่าความปลอดภัย PDF โดยไม่เก็บรหัสผ่านไว้: ระบุ openPassword หรือ permissionsPassword อีกครั้ง หรือระบุ security โดยไม่มี passwordRequired เพื่อส่งออกแบบไม่ป้องกัน
+@msg	the container of the listed objects is gone	คอนเทนเนอร์ของวัตถุที่ระบุไม่มีอยู่แล้ว
+@msg	the deferred paste is no longer available	การวางที่รอดำเนินการไม่พร้อมใช้งานแล้ว
+@msg	the file's layers weren't read ({_1}): it comes in as its page, in one layer	ไม่ได้อ่านเลเยอร์ของไฟล์ ({_1}): นำเข้าภาพหน้าทั้งหมดเป็นเลเยอร์เดียว
+@msg	the image is not on an artboard; pass rect	ภาพไม่ได้อยู่บนอาร์ตบอร์ด; ระบุ rect
+@msg	the paint behind the proxy is not a gradient	สีต้นทางของพร็อกซีไม่ใช่สีไล่ระดับ
+@msg	the parent must be a layer or sublayer	วัตถุแม่ต้องเป็นเลเยอร์หรือเลเยอร์ย่อย
+@msg	the symbols are nested too deeply to expand their instances	สัญลักษณ์ซ้อนกันลึกเกินไปที่จะแปลงอินสแตนซ์เป็นวัตถุ
+@msg	the trace was cancelled	ยกเลิกการแปลงภาพเป็นเวกเตอร์แล้ว
+@msg	the trailer has no size	ส่วนท้ายไฟล์ไม่มีขนาด
+@msg	the type object is flattened to nothing	วัตถุข้อความว่างเปล่าหลังรวมความโปร่งใส
+@msg	the written PDF's metadata can't be edited	แก้ไขข้อมูลเมตาของ PDF ที่เขียนไม่ได้
+@msg	tileRange of {what}: {e}	tileRange ของ {what}: {e}
+@msg	to (the new name) is required	ต้องระบุ to (ชื่อใหม่)
+@msg	to must be fill or stroke	to ต้องเป็น fill หรือ stroke
+@msg	to must be smooth or corner	to ต้องเป็น smooth หรือ corner
+@msg	transparentImages {v}: "flatten" (the default) or "omit"	transparentImages {v}: ใช้ "flatten" (ค่าเริ่มต้น) หรือ "omit"
+@msg	type dimension cannot be represented with this text transform	ไม่สามารถแสดงขนาดข้อความด้วยการแปลงข้อความนี้
+@msg	type dimension must be finite	ขนาดข้อความต้องเป็นค่าจำกัด
+@msg	unknown axis `{other}` (vertical|horizontal|free)	ไม่รู้จักแกน `{other}` (vertical|horizontal|free)
+@msg	unknown gradient kind `{k}` (linear, radial, freeform)	ไม่รู้จักชนิดสีไล่ระดับ `{k}` (linear, radial, freeform)
+@msg	unknown shape `{v}` (circle|ellipse|square|diamond|line)	ไม่รู้จักรูปทรง `{v}` (circle|ellipse|square|diamond|line)
+@msg	unknown spacing `{o}` (smooth|steps|distance)	ไม่รู้จักระยะห่าง `{o}` (smooth|steps|distance)
+@msg	unknown value axis `{v}` (left, right or both)	ไม่รู้จักแกนค่า `{v}` (left, right หรือ both)
+@msg	unknown {k} key `{key}` (size, position)	ไม่รู้จักคีย์ {k} `{key}` (size, position)
+@msg	vc_run returned error code {packed}	vc_run ส่งกลับรหัสข้อผิดพลาด {packed}
+@msg	view is required	ต้องระบุ view
+@msg	zone needs an anchor: dock beside a panel with anchor, or in a new dock column with side (Start or End)	zone ต้องมี anchor: ยึดข้างแผงด้วย anchor หรือสร้างคอลัมน์แผงใหม่ด้วย side (Start หรือ End)
+@msg	{_1} MB of document, at most {_2} MB	เอกสารมีขนาด {_1} MB สูงสุด {_2} MB
+@msg	{_1} MB of images, at most {_2} MB	ภาพมีขนาด {_1} MB สูงสุด {_2} MB
+@msg	{_1} can't be read, or changed since it was read: relink or update it first	อ่าน {_1} ไม่ได้ หรือไฟล์เปลี่ยนแปลงหลังจากอ่าน: เชื่อมโยงใหม่หรืออัปเดตก่อน
+@msg	{_1} files can't carry editing data: turn off preserveEditing	ไฟล์ {_1} เก็บข้อมูลสำหรับแก้ไขไม่ได้: ปิด preserveEditing
+@msg	{_1} files can't have PDF layers: turn off createLayers	ไฟล์ {_1} มีเลเยอร์ PDF ไม่ได้: ปิด createLayers
+@msg	{_1} passwords can have up to {MAX_LEGACY_PASSWORD} ASCII characters (PDF 1.7 and later take any)	รหัสผ่าน {_1} ใช้อักขระ ASCII ได้ไม่เกิน {MAX_LEGACY_PASSWORD} ตัว (PDF 1.7 ขึ้นไปใช้อักขระใดก็ได้)
+@msg	{_1} with linked images or an image map writes several files: use document.export	{_1} ที่มีภาพเชื่อมโยงหรือแผนผังภาพจะเขียนหลายไฟล์: ใช้ document.export
+@msg	{_1} writes one file per artboard here: use document.export, or name one artboard	{_1} จะเขียนหนึ่งไฟล์ต่ออาร์ตบอร์ด: ใช้ document.export หรือระบุชื่ออาร์ตบอร์ดเดียว
+@msg	{_1} × {_2} pixels is too large for {_3} (at most {max} pixels a side): lower the scale	ขนาด {_1} × {_2} พิกเซลใหญ่เกินไปสำหรับ {_3} (แต่ละด้านไม่เกิน {max} พิกเซล): ลดมาตราส่วน
+@msg	{_1}: belongs to another account	{_1}: เป็นของบัญชีอื่น
+@msg	{folder}: more than {max} files and folders	{folder}: มีไฟล์และโฟลเดอร์มากกว่า {max} รายการ
+@msg	{folder}: {e}	{folder}: {e}
+@msg	{g} is not a Live Paint group	{g} ไม่ใช่กลุ่มระบายสีแบบสด
+@msg	{id} is no top-level layer	{id} ไม่ใช่เลเยอร์ระดับบนสุด
+@msg	{id} is not a slice	{id} ไม่ใช่ชิ้นภาพ
+@msg	{id} opens another app: only the person at the keyboard can run it	{id} จะเปิดแอปอื่น: ผู้ที่ใช้งานหน้าเครื่องเท่านั้นที่เรียกคำสั่งนี้ได้
+@msg	{key} must be 0–{MAX_ADD_AROUND} pt	{key} ต้องอยู่ระหว่าง 0–{MAX_ADD_AROUND} pt
+@msg	{key} must be Unix seconds (an integer) or null	{key} ต้องเป็นวินาทีแบบ Unix (จำนวนเต็ม) หรือ null
+@msg	{key} must be [x, y] with finite coordinates	{key} ต้องเป็น [x, y] ที่มีค่าพิกัดจำกัด
+@msg	{key} must be [x,y]	{key} ต้องเป็น [x,y]
+@msg	{key} must be a finite coordinate	{key} ต้องเป็นพิกัดที่มีค่าจำกัด
+@msg	{key} must be a percentage {min}..100	{key} ต้องเป็นเปอร์เซ็นต์ในช่วง {min}..100
+@msg	{key} must be a positive number, not {n}	{key} ต้องเป็นจำนวนบวก ไม่ใช่ {n}
+@msg	{key} must be a positive number, not {v}	{key} ต้องเป็นจำนวนบวก ไม่ใช่ {v}
+@msg	{key} must be an array of non-negative integer object ids	{key} ต้องเป็นอาร์เรย์ของรหัสออบเจ็กต์ที่เป็นจำนวนเต็มไม่ติดลบ
+@msg	{key} must be {_1}, got {s}	{key} ต้องเป็น {_1} แต่ได้รับ {s}
+@msg	{kind} images can't be opened (see document.formats)	เปิดภาพประเภท {kind} ไม่ได้ (ดู document.formats)
+@msg	{label} requires a shape with at least two anchors	{label} ต้องใช้รูปทรงที่มีจุดยึดอย่างน้อยสองจุด
+@msg	{name} must be {lo}–{hi}{unit} (got {v})	{name} ต้องอยู่ระหว่าง {lo}–{hi}{unit} (ได้รับ {v})
+@msg	{name}: only this Affinity file's embedded preview could be read; use File › Open to see it with its warning, or export SVG or PDF from Affinity before placing	{name}: อ่านได้เฉพาะภาพตัวอย่างที่ฝังในไฟล์ Affinity นี้; ใช้ ไฟล์ › เปิด เพื่อดูพร้อมคำเตือน หรือส่งออก SVG หรือ PDF จาก Affinity ก่อนนำมาวาง
+@msg	{native}; its embedded preview can't be read either ({e})	{native}; อ่านภาพตัวอย่างที่ฝังไว้ไม่ได้เช่นกัน ({e})
+@msg	{ty} brushes need selected art (or params.{k})	แปรง {ty} ต้องมีงานภาพที่เลือกไว้ (หรือ params.{k})
+@msg	{what} points outside memory	{what} ชี้ไปนอกขอบเขตหน่วยความจำ
+@msg	{what} would print on more than {MAX_TILES} tiles: scale it down	{what} จะพิมพ์เกิน {MAX_TILES} แผ่น: ลดมาตราส่วน
+@msgplural	({n} linked file not found)|({n} linked files not found)	(ไม่พบไฟล์ที่เชื่อมโยง {n} ไฟล์)
+@msgplural	Broke {n} link; {missing} can't be read: relink or update them first|Broke {n} links; {missing} can't be read: relink or update them first	ยกเลิกการเชื่อมโยง {n} รายการ อ่าน {missing} ไม่ได้: เชื่อมโยงใหม่หรืออัปเดตก่อน
+@msgplural	Broke {n} link|Broke {n} links	ยกเลิกการเชื่อมโยง {n} รายการ
+@msgplural	Copied the CSS of {n} object|Copied the CSS of {n} objects	คัดลอก CSS ของวัตถุ {n} ชิ้นแล้ว
+@msgplural	Discarded {n} recovered document|Discarded {n} recovered documents	ละทิ้งเอกสารที่กู้คืน {n} ฉบับ
+@msgplural	Downloaded {n} file|Downloaded {n} files	ดาวน์โหลด {n} ไฟล์แล้ว
+@msgplural	Embedded {n} image; {missing} missing: relink them first|Embedded {n} images; {missing} missing: relink them first	ฝังภาพ {n} ภาพ ไม่พบ {missing}: โปรดเชื่อมโยงใหม่ก่อน
+@msgplural	Embedded {n} image|Embedded {n} images	ฝังภาพ {n} ภาพแล้ว
+@msgplural	Exported {n} document; {title} wasn't written: {error}|Exported {n} documents; {title} wasn't written: {error}	ส่งออกเอกสาร {n} ฉบับ ไม่ได้เขียน {title}: {error}
+@msgplural	Exported {n} document|Exported {n} documents	ส่งออกเอกสาร {n} ฉบับแล้ว
+@msgplural	Exported {n} file to {folder}|Exported {n} files to {folder}	ส่งออก {n} ไฟล์ไปยัง {folder}
+@msgplural	Exported {what} with {n} note: {first}|Exported {what} with {n} notes: {first}	ส่งออก {what} พร้อมหมายเหตุ {n} รายการ: {first}
+@msgplural	Opened with {n} note: {first}|Opened with {n} notes: {first}	เปิดแล้ว พร้อมหมายเหตุ {n} รายการ: {first}
+@msgplural	Packaged {n} file ({note}) in {folder}|Packaged {n} files ({note}) in {folder}	รวบรวม {n} ไฟล์ ({note}) ใน {folder}
+@msgplural	Packaged {n} file in {folder}|Packaged {n} files in {folder}	รวบรวม {n} ไฟล์ใน {folder}
+@msgplural	Packaged {n} file {note}|Packaged {n} files {note}	รวบรวม {n} ไฟล์ {note}
+@msgplural	Packaged {n} file|Packaged {n} files	รวบรวม {n} ไฟล์แล้ว
+@msgplural	Relinked {n} image; not in that folder: {names}|Relinked {n} images; not in that folder: {names}	เชื่อมโยงภาพใหม่ {n} ภาพ ไม่พบในโฟลเดอร์นั้น: {names}
+@msgplural	Relinked {n} image; {name} couldn't be relinked: {reason}|Relinked {n} images; {name} couldn't be relinked: {reason}	เชื่อมโยงภาพใหม่ {n} ภาพ เชื่อมโยง {name} ไม่ได้: {reason}
+@msgplural	Relinked {n} image|Relinked {n} images	เชื่อมโยงภาพใหม่ {n} ภาพ
+@msgplural	Replaced {n} image|Replaced {n} images	แทนที่ภาพ {n} ภาพ
+@msgplural	Restored {n} recovered document: save it to keep it|Restored {n} recovered documents: save them to keep them	กู้คืนเอกสาร {n} ฉบับแล้ว: โปรดบันทึกเพื่อเก็บไว้
+@msgplural	Saved {path} with {n} note: {first}|Saved {path} with {n} notes: {first}	บันทึก {path} พร้อมหมายเหตุ {n} รายการ: {first}
+@msgplural	Traced {n} image; not traced: {failed}|Traced {n} images; not traced: {failed}	แปลงภาพเป็นเวกเตอร์ {n} ภาพ ยังไม่ได้แปลง: {failed}
+@msgplural	Traced {n} image|Traced {n} images	แปลงภาพเป็นเวกเตอร์ {n} ภาพ
+@msgplural	Updated {n} image|Updated {n} images	อัปเดตภาพ {n} ภาพ
+@msgplural	Updated {n} linked file changed on disk|Updated {n} linked files changed on disk	อัปเดตไฟล์ที่เชื่อมโยงซึ่งเปลี่ยนบนดิสก์ {n} ไฟล์
+@msgplural	{n} color is out of the CMYK gamut|{n} colors are out of the CMYK gamut	มีสี {n} สีอยู่นอกขอบเขตสี CMYK
+@msgplural	{n} font file is now in {folder}; {failed} couldn't be added: {reason}|{n} font files are now in {folder}; {failed} couldn't be added: {reason}	ไฟล์ฟอนต์ {n} ไฟล์อยู่ใน {folder} แล้ว เพิ่ม {failed} ไม่ได้: {reason}
+@msgplural	{n} font file is now in {folder}|{n} font files are now in {folder}	ไฟล์ฟอนต์ {n} ไฟล์อยู่ใน {folder} แล้ว
+@msgplural	{n} font isn't available here: its text shows in another font|{n} fonts aren't available here: their text shows in another font	ไม่มีฟอนต์ {n} แบบในเครื่องนี้: แสดงข้อความด้วยฟอนต์อื่นแทน
+@msgplural	{n} image couldn't be decoded and shows as a crossed box|{n} images couldn't be decoded and show as crossed boxes	ถอดรหัสภาพ {n} ภาพไม่ได้ จึงแสดงเป็นกรอบกากบาท
+@msgplural	{n} image couldn't be traced|{n} images couldn't be traced	แปลงภาพ {n} ภาพเป็นเวกเตอร์ไม่ได้
+@msgplural	{n} linked file can't be read here: its preview shows|{n} linked files can't be read here: their previews show	อ่านไฟล์ที่เชื่อมโยง {n} ไฟล์ไม่ได้: แสดงภาพตัวอย่างแทน
+@msgplural	{n} linked file not found|{n} linked files not found	ไม่พบไฟล์ที่เชื่อมโยง {n} ไฟล์
+@msgplural	{n} linked image changed on disk: Update Links shows the new version|{n} linked images changed on disk: Update Links shows the new versions	ภาพที่เชื่อมโยง {n} ภาพเปลี่ยนบนดิสก์: อัปเดตการเชื่อมโยงเพื่อแสดงรุ่นใหม่
+@plural	Apply to All ({n} more missing)|Apply to All ({n} more missing)	ใช้กับทั้งหมด (ยังขาดอีก {n})
+@plural	Color Table ({n} color)|Color Table ({n} colors)	ตารางสี ({n} สี)
+@plural	Delete this {n} brush?|Delete these {n} brushes?	ลบแปรง {n} แบบนี้หรือไม่?
+@plural	Delete this {n} graphic style?|Delete these {n} graphic styles?	ลบสไตล์กราฟิก {n} แบบนี้หรือไม่?
+@plural	Delete this {n} swatch or group?|Delete these {n} swatches and groups?	ลบตัวอย่างสีและกลุ่ม {n} รายการนี้หรือไม่?
+@plural	Packaged {n} file in {folder}|Packaged {n} files in {folder}	รวบรวม {n} ไฟล์ใน {folder}
+@plural	Packaged {n} file {note} in {folder}|Packaged {n} files {note} in {folder}	รวบรวม {n} ไฟล์ {note} ใน {folder}
+@plural	Packaged {n} file {note}|Packaged {n} files {note}	รวบรวม {n} ไฟล์ {note}
+@plural	Packaged {n} file|Packaged {n} files	รวบรวม {n} ไฟล์แล้ว
+@plural	Result: {n}|Results: {n}	ผลลัพธ์: {n}
+@plural	agrees with {n} default shortcut|agrees with {n} default shortcuts	ตรงกับปุ่มลัดเริ่มต้น {n} รายการ
+@plural	{n} Layer|{n} Layers	{n} เลเยอร์
+@plural	{n} Object|{n} Objects	วัตถุ {n} ชิ้น
+@plural	{n} PR|{n} PRs	{n} PR
+@plural	{n} area highlighted|{n} areas highlighted	เน้นพื้นที่ {n} แห่ง
+@plural	{n} color|{n} colors	{n} สี
+@plural	{n} commit|{n} commits	{n} คอมมิต
+@plural	{n} file in {folder} {note}. Show the package folder?|{n} files in {folder} {note}. Show the package folder?	มี {n} ไฟล์ใน {folder} {note} เปิดโฟลเดอร์แพ็กเกจหรือไม่?
+@plural	{n} file in {folder}. Show the package folder?|{n} files in {folder}. Show the package folder?	มี {n} ไฟล์ใน {folder} เปิดโฟลเดอร์แพ็กเกจหรือไม่?
+@plural	{n} fill|{n} fills	สีเติม {n} รายการ
+@plural	{n} folder or file couldn't be read|{n} folders or files couldn't be read	อ่านโฟลเดอร์หรือไฟล์ {n} รายการไม่ได้
+@plural	{n} folder skipped, such as another app's or the system's folder or a hidden one|{n} folders skipped, such as other apps' and the system's folders and hidden ones	ข้ามโฟลเดอร์ {n} แห่ง เช่น โฟลเดอร์ของแอปอื่น ระบบ และโฟลเดอร์ที่ซ่อนอยู่
+@plural	{n} folder|{n} folders	โฟลเดอร์ {n} แห่ง
+@plural	{n} glyph|{n} glyphs	รูปอักษร {n} รูป
+@plural	{n} linked file not found|{n} linked files not found	ไม่พบไฟล์ที่เชื่อมโยง {n} ไฟล์
+@plural	{n} linked image changed on disk. Show the new version?|{n} linked images changed on disk. Show the new versions?	ภาพที่เชื่อมโยง {n} ภาพเปลี่ยนบนดิสก์ แสดงรุ่นใหม่หรือไม่?
+@plural	{n} linked image changed since this document was saved. Show the new version?|{n} linked images changed since this document was saved. Show the new versions?	ภาพที่เชื่อมโยง {n} ภาพเปลี่ยนหลังบันทึกเอกสารนี้ แสดงรุ่นใหม่หรือไม่?
+@plural	{n} more export waiting|{n} more exports waiting	มีงานส่งออกรออยู่อีก {n} งาน
+@plural	{n} more rule: Export writes it.|{n} more rules: Export writes every one.	มีกฎอีก {n} ข้อ: การส่งออกจะเขียนทุกข้อ
+@plural	{n} object highlighted|{n} objects highlighted	เน้นวัตถุ {n} ชิ้น
+@plural	{n} part of the file wasn't read|{n} parts of the file weren't read	ไม่ได้อ่านข้อมูล {n} ส่วนของไฟล์
+@plural	{n} shortcut is assigned more than once|{n} shortcuts are assigned more than once	กำหนดปุ่มลัด {n} รายการซ้ำกัน
+@plural	{n} star|{n} stars	{n} ดาว
+@plural	{n} stroke|{n} strokes	เส้นขอบ {n} รายการ
+@plural	{n} unnamed object left out: name it, or turn on Unnamed Objects in the panel menu.|{n} unnamed objects left out: name them, or turn on Unnamed Objects in the panel menu.	ละวัตถุไม่มีชื่อ {n} ชิ้นไว้: ตั้งชื่อหรือเปิดตัวเลือกวัตถุไม่มีชื่อในเมนูแผง
+anchor	Points:	จุดยึด:
+axis	Both	ทั้งสองแกน
+axis	Horizontal	แนวนอน
+axis	Vertical	แนวตั้ง
+axis	X Axis	แกน X
+axis	Y Axis	แกน Y
+breakText	Glyphs	รูปอักษร
+breakText	Lines	บรรทัด
+breakText	Words	คำ
+diagnostics	render	เรนเดอร์
+diagnostics	ui	ส่วนติดต่อผู้ใช้
+digits	Bengali	เบงกาลี
+digits	Devanagari	เทวนาครี
+digits	Gujarati	คุชราต
+digits	Gurmukhi	คุรมุขี
+digits	Hindi	ฮินดี
+digits	Kannada	กันนาดา
+digits	Malayalam	มลยาฬัม
+digits	Odia	โอเดีย
+digits	Tamil	ทมิฬ
+digits	Telugu	เตลูกู
+effect	Horizontal	แนวนอน
+effect	Points	จุด
+effect	Regular	ปกติ
+effect	Soft	นุ่ม
+effect	Vertical	แนวตั้ง
+file-filter	All placeable files	ไฟล์ที่นำมาวางได้ทั้งหมด
+file-filter	All readable files	ไฟล์ที่อ่านได้ทั้งหมด
+file-filter	Export presets	ค่าตั้งการส่งออก
+file-filter	Flattener presets	ค่าตั้งการรวมความโปร่งใส
+file-filter	PDF presets	ค่าตั้ง PDF
+file-filter	PDF-compatible .ai	.ai ที่เข้ากันได้กับ PDF
+file-filter	Print presets	ค่าตั้งการพิมพ์
+file-filter	SVG Compressed	SVG แบบบีบอัด
+file-filter	Swatch libraries	คลังตัวอย่างสี
+file-filter	Templates	แม่แบบ
+file-filter	VectorCraft Template	แม่แบบ VectorCraft
+font-script	Japanese	ญี่ปุ่น
+font-technology	Variable	แปรผัน
+gradient-kind	Radial	แบบรัศมี
+imageTrace	Outline	เส้นเค้าโครง
+lighting	Light	แสง
+mark-style	Japanese	ญี่ปุ่น
+shape	Open	เปิด
+swatch	Amber	อำพัน
+swatch	Aqua	ฟ้าน้ำทะเล
+swatch	Azure	ฟ้าอาซัวร์
+swatch	Black	ดำ
+swatch	Blue	น้ำเงิน
+swatch	Bright Blue	น้ำเงินสด
+swatch	Bright Green	เขียวสด
+swatch	Bright Red	แดงสด
+swatch	Bright Violet	ม่วงสด
+swatch	Bright Yellow	เหลืองสด
+swatch	Brights	สีสด
+swatch	Brown	น้ำตาล
+swatch	Chocolate	ช็อกโกแลต
+swatch	Coffee	กาแฟ
+swatch	Copper	ทองแดง
+swatch	Cyan	ฟ้าไซแอน
+swatch	Cyan Green	เขียวอมฟ้า
+swatch	Emerald	มรกต
+swatch	Espresso	เอสเปรสโซ
+swatch	Grays	โทนเทา
+swatch	Green	เขียว
+swatch	Indigo	คราม
+swatch	Lime	เขียวมะนาว
+swatch	Magenta	ม่วงแดง
+swatch	Ocean	มหาสมุทร
+swatch	Orange	ส้ม
+swatch	Orange Red	ส้มแดง
+swatch	Pink	ชมพู
+swatch	Purple	ม่วง
+swatch	Radial White, Black	ไล่ระดับรัศมี ขาว–ดำ
+swatch	Red	แดง
+swatch	Rose	กุหลาบ
+swatch	Rust	สนิม
+swatch	Sand	ทราย
+swatch	Sunset	อาทิตย์ตก
+swatch	Tan	น้ำตาลอ่อน
+swatch	Teal	เขียวอมฟ้าเข้ม
+swatch	Violet	ม่วงไวโอเลต
+swatch	Walnut	วอลนัต
+swatch	White	ขาว
+swatch	White, Black	ขาว–ดำ
+swatch	Yellow	เหลือง
+swatch	Yellow Green	เหลืองเขียว
+swatch	[None]	[ไม่มี]
+swatch	[Registration]	[สีจัดแนวพิมพ์]

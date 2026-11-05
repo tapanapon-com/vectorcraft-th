@@ -97,7 +97,7 @@ fn plural_polish(n: u64) -> usize {
 }
 
 /// The registry. English first: it is the fallback and the source language.
-pub static LANGUAGES: [LangInfo; 27] = [
+pub static LANGUAGES: [LangInfo; 28] = [
     LangInfo { code: "en", name: "English", source: "", plural: plural_one_other, complete_menus: false, catalog: OnceLock::new() },
     // Greek: the whole interface and the status and error messages, keeping the same names in
     // English as Spanish; every `el-*` locale (including `el-GR` and `el-CY`) resolves here.
@@ -119,6 +119,10 @@ pub static LANGUAGES: [LangInfo; 27] = [
     // installed system font (craft-fonts has no Korean UI face yet); every `ko-*` locale resolves here.
     LangInfo {
         code: "ko", name: "한국어", source: include_str!("i18n/ko.tsv"), plural: plural_none, complete_menus: true, catalog: OnceLock::new()
+    },
+    // Thai uses a count-neutral plural form; regional th-* tags resolve here.
+    LangInfo {
+        code: "th", name: "ไทย", source: include_str!("i18n/th.tsv"), plural: plural_none, complete_menus: true, catalog: OnceLock::new()
     },
     // Vietnamese: complete menus and messages, with one plural form.
     // Every `vi-*` locale resolves here.
