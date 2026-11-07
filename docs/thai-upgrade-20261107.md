@@ -1,13 +1,20 @@
-# Vectorcraft Thai upgrade 7 November 2026
+# VectorCraft TH 0.22.0-th.1 — verified package record
 
-Upstream release: https://github.com/storytold/vectorcraft/releases/tag/v0.22.0
+Complete upstream v0.22.0 tag: `654749c16eb20b6d3182a96defb66e11d1a9649a`.
 
-Thai distribution being prepared: 0.22.0-th.1. Based on the complete upstream release tag, preserving its engine and format crate versions. Existing Thai translations remain, with new source strings translated. Current Thai catalog: 7,920 entries.
+Thai catalog: 7,920 entries. Core engine/format versions remain upstream-compatible.
 
-Catalog validation passed. Native build, platform packaging and integration checks are in progress. This record does not claim that installers have been released or that all upstream functionality has been tested. Previous 0.21.0 validation reports remain historical.
+Complete source gate passed ([workflow](https://github.com/tapanapon-com/vectorcraft-th/actions/runs/42376413663)); the compiled interface report has zero missing Thai strings. Catalog format, placeholders and reference-key coverage passed.
 
-Mac builds are ad-hoc signed and are not Apple-notarized. Windows builds are unsigned. Build one job at a time.
+Mac: mounted-DMG integrity, strict ad-hoc signatures, arm64 GUI/CLI, Thai interface, native file save/reopen and real screenshots passed; MCP 33 tools. Windows x64: native build, CLI version, MCP 33 tools, installer policy, MSI/portable structure and SHA-256 checks passed ([workflow](https://github.com/tapanapon-com/vectorcraft-th/actions/runs/42396281275)). Manual testing of every Windows GUI workflow is not claimed.
 
-## Mac source checks
+Mac SHA-256: `09f5abb836e9e28b6d47105aad563b5997a97340880ea0fbaad22ec958a802a1` (147,126,134 bytes).
 
-Catalog: 7,920 entries, adding 107. The compiled source report has no Thai gaps and no all-language gaps after translating 11 additional source-discovered keys. All 3,279 Mac UI library tests passed with zero failures or ignored tests. Formatting and workspace/all-target Clippy passed. Full local workspace compilation was interrupted twice because swap growth exhausted system disk space, not because a source test failed. The complete shared gate passed on Ubuntu:14,487 tests passed,15 skipped and all12stages passed. See https://github.com/tapanapon-com/vectorcraft-th/actions/runs/42376413663. Only documentation changes follow that tested source tree; native packages are checked separately before publication. The validated source merge is checkpointed on the upgrade branch; it is not a release or default-branch publication.
+Windows artifacts:
+
+- `vectorcraft-0.22.0-th.1-windows-x64.msi` — SHA-256 `364de38fea4c86ddddf5b8b86ad79f9f467c065b41b4882d30b8c0f0338f5ae7` (119,443,456 bytes).
+- `vectorcraft-0.22.0-th.1-windows-x64-portable.zip` — SHA-256 `97f8473428907c9fb2a10a9fce9f14d8cee4ed9b83662bf35ed822a6f3623add` (149,095,935 bytes).
+
+[Version Log](version-log.md) · [Current validation](validation-0.22.0-th.1.json)
+
+Mac builds are ad-hoc signed and not Apple-notarized. Windows builds are unsigned. Earlier release reports remain historical.

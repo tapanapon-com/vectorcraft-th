@@ -22,7 +22,11 @@ The release tag was merged in full. These are selected upstream highlights, cred
 
 ### ผลตรวจ / Validation
 
-The catalog validator passed with no missing keys, duplicate entries, placeholder, numeric, escape or shortcut mismatches. The complete shared gate passed all12stages with14,487tests passed and15skipped; native platform packages are being checked before publication; final results belong in [current validation](validation-0.22.0-th.1.json) and [upgrade notes](thai-upgrade-20261107.md).
+Complete source gate passed ([workflow](https://github.com/tapanapon-com/vectorcraft-th/actions/runs/42376413663)); the compiled interface report has zero missing Thai strings. Catalog format, placeholders and reference-key coverage passed.
+
+Mac: mounted-DMG integrity, strict ad-hoc signatures, arm64 GUI/CLI, Thai interface, native file save/reopen and real screenshots passed; MCP 33 tools. Windows x64: native build, CLI version, MCP 33 tools, installer policy, MSI/portable structure and SHA-256 checks passed ([workflow](https://github.com/tapanapon-com/vectorcraft-th/actions/runs/42396281275)). Manual testing of every Windows GUI workflow is not claimed.
+
+See [current validation](validation-0.22.0-th.1.json) for artifact hashes and exact build provenance.
 
 Mac packages use ad-hoc signatures and are not notarized. Windows packages are unsigned. Native Windows CI checks do not claim manual testing of every Windows GUI workflow.
 

@@ -11,8 +11,8 @@
   "macUiTestsIgnored": 0,
   "fmt": "passed",
   "macClippyAllTargets": "passed",
-  "fullWorkspaceCI": "passed; all12sharedgate steps,14487tests passed,15skipped",
-  "platformPackaging": "Mac passed; Windows packaging must pass before release publication",
+  "fullWorkspaceCI": "passed; see fullCI for the exact source and workflow",
+  "platformPackaging": "passed; exact artifacts identified by the hashes below",
   "fullCI": {
     "status": "passed",
     "workflowRun": "https://github.com/tapanapon-com/vectorcraft-th/actions/runs/42376413663",
@@ -30,15 +30,44 @@
   "mac": {
     "status": "passed",
     "artifact": "VectorCraft-TH-0.22.0-th.1-macOS-arm64.dmg",
-    "buildCommit": "43629e9c15293f0f95ad3f63e5ab3b69f5baf168",
     "sha256": "09f5abb836e9e28b6d47105aad563b5997a97340880ea0fbaad22ec958a802a1",
     "bytes": 147126134,
+    "architecture": "arm64",
+    "bundleVersion": "0.22.0",
     "cliVersion": "vectorcraft-cli 0.22.0-th.1",
     "mcpTools": 33,
-    "architecture": "arm64",
     "gui": "Thai interface; native save/close/reopen; unchanged artboards/layers; byte-identical PNG exports; language switching preserved full document inspection",
+    "signatures": "ad-hoc; mounted DMG strict verification passed",
+    "notarized": false,
     "visualInspection": "Thai workspace, newly created blank document workspace and exported PNG inspected; Thai shaping is clear. The new-document screenshot shows a created document, not a dialog.",
-    "notarized": false
+    "buildCommit": "43629e9c15293f0f95ad3f63e5ab3b69f5baf168"
   },
-  "windows": "Pending native Windows x64 packaging and validation"
+  "windows": {
+    "date": "2026-11-07",
+    "thaiVersion": "0.22.0-th.1",
+    "sourceCommit": "e80f3d0e99a6ce36a24801957bb908205e9919e7",
+    "workflowRun": "https://github.com/tapanapon-com/vectorcraft-th/actions/runs/42396281275",
+    "nativeWindowsCI": "success",
+    "artifacts": [
+      {
+        "name": "vectorcraft-0.22.0-th.1-windows-x64.msi",
+        "sha256": "364de38fea4c86ddddf5b8b86ad79f9f467c065b41b4882d30b8c0f0338f5ae7",
+        "bytes": 119443456
+      },
+      {
+        "name": "vectorcraft-0.22.0-th.1-windows-x64-portable.zip",
+        "sha256": "97f8473428907c9fb2a10a9fce9f14d8cee4ed9b83662bf35ed822a6f3623add",
+        "bytes": 149095935
+      }
+    ],
+    "portableExecutables": {
+      "vectorcraft.exe": "PE x64 verified",
+      "vectorcraft-cli.exe": "PE x64 verified"
+    },
+    "mcpTools": 33,
+    "status": "passed",
+    "manualWindowsGuiTested": false,
+    "limitations": "Unsigned packages. Native CI built the binaries and ran CLI/MCP and installer policy checks; no manual Windows GUI or installed-app editing coverage is claimed."
+  },
+  "validatedAt": "2026-11-07T18:03:42.712251+00:00"
 }
