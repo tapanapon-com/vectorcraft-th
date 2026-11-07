@@ -11,6 +11,20 @@
   "macUiTestsIgnored": 0,
   "fmt": "passed",
   "macClippyAllTargets": "passed",
-  "fullWorkspaceCI": "pending external CI; two local full attempts interrupted to protect system disk space from swap growth",
-  "platformPackaging": "pending"
+  "fullWorkspaceCI": "passed; all12sharedgate steps,14487tests passed,15skipped",
+  "platformPackaging": "Platform artifacts are validated separately after packaging; see release checksums",
+  "fullCI": {
+    "status": "passed",
+    "workflowRun": "https://github.com/tapanapon-com/vectorcraft-th/actions/runs/42376413663",
+    "testedCommit": "3f51975b31cc928e0b9e9f30081149c0adec050b",
+    "testedTree": "21073c5cf840140de752fd3e4655a82e64f2450e",
+    "stepsPassed": 12,
+    "testsPassed": 14487,
+    "testsSkipped": 15,
+    "testsFailed": 0,
+    "platform": "ubuntu-24.04",
+    "equivalentCommittedTree": "dbbaa607897939624fde14a55eeb3ccdae8699be"
+  },
+  "compiledThaiMissing": 0,
+  "compiledSharedMissing": 0
 }

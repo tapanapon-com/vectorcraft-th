@@ -22,9 +22,11 @@ The release tag was merged in full. These are selected upstream highlights, cred
 
 ### ผลตรวจ / Validation
 
-The catalog validator passed with no missing keys, duplicate entries, placeholder, numeric, escape or shortcut mismatches. Full native tests and packaging are being checked before publication; final results belong in [current validation](validation-0.22.0-th.1.json) and [upgrade notes](thai-upgrade-20261107.md).
+The catalog validator passed with no missing keys, duplicate entries, placeholder, numeric, escape or shortcut mismatches. The complete shared gate passed all12stages with14,487tests passed and15skipped; native platform packages are being checked before publication; final results belong in [current validation](validation-0.22.0-th.1.json) and [upgrade notes](thai-upgrade-20261107.md).
 
 Mac packages use ad-hoc signatures and are not notarized. Windows packages are unsigned. Native Windows CI checks do not claim manual testing of every Windows GUI workflow.
+
+Thai updates are manual downloads from this repository’s Releases. The upstream automatic checker accepts stable versions only and excludes the `-th.1` release names.
 
 ## 0.21.0-th.1 — previous release
 

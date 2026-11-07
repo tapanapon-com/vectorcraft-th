@@ -96,3 +96,9 @@ Based on upstream **0.22.0**, revision `654749c16eb20b6d3182a96defb66e11d1a9649a
 
 
 Update checks use `tapanapon-com/vectorcraft-th`, keeping upstream-only binaries out of this edition’s update channel. Prereleases may not be offered automatically; download them from Releases.
+
+## อัปเดตรุ่นไทย / Updating the Thai edition
+
+ตรวจรุ่นใหม่จาก [Thai Releases](https://github.com/tapanapon-com/vectorcraft-th/releases) และ [Version Log](docs/version-log.md) แล้วดาวน์โหลด DMG/MSI หรือ portable ZIP ที่ตรงกับเครื่อง บันทึกงานและปิดแอปก่อนแทนที่รุ่นเดิม ระบบ Check for Updates ของต้นฉบับยังคัดเฉพาะรุ่น stable จึงไม่แจ้งรุ่นไทยที่มีชื่อ `-th.1` อัตโนมัติ
+
+For Thai updates, use this repository's Releases and Version Log, verify the checksum, save your work and quit the app before replacing the previous copy. Upstream's automatic checker excludes `-th.1` prereleases; automatic Thai updates are not currently supported.
