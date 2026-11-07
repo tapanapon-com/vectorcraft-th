@@ -383,4 +383,4 @@ The shared PDF backend keeps the existing standard-font and CMap features. These
 |---|---|---|---|---|
 | `docs/images/th/vectorcraft-th-demo.svg` | Tapanapon Thai localization project | Original geometric artwork created for this repository | MIT OR Apache-2.0 | Synthetic editable vector demo; no external images or proprietary artwork |
 | `docs/images/th/vectorcraft-th-workspace.png` | Tapanapon Thai localization project; upstream VectorCraft UI contributors | Screenshot of this fork displaying its original demo | MIT OR Apache-2.0; upstream brand terms retained | Actual Thai macOS UI; no user documents or third-party artwork |
-| `docs/images/th/vectorcraft-th-new-document.png` | Tapanapon Thai localization project; upstream VectorCraft UI contributors | Screenshot of this fork | MIT OR Apache-2.0; upstream brand terms retained | Actual Thai New Document dialog |
+| `docs/images/th/vectorcraft-th-new-document.png` | Tapanapon Thai localization project; upstream VectorCraft UI contributors | Screenshot of this fork | MIT OR Apache-2.0; upstream brand terms retained | Actual Thai workspace after creating a new blank document |

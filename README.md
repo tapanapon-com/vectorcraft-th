@@ -34,9 +34,9 @@
 
 ต้นฉบับยังเป็น **alpha** โดยเฉพาะการแลกเปลี่ยน `.ai` อาจไม่รักษารายละเอียดครบ รุ่นภาษาไทยไม่ได้เพิ่มความเทียบเท่ากับ Illustrator เก็บไฟล์ต้นฉบับก่อนทดลองใช้งาน อ่าน [ข้อจำกัดต้นฉบับ](docs/gaps.md)
 
-![หน้าต่างสร้างเอกสารใหม่ภาษาไทย / Thai New Document dialog](docs/images/th/vectorcraft-th-new-document.png)
+![เอกสารใหม่ใน VectorCraft ภาษาไทย / New document workspace](docs/images/th/vectorcraft-th-new-document.png)
 
-ระบบตรวจอัปเดตชี้ไปที่ `tapanapon-com/vectorcraft-th` เพื่อไม่ให้รุ่นต้นฉบับทับคำแปล ช่องทางตรวจอัปเดตอาจไม่เสนอ prerelease ให้ดาวน์โหลดรุ่นทดลองจาก Releases โดยตรง
+ระบบตรวจอัปเดตชี้ไปที่ `tapanapon-com/vectorcraft-th` เพื่อไม่ให้รุ่นต้นฉบับทับคำแปล ระบบอัปเดตต้นฉบับกรองรุ่น `-th.1` ออก จึงให้ดาวน์โหลดรุ่นไทยจาก Releases โดยตรง
 
 ## ติดตั้งบน Windows
 

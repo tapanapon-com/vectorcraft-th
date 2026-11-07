@@ -74,4 +74,8 @@ Update checks use `tapanapon-com/vectorcraft-th`, keeping upstream-only binaries
 
 ## ผลตรวจปัจจุบัน / Current source validation
 
-Mac UI library: 3,279 passed, zero failed or ignored. Formatting and workspace/all-target Clippy passed. Full workspace CI and platform packaging are pending; see [current validation](validation-0.22.0-th.1.json). Earlier 13,965-test results above remain historical.
+Complete shared CI passed all 12 stages:14,487 tests passed,15 skipped,0 failed. The compiled translation report has zero missing Thai/shared strings. Mac UI library:3,279 passed. See [full gate](https://github.com/tapanapon-com/vectorcraft-th/actions/runs/42376413663).
+
+The mounted **0.22.0-th.1** Mac DMG passed integrity/signature/arm64 checks, native save-close-reopen, byte-identical PNG round-trip, language switching and actual MCP initialize/tools-list (**33 tools**). The workspace, created blank document and exported PNG were visually inspected. Mac build source:`43629e9c15293f0f95ad3f63e5ab3b69f5baf168`; SHA-256:`09f5abb836e9e28b6d47105aad563b5997a97340880ea0fbaad22ec958a802a1`; 147,126,134 bytes.
+
+Windows x64 packaging is pending. Platform checks and exact source provenance are recorded in [current validation](validation-0.22.0-th.1.json). Earlier0.21.0 results above remain historical. Mac builds are ad-hoc signed and not Apple-notarized. Thai updates require manual downloads from this repository’s Releases.

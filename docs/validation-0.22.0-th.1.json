@@ -12,7 +12,7 @@
   "fmt": "passed",
   "macClippyAllTargets": "passed",
   "fullWorkspaceCI": "passed; all12sharedgate steps,14487tests passed,15skipped",
-  "platformPackaging": "Platform artifacts are validated separately after packaging; see release checksums",
+  "platformPackaging": "Mac passed; Windows packaging must pass before release publication",
   "fullCI": {
     "status": "passed",
     "workflowRun": "https://github.com/tapanapon-com/vectorcraft-th/actions/runs/42376413663",
@@ -26,5 +26,19 @@
     "equivalentCommittedTree": "dbbaa607897939624fde14a55eeb3ccdae8699be"
   },
   "compiledThaiMissing": 0,
-  "compiledSharedMissing": 0
+  "compiledSharedMissing": 0,
+  "mac": {
+    "status": "passed",
+    "artifact": "VectorCraft-TH-0.22.0-th.1-macOS-arm64.dmg",
+    "buildCommit": "43629e9c15293f0f95ad3f63e5ab3b69f5baf168",
+    "sha256": "09f5abb836e9e28b6d47105aad563b5997a97340880ea0fbaad22ec958a802a1",
+    "bytes": 147126134,
+    "cliVersion": "vectorcraft-cli 0.22.0-th.1",
+    "mcpTools": 33,
+    "architecture": "arm64",
+    "gui": "Thai interface; native save/close/reopen; unchanged artboards/layers; byte-identical PNG exports; language switching preserved full document inspection",
+    "visualInspection": "Thai workspace, newly created blank document workspace and exported PNG inspected; Thai shaping is clear. The new-document screenshot shows a created document, not a dialog.",
+    "notarized": false
+  },
+  "windows": "Pending native Windows x64 packaging and validation"
 }
