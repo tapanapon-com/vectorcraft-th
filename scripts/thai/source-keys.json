@@ -97,6 +97,14 @@
   ],
   [
     "",
+    "Stroke Weight Down"
+  ],
+  [
+    "",
+    "Stroke Weight Up"
+  ],
+  [
+    "",
     "Tweak"
   ],
   [
@@ -293,7 +301,19 @@
   ],
   [
     "@msg",
+    "`alignOn` cannot be empty"
+  ],
+  [
+    "@msg",
+    "`alignOn` must be a string"
+  ],
+  [
+    "@msg",
     "`align` is start, center or end"
+  ],
+  [
+    "@msg",
+    "`align` must be a string"
   ],
   [
     "@msg",
@@ -505,6 +525,10 @@
   ],
   [
     "@msg",
+    "`id` is an object id, not {v}"
+  ],
+  [
+    "@msg",
     "`id` must be a node id"
   ],
   [
@@ -602,6 +626,10 @@
   [
     "@msg",
     "`language` must be a language name or tag, such as \"Turkish\" or \"tr\""
+  ],
+  [
+    "@msg",
+    "`leader` must be a string"
   ],
   [
     "@msg",
@@ -3257,6 +3285,10 @@
   ],
   [
     "@msg",
+    "no layer to rename"
+  ],
+  [
+    "@msg",
     "no layer {id} (see layer.list)"
   ],
   [
@@ -4285,6 +4317,10 @@
   ],
   [
     "@msg",
+    "select one layer, group or object to rename"
+  ],
+  [
+    "@msg",
     "select paths"
   ],
   [
@@ -4502,6 +4538,14 @@
   [
     "@msg",
     "the CMYK image couldn't be written"
+  ],
+  [
+    "@msg",
+    "the Layers panel is not shown"
+  ],
+  [
+    "@msg",
+    "the Layers panel's search, filter or Show Layers Only hides its row"
   ],
   [
     "@msg",

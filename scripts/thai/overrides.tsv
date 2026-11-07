@@ -1,4 +1,7 @@
+
 	 to move in perspective  |  	 เพื่อย้ายตามทัศนมิติ  |  
+	3D Box	กล่อง 3 มิติ
+	3D Box Tool	เครื่องมือกล่อง 3 มิติ
 	Add Anchor (Pen)	เพิ่มจุดยึด (ปากกา)
 	Add Anchor Point	เพิ่มจุดยึด
 	Add Anchor Point Tool	เครื่องมือเพิ่มจุดยึด
@@ -9,6 +12,7 @@
 	Align Stroke to Inside	จัดเส้นขอบไว้ด้านในพาธ
 	Align Stroke to Outside	จัดเส้นขอบไว้ด้านนอกพาธ
 	Align to Artboard	จัดแนวตามอาร์ตบอร์ด
+	All Anchors	จุดยึดทั้งหมด
 	Anchor Inspector	ตัวตรวจจุดยึด
 	Anchor Point	จุดยึด
 	Anchor Point Tool	เครื่องมือจุดยึด
@@ -17,8 +21,10 @@
 	Anchors	จุดยึด
 	Anchors selected: {count}	จุดยึดที่เลือก: {count}
 	Anchors:	จุดยึด:
+	Apply Fill to Stroke	นำสีเติมไปใช้กับเส้นขอบ
 	Apply Gradient Preset	ใช้ค่าตั้งไล่ระดับสี
 	Apply Last Gradient	ใช้สีไล่ระดับล่าสุด
+	Apply Stroke to Fill	นำสีเส้นขอบไปใช้กับสีเติม
 	Area / Path Type	ข้อความแบบพื้นที่ / บนพาธ
 	Art	งานภาพ
 	Art Brush	แปรงอาร์ต
@@ -40,8 +46,10 @@
 	Asset Export	ส่งออกแอสเซ็ต
 	Asset Export Settings	การตั้งค่าส่งออกแอสเซ็ต
 	Assets	แอสเซ็ต
+	Assign Profile	กำหนดโปรไฟล์
 	Auto Leading:	ระยะบรรทัดอัตโนมัติ:
 	Backspace	Backspace
+	Bake	แปลงเป็นผลลัพธ์ถาวร
 	Bar Graph Tool	เครื่องมือกราฟแท่ง
 	Barbed	มีหนาม
 	Bas Relief…	ภาพนูนต่ำ…
@@ -68,6 +76,7 @@
 	Brush Libraries	คลังแปรง
 	Brush Libraries Menu	เมนูคลังแปรง
 	Brush Library	คลังแปรง
+	Brush Options	ตัวเลือกแปรง
 	Built-in Libraries	คลังที่มาพร้อมโปรแกรม
 	Bulge…	โป่ง…
 	Bullet	สัญลักษณ์หัวข้อย่อย
@@ -91,10 +100,13 @@
 	Cap Height	ความสูงตัวพิมพ์ใหญ่
 	Caps Lock Cursor State	สถานะเคอร์เซอร์เมื่อกด Caps Lock
 	Case	รูปแบบตัวพิมพ์
+	Catalan	กาตาลา
 	Chalk & Charcoal…	ชอล์กและถ่าน…
 	Change Case	เปลี่ยนรูปแบบตัวพิมพ์
 	Change to Artboard Rulers	เปลี่ยนเป็นไม้บรรทัดอาร์ตบอร์ด
 	Change to Global Rulers	เปลี่ยนเป็นไม้บรรทัดส่วนกลาง
+	Chinese	จีน
+	Clean Up	ล้างส่วนเกิน
 	Clipping Mask	คลิปปิงมาสก์
 	Clipping Masks	คลิปปิงมาสก์
 	Column Graph Tool	เครื่องมือกราฟแท่งแนวตั้ง
@@ -109,9 +121,13 @@
 	Compiled or not text	ผ่านการคอมไพล์หรือไม่ใช่ข้อความ
 	Compiled script: ask its author for the .jsx file	สคริปต์ที่คอมไพล์แล้ว: ขอไฟล์ .jsx จากผู้เขียน
 	Compound Path	พาธผสม
+	Compound Shapes	รูปทรงผสม
 	Concave	เว้า
 	Concentric Dividers:	เส้นแบ่งวงร่วมศูนย์:
+	Configure Shape	ตั้งค่ารูปทรง
 	Consider Open Filled Paths as Closed	ถือว่าพาธเปิดที่เติมสีเป็นพาธปิด
+	Contour	เส้นขอบซ้อน
+	Contour Tool	เครื่องมือเส้นขอบซ้อน
 	Conté Crayon…	สีเทียนคอนเต…
 	Convert All Strokes to Outlines	แปลงเส้นขอบทั้งหมดเป็นเค้าโครง
 	Convert All Text to Outlines	แปลงข้อความทั้งหมดเป็นเค้าโครง
@@ -137,11 +153,16 @@
 	Couldn't save recovery data: {e}	ไม่สามารถบันทึกข้อมูลกู้คืน: {e}
 	Create Clipping Mask	สร้างคลิปปิงมาสก์
 	Create Compound Path From Ellipses	สร้างพาธผสมจากวงรี
+	Create Gradient Mesh	สร้างตาข่ายไล่ระดับสี
 	Create Gradient Mesh…	สร้างตาข่ายไล่ระดับสี…
 	Create New Sublayer	สร้างเลเยอร์ย่อยใหม่
+	Create Object Mosaic	สร้างโมเสกจากวัตถุ
+	Croatian	โครเอเชีย
 	Crosshatch…	เส้นแรเงาไขว้…
 	Curvature Tool	เครื่องมือเส้นโค้ง
 	Cutout…	ภาพตัดกระดาษ…
+	Czech	เช็ก
+	Danish	เดนมาร์ก
 	Decrease Font Size by Five Steps	ลดขนาดฟอนต์ห้าขั้น
 	Default Fill and Stroke	สีเติมและเส้นขอบเริ่มต้น
 	Default Fill and Stroke (D)	สีเติมและเส้นขอบเริ่มต้น (D)
@@ -229,6 +250,7 @@
 	Esc	Esc
 	Essentials	พื้นฐาน
 	Essentials Classic	พื้นฐานแบบคลาสสิก
+	Even-Numbered Anchors	จุดยึดลำดับคู่
 	Every-line Composer	ตัวจัดข้อความทุกบรรทัด
 	Exact dash lengths	ความยาวเส้นประตามค่าที่กำหนด
 	Exceptions (comma separated)	ข้อยกเว้น (คั่นด้วยจุลภาค)
@@ -291,6 +313,7 @@
 	Filter Layers Panel Rows	กรองแถวในแผงเลเยอร์
 	Filters	ตัวกรอง
 	Find Font	ค้นหาฟอนต์
+	Finnish	ฟินแลนด์
 	Fit Artboard in Window	แสดงอาร์ตบอร์ดพอดีหน้าต่าง
 	Freeform Gradient	สีไล่ระดับแบบอิสระ
 	GPL palettes keep solid colours only, as RGB.	ชุดสี GPL เก็บเฉพาะสีทึบในรูปแบบ RGB
@@ -298,6 +321,7 @@
 	General › Thumbnails	ทั่วไป › ภาพย่อ
 	Geometric Guides	เส้นไกด์เรขาคณิต
 	Geometric Patterns	ลวดลายเรขาคณิต
+	German: Swiss	เยอรมัน: สวิตเซอร์แลนด์
 	Get Preferences	อ่านการตั้งค่า
 	Global Adjust	ปรับแบบส่วนกลาง
 	Global Brush Dimensions	ขนาดแปรงส่วนกลาง
@@ -403,11 +427,14 @@
 	Make/Release Clipping Mask	สร้าง/ยกเลิกคลิปปิงมาสก์
 	Mark as trapped	ระบุว่าทำแทรปสีแล้ว
 	Match User Interface Brightness	ใช้ความสว่างตามส่วนติดต่อผู้ใช้
+	Maximum angle	มุมสูงสุด
 	Merge Live Paint	รวมกลุ่มระบายสีไลฟ์
+	Minimum angle	มุมต่ำสุด
 	More Pathfinder options	ตัวเลือกพาธไฟน์เดอร์เพิ่มเติม
 	Move Anchor Point	ย้ายจุดยึด
 	Move Anchors	ย้ายจุดยึด
 	Move Artwork with Artboard	ย้ายงานภาพพร้อมอาร์ตบอร์ด
+	Move Document	ย้ายเอกสาร
 	Move Locked and Hidden Artwork with Artboard	ย้ายงานภาพที่ล็อกและซ่อนพร้อมอาร์ตบอร์ด
 	Move Spine Point	ย้ายจุดบนแนวแกน
 	Move Type on a Path	ย้ายข้อความบนพาธ
@@ -420,7 +447,12 @@
 	Neon Glow…	เรืองแสงนีออน…
 	New Artboard	อาร์ตบอร์ดใหม่
 	New Artboard Options…	ตัวเลือกอาร์ตบอร์ดใหม่…
+	New Layer	เลเยอร์ใหม่
+	New Sublayer	เลเยอร์ย่อยใหม่
+	No images match.	ไม่พบภาพที่ตรงกัน
+	Norwegian	นอร์เวย์
 	Object	วัตถุ
+	Odd-Numbered Anchors	จุดยึดลำดับคี่
 	Off-Axis Back	ด้านหลังนอกแกน
 	Off: an editable copy of its art, embedded in this document.	ปิด: ฝังสำเนางานที่แก้ไขได้ไว้ในเอกสารนี้
 	Offset X	ระยะเยื้อง X
@@ -490,11 +522,14 @@
 	Paintbrush Tool	เครื่องมือพู่กัน
 	Palette Knife…	เกรียงปาดสี…
 	Palette:	ชุดสี:
+	Paragraph options	ตัวเลือกย่อหน้า
+	Paragraph:	ย่อหน้า:
 	Parametric Shape	รูปทรงพารามิเตอร์
 	Parametric Shape Tool	เครื่องมือรูปทรงพารามิเตอร์
 	Paste Remembers Layers	วางโดยคงโครงสร้างเลเยอร์
 	Paste without Formatting	วางโดยไม่ใช้รูปแบบ
 	Patchwork…	ลายผ้าปะ…
+	Path Only	เฉพาะพาธ
 	Pathfinder	พาธไฟน์เดอร์
 	Pathfinder Options	ตัวเลือกพาธไฟน์เดอร์
 	Pathfinder Options…	ตัวเลือกพาธไฟน์เดอร์…
@@ -527,6 +562,7 @@
 	Polar Grid	กริดเชิงขั้ว
 	Polar Grid Tool	เครื่องมือกริดเชิงขั้ว
 	Polar Grid Tool Options	ตัวเลือกเครื่องมือกริดเชิงขั้ว
+	Polish	โปแลนด์
 	Power Saving (integrated)	ประหยัดพลังงาน (กราฟิกในตัว)
 	Precise Cursors	เคอร์เซอร์แบบแม่นยำ
 	Preserve Appearance	คงรูปลักษณ์
@@ -563,6 +599,8 @@
 	Release Repeat	ยกเลิกการทำซ้ำ
 	Release Slice	ยกเลิกชิ้นภาพ
 	Release Text Wrap	ยกเลิกข้อความล้อมวัตถุ
+	Release Type on a Path	แยกข้อความออกจากพาธ
+	Release Type on a Path…	แยกข้อความออกจากพาธ…
 	Remove Effects	ลบเอฟเฟกต์
 	Remove Line Breaks	ลบตัวแบ่งบรรทัด
 	Remove Paragraph Breaks	ลบตัวแบ่งย่อหน้า
@@ -600,6 +638,7 @@
 	Rounded Rectangle	สี่เหลี่ยมมุมมน
 	Rounded Rectangle…	สี่เหลี่ยมมุมมน…
 	Run Plug-in	เรียกใช้ปลั๊กอิน
+	Russian	รัสเซีย
 	Sample Color	ดูดสี
 	Sample Color from Screen	ดูดสีจากหน้าจอ
 	Sans Serif / Gothic	ไม่มีเชิง / โกธิก
@@ -672,20 +711,30 @@
 	Scissors Tool	เครื่องมือกรรไกร
 	Scribble	ขีดเขียน
 	Script / Brush	ลายมือ / พู่กัน
+	Search images	ค้นหาภาพ
 	Select	เลือก
 	Select All Bound Objects	เลือกวัตถุที่ผูกไว้ทั้งหมด
 	Select Anchors	เลือกจุดยึด
 	Select Appearance Item	เลือกรายการรูปลักษณ์
 	Select Bound Object	เลือกวัตถุที่ผูกไว้
+	Select Embedded	เลือกรายการที่ฝัง
 	Select Gradient Stop	เลือกจุดสีไล่ระดับ
+	Select Linked	เลือกรายการที่เชื่อมโยง
+	Select Missing	เลือกรายการที่หายไป
+	Select Modified	เลือกรายการที่เปลี่ยนแปลง
 	Select Unused	เลือกรายการที่ไม่ได้ใช้
 	Select an image to trace	เลือกภาพเพื่อแปลงเป็นเวกเตอร์
+	Select by Link Status	เลือกตามสถานะการเชื่อมโยง
+	Select by Link Status…	เลือกตามสถานะการเชื่อมโยง…
 	Separate several keywords with commas.	คั่นคำสำคัญด้วยเครื่องหมายจุลภาค
 	Separations	การแยกสี
 	Separations Preview	ดูตัวอย่างการแยกสี
 	Separations list the document's inks here: one page per ink that prints.	แสดงรายการหมึกพิมพ์ในเอกสารที่นี่ โดยแยกหนึ่งหน้าต่อหมึกแต่ละสีที่พิมพ์
+	Serbian: Cyrillic	เซอร์เบีย: ซีริลลิก
+	Serbian: Latin	เซอร์เบีย: ละติน
 	Serialize Document	แปลงเอกสารเป็นข้อมูลสำหรับจัดเก็บ
 	Serif / Mincho	มีเชิง / มินโช
+	Set Corners…	ตั้งค่ามุม…
 	Set Preference	กำหนดการตั้งค่า
 	Set Size of Each…	กำหนดขนาดแต่ละชิ้น…
 	Set Slice Rectangle	กำหนดกรอบสี่เหลี่ยมของชิ้นภาพ
@@ -694,8 +743,10 @@
 	Shape Builder Delete	ลบด้วยเครื่องมือสร้างรูปทรง
 	Shape Builder Regions	บริเวณสร้างรูปทรง
 	Shape Builder Tool	เครื่องมือสร้างรูปทรง
+	Shape Mode Buttons Make Compound Shapes	ปุ่มโหมดรูปทรงสร้างรูปทรงผสม
 	Shaper	ปรับรูปทรงอิสระ
 	Shaper Tool	เครื่องมือปรับรูปทรงอิสระ
+	Sharp	แหลม
 	Shell Lower	เปลือกหอยด้านล่าง
 	Shell Upper	เปลือกหอยด้านบน
 	Shift to Color	เลื่อนไปยังสี
@@ -770,11 +821,14 @@
 	Stroke Options	ตัวเลือกเส้นขอบ
 	Stroke Pressure	แรงกดเส้นขอบ
 	Stroke Weight	ความหนาเส้นขอบ
+	Stroke Weight Down	ลดความหนาเส้นขอบ
+	Stroke Weight Up	เพิ่มความหนาเส้นขอบ
 	Stroke Width	ความกว้างเส้นขอบ
 	Stroke:	เส้นขอบ:
 	Strokes	เส้นขอบ
 	Swap Fill and Stroke	สลับสีเติมกับเส้นขอบ
 	Swap Fill and Stroke (Shift+X)	สลับสีเติมกับเส้นขอบ (Shift+X)
+	Swedish	สวีเดน
 	Tablet 1024×1366	แท็บเล็ต 1024×1366
 	Tablet 1024×768	แท็บเล็ต 1024×768
 	Tablet 768×1024	แท็บเล็ต 768×1024
@@ -788,6 +842,7 @@
 	Text Wrap	ข้อความล้อมวัตถุ
 	Text Wrap Options	ตัวเลือกข้อความล้อมวัตถุ
 	Text Wrap Options…	ตัวเลือกข้อความล้อมวัตถุ…
+	Text and Path	ข้อความและพาธ
 	The Print Tiling tool placed the pages.	เครื่องมือพิมพ์แบบแบ่งหน้าได้จัดวางหน้าไว้แล้ว
 	The cell shows the type object's text as HTML.	เซลล์แสดงข้อความจากวัตถุข้อความในรูปแบบ HTML
 	The key color becomes the stroke color. The other colors shift their hue by the same amount and keep their saturation and brightness.	สีหลักจะเปลี่ยนเป็นสีเส้นขอบ สีอื่นจะเลื่อนเฉดสีเท่ากัน โดยคงความอิ่มสีและความสว่างไว้
@@ -824,6 +879,8 @@
 	Transparency is flattened with the preset. Type is written as outlines; gradients as bands of colour.	รวมความโปร่งใสตามค่าตั้ง โดยแปลงข้อความเป็นเส้นเค้าโครง และไล่ระดับสีเป็นแถบสี
 	Transparency is flattened with the preset. Type is written as outlines; gradients stay smooth.	รวมความโปร่งใสตามค่าตั้ง โดยแปลงข้อความเป็นเส้นเค้าโครง และคงการไล่ระดับสีที่เรียบเนียน
 	Transverse (the page a quarter turn on the paper)	ตามขวาง (หมุนหน้าหนึ่งในสี่รอบบนกระดาษ)
+	Turkish	ตุรกี
+	Turn the Contour into plain paths	แปลงเส้นขอบซ้อนเป็นพาธปกติ
 	Tweak	ปรับแต่ง
 	Two Point Perspective	ทัศนมิติแบบสองจุด
 	Two Point Perspective Preset 1	ค่าตั้งทัศนมิติแบบสองจุด 1
@@ -901,6 +958,8 @@
 @msg	CSV holds NUL bytes: save it as UTF-8, or as UTF-16 with a byte-order mark	CSV มีไบต์ NUL: บันทึกเป็น UTF-8 หรือ UTF-16 พร้อมเครื่องหมายลำดับไบต์
 @msg	Choose a circle or a perfect arc	เลือกวงกลมหรือส่วนโค้งวงกลมที่สมบูรณ์
 @msg	Click in type with a Type tool to split it	คลิกในข้อความด้วยเครื่องมือข้อความเพื่อแบ่งข้อความ
+@msg	Contour: select paths or shapes	เส้นขอบซ้อน: เลือกพาธหรือรูปทรง
+@msg	Contour: the Offset Path effect is not available	เส้นขอบซ้อน: เอฟเฟกต์เยื้องพาธไม่พร้อมใช้งาน
 @msg	Create Outlines: select text objects	สร้างเส้นเค้าโครง: เลือกวัตถุข้อความ
 @msg	First measured segment no longer exists	ส่วนของเส้นที่วัดชิ้นแรกไม่มีอยู่แล้ว
 @msg	Flare click coordinates must be finite numbers	พิกัดคลิกของแสงแฟลร์ต้องเป็นจำนวนจำกัด
@@ -911,6 +970,7 @@
 @msg	Image Trace finished, but its document was closed	แปลงภาพเป็นเวกเตอร์เสร็จแล้ว แต่เอกสารถูกปิด
 @msg	Image Trace finished, but the image or its settings changed meanwhile: trace it again	แปลงภาพเป็นเวกเตอร์เสร็จแล้ว แต่ภาพหรือการตั้งค่าเปลี่ยนระหว่างทำงาน: โปรดแปลงใหม่
 @msg	Image Trace: the traced image is missing	แปลงภาพเป็นเวกเตอร์: ไม่พบภาพต้นทาง
+@msg	Join: a subpath went missing	เชื่อมพาธ: ไม่พบพาธย่อย
 @msg	Live Paint takes paths and compound paths: convert type, images and other objects to paths first	ระบายสีไลฟ์ใช้พาธและพาธผสม ให้แปลงข้อความ ภาพ และวัตถุอื่นเป็นพาธก่อน
 @msg	Live Paint: these paths are too degenerate to paint	ระบายสีไลฟ์: รูปทรงพาธเหล่านี้ผิดรูปจนไม่สามารถระบายสีได้
 @msg	Lock Workspace is not available in VectorCraft	VectorCraft ยังไม่รองรับการล็อกพื้นที่ทำงาน
@@ -920,8 +980,11 @@
 @msg	No paragraph breaks to remove	ไม่มีตัวแบ่งย่อหน้าให้ลบ
 @msg	No saved views (View → New View…)	ไม่มีมุมมองที่บันทึกไว้ (มุมมอง → มุมมองใหม่…)
 @msg	Non-finite dimension	ค่ามิติไม่ใช่จำนวนจำกัด
+@msg	Offset Path: the path is too complex to offset	เยื้องพาธ: พาธซับซ้อนเกินกว่าจะเยื้องได้
+@msg	Offset Path: {e}	เยื้องพาธ: {e}
 @msg	PDF writer error: {0}	ข้อผิดพลาดในการเขียน PDF: {0}
 @msg	Packaging {_1}	กำลังรวบรวมแพ็กเกจ {_1}
+@msg	Plug-ins can't be loaded from {path}: {e}	ไม่สามารถโหลดปลั๊กอินจาก {path}: {e}
 @msg	Replace Spine: select a blend and a path	แทนที่แกนกลาง: เลือกวัตถุผสมและพาธ
 @msg	Save writes one artboard: name one, or export several with document.export	การบันทึกเขียนได้หนึ่งอาร์ตบอร์ด: ระบุอาร์ตบอร์ดหนึ่งชิ้น หรือส่งออกหลายชิ้นด้วย document.export
 @msg	Saved {path} with {_1} note(s): {first}	บันทึก {path} พร้อมหมายเหตุ {_1} รายการ: {first}
@@ -939,29 +1002,45 @@
 @msg	Too many type objects to change at once	มีวัตถุข้อความมากเกินไปที่จะเปลี่ยนพร้อมกัน
 @msg	Trap: no edges of different colours meet among the selected objects	ขยายขอบสีเพื่อการพิมพ์: วัตถุที่เลือกไม่มีขอบสีต่างกันสัมผัสกัน
 @msg	Trap: select two or more objects filled with solid colours	ขยายขอบสีเพื่อการพิมพ์: เลือกวัตถุที่เติมสีทึบอย่างน้อยสองชิ้น
+@msg	`alignOn` cannot be empty	`alignOn` ต้องไม่ว่าง
+@msg	`alignOn` must be a string	`alignOn` ต้องเป็นข้อความ
 @msg	`align` must be "left", "center" or "right", not {other}	`align` ต้องเป็น "left", "center" หรือ "right" ไม่ใช่ {other}
+@msg	`align` must be a string	`align` ต้องเป็นข้อความ
 @msg	`artboards`: all or a range such as 1, 3-5, not {v}	`artboards`: ใช้ all หรือช่วง เช่น 1, 3-5 ไม่ใช่ {v}
 @msg	`by` must be lines, paragraphs, words or glyphs, not {other}	`by` ต้องเป็น lines, paragraphs, words หรือ glyphs ไม่ใช่ {other}
 @msg	`clear` must be a list of type object ids, not {v}	`clear` ต้องเป็นรายการรหัสวัตถุข้อความ ไม่ใช่ {v}
 @msg	`clear` must list type objects; {_1} is not one	`clear` ต้องระบุวัตถุข้อความ แต่ {_1} ไม่ใช่วัตถุข้อความ
 @msg	`columnType` is vertical, uniform, repeating or sliding	`columnType` ต้องเป็น vertical, uniform, repeating หรือ sliding
+@msg	`corners` must be sharp, round or square, not `{other}`	`corners` ต้องเป็น sharp, round หรือ square ไม่ใช่ `{other}`
 @msg	`documentData` is {size} bytes (limit {MAX_DOCUMENT_DATA})	`documentData` มีขนาด {size} ไบต์ (ขีดจำกัด {MAX_DOCUMENT_DATA})
+@msg	`every` must be "all", "odd" or "even", not {v}	`every` ต้องเป็น "all", "odd" หรือ "even" ไม่ใช่ {v}
+@msg	`expand` must be true or false	`expand` ต้องเป็น true หรือ false
+@msg	`format` must be a string	`format` ต้องเป็นสตริง
+@msg	`from` must be a non-negative integer	`from` ต้องเป็นจำนวนเต็มที่ไม่ติดลบ
 @msg	`from` must be area type or type on a path	`from` ต้องเป็นข้อความแบบพื้นที่หรือข้อความบนพาธ
 @msg	`glyphAlternate` belongs to one character, not to a character style (text.setGlyphAlternate sets it)	`glyphAlternate` ใช้กับตัวอักษรหนึ่งตัว ไม่ใช่สไตล์ตัวอักษร (กำหนดด้วย text.setGlyphAlternate)
 @msg	`hAlign` must be default, left, center or right	`hAlign` ต้องเป็น default, left, center หรือ right
+@msg	`id` is an object id, not {v}	`id` เป็นรหัสวัตถุ ไม่ใช่ {v}
+@msg	`includeSubdirs` must be true or false	`includeSubdirs` ต้องเป็น true หรือ false
 @msg	`kind` must be one of: rectangle, ellipse, polygon, star, ring, arrow, cross, heart, gear, bubble	`kind` ต้องเป็นหนึ่งในค่าเหล่านี้: rectangle, ellipse, polygon, star, ring, arrow, cross, heart, gear, bubble
+@msg	`leader` must be a string	`leader` ต้องเป็นข้อความ
 @msg	`minAnchors` and `maxAnchors` must be whole numbers	`minAnchors` และ `maxAnchors` ต้องเป็นจำนวนเต็ม
+@msg	`minAngle` ({min_angle}°) can't be more than `maxAngle` ({max_angle}°)	`minAngle` ({min_angle}°) ต้องไม่มากกว่า `maxAngle` ({max_angle}°)
 @msg	`mode` applies to freeform gradients	`mode` ใช้กับการไล่ระดับสีอิสระ
 @msg	`position` is above or below	`position` ต้องเป็น above หรือ below
+@msg	`preset` must be a string	`preset` ต้องเป็นสตริง
 @msg	`radius` must be from 0 to 1000000 pt	`radius` ต้องอยู่ระหว่าง 0 ถึง 1000000 pt
 @msg	`rect` must be [x, y, width, height] with a positive size	`rect` ต้องเป็น [x, y, width, height] โดยมีขนาดเป็นบวก
 @msg	`shift` must be a number of points	`shift` ต้องเป็นตัวเลขในหน่วยพอยต์
+@msg	`status` must be linked, embedded, missing or modified, or a list of them	`status` ต้องเป็น linked, embedded, missing หรือ modified หรือรายการของค่าเหล่านี้
 @msg	`stop` must be a stop index	`stop` ต้องเป็นดัชนีจุดสีไล่ระดับ
 @msg	`subpaths` must be two integer indices	`subpaths` ต้องเป็นดัชนีจำนวนเต็มสองค่า
 @msg	`tint` applies to global and spot colours	`tint` ใช้กับสีส่วนกลางและสีพิเศษ
 @msg	`tint` goes with a global or spot `swatch`	`tint` ใช้ร่วมกับ `swatch` ชนิดสีส่วนกลางหรือสีพิเศษ
 @msg	`tint` needs a global or spot colour	`tint` ต้องใช้สีส่วนกลางหรือสีพิเศษ
 @msg	`to` must be a closed path, area type or type on a path other than `from`	`to` ต้องเป็นพาธปิด ข้อความแบบพื้นที่ หรือข้อความบนพาธที่ต่างจาก `from`
+@msg	`with` moves points, not a handle	`with` ย้ายจุด ไม่ใช่แขนควบคุม
+@msg	`with` must be a list of at most 10000 spine point indexes	`with` ต้องเป็นรายการดัชนีจุดแนวแกนไม่เกิน 10000 จุด
 @msg	`{_1}` can't be edited or removed	แก้ไขหรือนำ `{_1}` ออกไม่ได้
 @msg	`{_1}` is a live effect: apply it with effect.apply {{"effect"}"}}	`{_1}` เป็นเอฟเฟกต์แบบสด: ใช้ด้วย effect.apply {{"effect"}"}}
 @msg	`{_1}` is a {_2}, not an exporter	`{_1}` เป็น {_2} ไม่ใช่ตัวส่งออก
@@ -975,6 +1054,7 @@
 @msg	`{file}` isn't a VectorCraft document, a PDF or a PDF-compatible .ai file	`{file}` ไม่ใช่เอกสาร VectorCraft, PDF หรือ .ai ที่เข้ากันได้กับ PDF
 @msg	`{given}` isn't a library panel (see window.swatchLibrary)	`{given}` ไม่ใช่แผงคลัง (ดู window.swatchLibrary)
 @msg	`{id}` isn't a loaded library	`{id}` ไม่ใช่คลังที่โหลดอยู่
+@msg	`{key}` must be from 0 to 180 degrees, not {a}	`{key}` ต้องอยู่ระหว่าง 0 ถึง 180 องศา ไม่ใช่ {a}
 @msg	`{name}` is a working space: choose another with edit.colorSettings first	`{name}` เป็นปริภูมิสีที่ใช้งานอยู่: เลือกปริภูมิสีอื่นด้วย edit.colorSettings ก่อน
 @msg	`{name}`: Minimum must not exceed Desired, nor Desired Maximum	`{name}`: ค่าต่ำสุดต้องไม่เกินค่าที่ต้องการ และค่าที่ต้องการต้องไม่เกินค่าสูงสุด
 @msg	`{n}` isn't a solid colour	`{n}` ไม่ใช่สีทึบ
@@ -1025,6 +1105,7 @@
 @msg	check an artboard to export	ทำเครื่องหมายเลือกอาร์ตบอร์ดที่จะส่งออก
 @msg	check an asset to export	ทำเครื่องหมายเลือกแอสเซ็ตที่จะส่งออก
 @msg	choice must be "merge" or "add", not `{choice}`	choice ต้องเป็น "merge" หรือ "add" ไม่ใช่ `{choice}`
+@msg	choose at least one status	เลือกอย่างน้อยหนึ่งสถานะ
 @msg	closing needs three anchors	การปิดพาธต้องมีจุดยึดสามจุด
 @msg	column must be true or a number from 1	column ต้องเป็น true หรือจำนวนตั้งแต่ 1 ขึ้นไป
 @msg	column {column}: `{cell}` names no variable	คอลัมน์ {column}: `{cell}` ไม่ตรงกับชื่อตัวแปรใด
@@ -1061,17 +1142,23 @@
 @msg	invalid object id {value}: expected a non-negative integer	รหัสวัตถุ {value} ไม่ถูกต้อง: ต้องเป็นจำนวนเต็มที่ไม่ติดลบ
 @msg	is not an image VectorCraft reads	ไม่ใช่ภาพที่ VectorCraft อ่านได้
 @msg	it has more than one artboard	มีอาร์ตบอร์ดมากกว่าหนึ่งชิ้น
+@msg	its clipping masks are nested too deeply	มาสก์ตัดขอบซ้อนกันลึกเกินไป
 @msg	its metadata has no description	ข้อมูลเมตาไม่มีคำอธิบาย
 @msg	its metadata has no direct length	ข้อมูลเมตาไม่มีค่าความยาวโดยตรง
 @msg	keywords must be a list of words or a comma-separated string	keywords ต้องเป็นรายการคำหรือสตริงที่คั่นด้วยจุลภาค
 @msg	layers can't be wrap objects	เลเยอร์ใช้เป็นวัตถุสำหรับให้ข้อความล้อมไม่ได้
 @msg	line {line}: unclosed quote	บรรทัด {line}: ยังไม่ปิดเครื่องหมายอัญประกาศ
+@msg	linked pictures with no preview in the file show a placeholder until their files are found: relink them in the Links panel	ภาพที่เชื่อมโยงและไม่มีภาพตัวอย่างในไฟล์จะแสดงตัวยึดตำแหน่งจนกว่าจะพบไฟล์ ให้เชื่อมโยงใหม่ในแผงลิงก์
+@msg	linked type areas past VectorCraft's limits were left out	ละเว้นพื้นที่ข้อความที่เชื่อมโยงซึ่งเกินขีดจำกัดของ VectorCraft
 @msg	margin: a {m} pt margin leaves no imageable area on the paper	margin: ขอบ {m} pt ทำให้ไม่เหลือพื้นที่พิมพ์บนกระดาษ
 @msg	matte: {e}	สีพื้นรอง: {e}
 @msg	member is for order front, forward, backward or back	member ใช้กับ order ค่า front, forward, backward หรือ back
 @msg	missing `id`: give one, or select one type object	ขาด `id`: ระบุรหัสหรือเลือกวัตถุข้อความหนึ่งชิ้น
 @msg	missing `index` (a point index, or null to clear)	ขาด `index` (ดัชนีจุด หรือ null เพื่อล้างค่า)
 @msg	missing `index` (a stop index, or null to clear)	ขาด `index` (ดัชนีจุดสีไล่ระดับ หรือ null เพื่อล้างค่า)
+@msg	missing `offset` (a distance in points)	ไม่มี `offset` (ระยะทางเป็นพอยต์)
+@msg	missing `status`: linked, embedded, missing or modified	ไม่มี `status`: linked, embedded, missing หรือ modified
+@msg	missing `to`: a non-negative integer	ไม่มี `to`: จำนวนเต็มที่ไม่ติดลบ
 @msg	missing from	ขาด from
 @msg	missing id or ids	ขาด id หรือ ids
 @msg	missing ids	ขาด ids
@@ -1089,6 +1176,7 @@
 @msg	no free data set file name in destination folder	ไม่มีชื่อไฟล์ชุดข้อมูลที่ยังว่างในโฟลเดอร์ปลายทาง
 @msg	no free recovery area	ไม่มีพื้นที่กู้คืนที่ว่าง
 @msg	no gradient stop or freeform point is selected	ยังไม่ได้เลือกจุดสีไล่ระดับหรือจุดสีอิสระ
+@msg	no layer to rename	ไม่มีเลเยอร์ให้เปลี่ยนชื่อ
 @msg	no parent layer	ไม่มีเลเยอร์แม่
 @msg	no saved views	ไม่มีมุมมองที่บันทึกไว้
 @msg	no stop {i} (the gradient has {n})	ไม่มีจุดสี {i} (การไล่ระดับสีมี {n} จุด)
@@ -1104,6 +1192,8 @@
 @msg	nothing to wrap	ไม่มีวัตถุสำหรับให้ข้อความล้อม
 @msg	object ids are non-negative integers, not {v}	รหัสวัตถุต้องเป็นจำนวนเต็มที่ไม่ติดลบ ไม่ใช่ {v}
 @msg	object transparency cannot be sampled onto highlighted characters; disable Transparency in Eyedropper Options or select the whole object	ดูดค่าความโปร่งใสของวัตถุไปใช้กับตัวอักษรที่เลือกไม่ได้: ปิดความโปร่งใสในตัวเลือกหลอดดูดสี หรือเลือกทั้งวัตถุ
+@msg	object {_1} can't be set as point type	ไม่สามารถตั้งวัตถุ {_1} เป็นข้อความแบบจุดได้
+@msg	object {_1} has no path	วัตถุ {_1} ไม่มีพาธ
 @msg	only groups, layers, type and images have a Contents (Characters) row	เฉพาะกลุ่ม เลเยอร์ ข้อความ และภาพเท่านั้นที่มีแถวเนื้อหา (ตัวอักษร)
 @msg	only solid colours can be added (not gradients or patterns)	เพิ่มได้เฉพาะสีทึบ (ไม่ใช่การไล่ระดับสีหรือลวดลาย)
 @msg	only solid-colour swatches can be spot colours	เฉพาะตัวอย่างสีทึบเท่านั้นที่ใช้เป็นสีพิเศษได้
@@ -1125,8 +1215,10 @@
 @msg	scope must be selection or all (got {other})	scope ต้องเป็น selection หรือ all (ได้รับ {other})
 @msg	seconds must be a whole number from 1 to 60	seconds ต้องเป็นจำนวนเต็มตั้งแต่ 1 ถึง 60
 @msg	select a clip group	เลือกกลุ่มคลิปปิง
+@msg	select a path	เลือกพาธ
 @msg	select an Image Trace object	เลือกวัตถุแปลงภาพเป็นเวกเตอร์
 @msg	select an Intertwine group	เลือกกลุ่มสอดประสาน
+@msg	select one layer, group or object to rename	เลือกเลเยอร์ กลุ่ม หรือวัตถุหนึ่งรายการเพื่อเปลี่ยนชื่อ
 @msg	select something to export (or turn off selectedOnly)	เลือกสิ่งที่จะส่งออก (หรือปิด selectedOnly)
 @msg	select two or more objects to intertwine	เลือกวัตถุอย่างน้อยสองชิ้นเพื่อสานไขว้
 @msg	select two or more slices to combine	เลือกชิ้นภาพอย่างน้อยสองชิ้นเพื่อรวมกัน
@@ -1139,8 +1231,10 @@
 @msg	sizeVariation must be 0 or more	sizeVariation ต้องเป็น 0 หรือมากกว่า
 @msg	sort `{x}`: name, kind or status	sort `{x}`: ใช้ name, kind หรือ status
 @msg	spot, mode and group apply to solid colours only	spot, mode และ group ใช้ได้กับสีทึบเท่านั้น
+@msg	status `{s}`: linked, embedded, missing or modified	สถานะ `{s}`: linked, embedded, missing หรือ modified
 @msg	steps must be 1..1000	steps ต้องอยู่ในช่วง 1..1000
 @msg	steps must be 1..{MAX_STEPS}	steps ต้องอยู่ในช่วง 1..{MAX_STEPS}
+@msg	stop {i}: `plates` must be four numbers from 0 to 1 (C, M, Y, K)	จุดสี {i}: `plates` ต้องเป็นตัวเลขสี่ค่าระหว่าง 0 ถึง 1 (C, M, Y, K)
 @msg	strokeMode must be within|along|across, got {m}	strokeMode ต้องเป็น within|along|across แต่ได้รับ {m}
 @msg	strokeOptions must be an object of stroke.set options	strokeOptions ต้องเป็นออบเจ็กต์ตัวเลือกของ stroke.set
 @msg	strokeWidth must be a positive number of pixels	strokeWidth ต้องเป็นจำนวนพิกเซลที่เป็นบวก
@@ -1149,13 +1243,17 @@
 @msg	swatchConflict must be "merge" or "add", not {v}	swatchConflict ต้องเป็น "merge" หรือ "add" ไม่ใช่ {v}
 @msg	textureImage: give {path} or {name, dataBase64} of an image file, or a texture as effect.list gives it	textureImage: ระบุ {path} หรือ {name, dataBase64} ของไฟล์ภาพ หรือพื้นผิวในรูปแบบที่ effect.list ส่งกลับ
 @msg	that makes too many pieces (at most 100000): make the dashes longer	ทำให้เกิดชิ้นส่วนมากเกินไป (สูงสุด 100000): เพิ่มความยาวขีดเส้นประ
+@msg	the Layers panel is not shown	แผงเลเยอร์ไม่แสดงอยู่
+@msg	the Layers panel's search, filter or Show Layers Only hides its row	การค้นหา ตัวกรอง หรือแสดงเฉพาะเลเยอร์ของแผงเลเยอร์ซ่อนแถวนี้อยู่
 @msg	the PDF security settings were saved without their passwords: give openPassword or permissionsPassword again, or security without passwordRequired to export unprotected	บันทึกการตั้งค่าความปลอดภัย PDF โดยไม่เก็บรหัสผ่านไว้: ระบุ openPassword หรือ permissionsPassword อีกครั้ง หรือระบุ security โดยไม่มี passwordRequired เพื่อส่งออกแบบไม่ป้องกัน
 @msg	the container of the listed objects is gone	คอนเทนเนอร์ของวัตถุที่ระบุไม่มีอยู่แล้ว
 @msg	the deferred paste is no longer available	การวางที่รอดำเนินการไม่พร้อมใช้งานแล้ว
+@msg	the dialog it was opened over is no longer open	กล่องโต้ตอบที่อยู่ด้านล่างปิดไปแล้ว
 @msg	the file's layers weren't read ({_1}): it comes in as its page, in one layer	ไม่ได้อ่านเลเยอร์ของไฟล์ ({_1}): นำเข้าภาพหน้าทั้งหมดเป็นเลเยอร์เดียว
 @msg	the image is not on an artboard; pass rect	ภาพไม่ได้อยู่บนอาร์ตบอร์ด; ระบุ rect
 @msg	the paint behind the proxy is not a gradient	สีต้นทางของพร็อกซีไม่ใช่สีไล่ระดับ
 @msg	the parent must be a layer or sublayer	วัตถุแม่ต้องเป็นเลเยอร์หรือเลเยอร์ย่อย
+@msg	the spot colour couldn't be added	ไม่สามารถเพิ่มสีพิเศษได้
 @msg	the symbols are nested too deeply to expand their instances	สัญลักษณ์ซ้อนกันลึกเกินไปที่จะแปลงอินสแตนซ์เป็นวัตถุ
 @msg	the trace was cancelled	ยกเลิกการแปลงภาพเป็นเวกเตอร์แล้ว
 @msg	the trailer has no size	ส่วนท้ายไฟล์ไม่มีขนาด
@@ -1168,6 +1266,7 @@
 @msg	transparentImages {v}: "flatten" (the default) or "omit"	transparentImages {v}: ใช้ "flatten" (ค่าเริ่มต้น) หรือ "omit"
 @msg	type dimension cannot be represented with this text transform	ไม่สามารถแสดงขนาดข้อความด้วยการแปลงข้อความนี้
 @msg	type dimension must be finite	ขนาดข้อความต้องเป็นค่าจำกัด
+@msg	type used as a mask in linked areas, wraparound text or a compound path doesn't clip	ข้อความที่ใช้เป็นมาสก์ในพื้นที่เชื่อมโยง ข้อความล้อมวัตถุ หรือพาธผสมไม่ตัดขอบ
 @msg	unknown axis `{other}` (vertical|horizontal|free)	ไม่รู้จักแกน `{other}` (vertical|horizontal|free)
 @msg	unknown gradient kind `{k}` (linear, radial, freeform)	ไม่รู้จักชนิดสีไล่ระดับ `{k}` (linear, radial, freeform)
 @msg	unknown shape `{v}` (circle|ellipse|square|diamond|line)	ไม่รู้จักรูปทรง `{v}` (circle|ellipse|square|diamond|line)
@@ -1234,6 +1333,11 @@
 @msgplural	Replaced {n} image|Replaced {n} images	แทนที่ภาพ {n} ภาพ
 @msgplural	Restored {n} recovered document: save it to keep it|Restored {n} recovered documents: save them to keep them	กู้คืนเอกสาร {n} ฉบับแล้ว: โปรดบันทึกเพื่อเก็บไว้
 @msgplural	Saved {path} with {n} note: {first}|Saved {path} with {n} notes: {first}	บันทึก {path} พร้อมหมายเหตุ {n} รายการ: {first}
+@msgplural	Selected {n} embedded image|Selected {n} embedded images	เลือกภาพที่ฝัง {n} ภาพแล้ว
+@msgplural	Selected {n} image|Selected {n} images	เลือกภาพ {n} ภาพแล้ว
+@msgplural	Selected {n} linked image|Selected {n} linked images	เลือกภาพที่เชื่อมโยง {n} ภาพแล้ว
+@msgplural	Selected {n} missing image|Selected {n} missing images	เลือกภาพที่หายไป {n} ภาพแล้ว
+@msgplural	Selected {n} modified image|Selected {n} modified images	เลือกภาพที่เปลี่ยนแปลง {n} ภาพแล้ว
 @msgplural	Traced {n} image; not traced: {failed}|Traced {n} images; not traced: {failed}	แปลงภาพเป็นเวกเตอร์ {n} ภาพ ยังไม่ได้แปลง: {failed}
 @msgplural	Traced {n} image|Traced {n} images	แปลงภาพเป็นเวกเตอร์ {n} ภาพ
 @msgplural	Updated {n} image|Updated {n} images	อัปเดตภาพ {n} ภาพ
@@ -1247,6 +1351,10 @@
 @msgplural	{n} linked file can't be read here: its preview shows|{n} linked files can't be read here: their previews show	อ่านไฟล์ที่เชื่อมโยง {n} ไฟล์ไม่ได้: แสดงภาพตัวอย่างแทน
 @msgplural	{n} linked file not found|{n} linked files not found	ไม่พบไฟล์ที่เชื่อมโยง {n} ไฟล์
 @msgplural	{n} linked image changed on disk: Update Links shows the new version|{n} linked images changed on disk: Update Links shows the new versions	ภาพที่เชื่อมโยง {n} ภาพเปลี่ยนบนดิสก์: อัปเดตการเชื่อมโยงเพื่อแสดงรุ่นใหม่
+@msgplural	{selected}; {n} more can't be selected now|{selected}; {n} more can't be selected now	{selected}; ยังเลือกอีก {n} รายการไม่ได้ในขณะนี้
+@msgplural	{selected}; {n} more is hidden or locked|{selected}; {n} more are hidden or locked	{selected}; อีก {n} รายการถูกซ่อนหรือล็อก
+@msgplural	{selected}; {n} more is on a template layer|{selected}; {n} more are on template layers	{selected}; อีก {n} รายการอยู่ในเลเยอร์แม่แบบ
+@msgplural	{selected}; {n} more is outside the isolated group|{selected}; {n} more are outside the isolated group	{selected}; อีก {n} รายการอยู่นอกกลุ่มที่แยกไว้
 @plural	Apply to All ({n} more missing)|Apply to All ({n} more missing)	ใช้กับทั้งหมด (ยังขาดอีก {n})
 @plural	Color Table ({n} color)|Color Table ({n} colors)	ตารางสี ({n} สี)
 @plural	Delete this {n} brush?|Delete these {n} brushes?	ลบแปรง {n} แบบนี้หรือไม่?

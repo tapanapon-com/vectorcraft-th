@@ -1,0 +1,16 @@
+{
+  "date": "2026-11-07",
+  "thaiVersion": "0.22.0-th.1",
+  "upstreamCommit": "654749c16eb20b6d3182a96defb66e11d1a9649a",
+  "catalogEntries": 7920,
+  "newTranslations": 107,
+  "catalogErrors": 0,
+  "compiledThaiGaps": 0,
+  "macUiTestsPassed": 3279,
+  "macUiTestsFailed": 0,
+  "macUiTestsIgnored": 0,
+  "fmt": "passed",
+  "macClippyAllTargets": "passed",
+  "fullWorkspaceCI": "pending external CI; two local full attempts interrupted to protect system disk space from swap growth",
+  "platformPackaging": "pending"
+}

@@ -1,6 +1,6 @@
 [package]
 name = "vectorcraft-ui-egui"
-version.workspace = true
+version = "0.22.0-th.1"
 edition.workspace = true
 license.workspace = true
 description = "VectorCraft egui frontend (menus, panels, tools and canvas); swappable — nothing below depends on it"

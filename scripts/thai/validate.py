@@ -9,7 +9,7 @@ CATALOGS = ROOT / 'crates/ui-egui/src/i18n'
 
 def read(path):
     rows = {}
-    for n, line in enumerate(path.read_text().splitlines(), 1):
+    for n, line in enumerate(path.read_text(encoding='utf-8').splitlines(), 1):
         if not line or line.startswith('#'):
             continue
         fields = line.split('\t')
@@ -34,7 +34,7 @@ def validate():
     for path in CATALOGS.glob('*.tsv'):
         if path.stem != 'th':
             expected.update(read(path))
-    expected.update(map(tuple,json.loads(Path(__file__).with_name("source-keys.json").read_text())))
+    expected.update(map(tuple,json.loads(Path(__file__).with_name("source-keys.json").read_text(encoding="utf-8"))))
     errors = []
     for (ctx, source), target in thai.items():
         comparison = source.split('|')[-1] if ctx in ('@plural', '@msgplural') else source
