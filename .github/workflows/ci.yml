@@ -23,7 +23,13 @@ jobs:
     with:
       # Same craft-fonts commit as release.yml.
       craft-fonts-ref: b076417b5880bd4154bd22f00695b1d28c6bea83
-      timeout-minutes: 90
+      timeout-minutes: 180
+      dev-debug: "0"
+      cache-save-on-dispatch: true
+      env: |
+        CARGO_BUILD_JOBS=2
+        RUST_TEST_THREADS=2
+        NEXTEST_TEST_THREADS=2
       packages: >-
         pkg-config libxkbcommon-dev libwayland-dev libx11-dev libxcb1-dev libxcursor-dev
         libxrandr-dev libxi-dev libfontconfig1-dev libfreetype-dev mesa-vulkan-drivers
