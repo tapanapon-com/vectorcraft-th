@@ -1,0 +1,21 @@
+{
+  "capturedAt": "2026-11-08T14:14:03.835271+00:00",
+  "thaiVersion": "0.22.0-th.1",
+  "dmgSha256": "09f5abb836e9e28b6d47105aad563b5997a97340880ea0fbaad22ec958a802a1",
+  "source": "Native application window captured from mounted released DMG",
+  "isolatedTemporaryData": true,
+  "neutralDemoPaths": true,
+  "imageEditing": false,
+  "files": [
+    {
+      "name": "vectorcraft-th-new-document.png",
+      "sha256": "770957eaade5095d460d5b18d252acbb9c836fad04ed6f7e17bc3566a79822e0",
+      "bytes": 369700
+    },
+    {
+      "name": "vectorcraft-th-workspace.png",
+      "sha256": "0ca5b07a8abda5e4d1f8a7c57541e027b95bee1d23955be7c9f0120d918e88ad",
+      "bytes": 561855
+    }
+  ]
+}
