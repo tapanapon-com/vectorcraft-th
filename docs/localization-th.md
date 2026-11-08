@@ -1,6 +1,6 @@
 # VectorCraft ภาษาไทย / Thai localization
 
-รุ่นภาษาไทยนี้ต่อยอดจาก [VectorCraft โดย storytold](https://github.com/storytold/vectorcraft) รุ่น 0.21.0 ที่ commit `644acb89cccaad92fd4f1f6af9156ef3f9865e9f` เป็นงานแปลอิสระ ไม่ใช่รุ่นทางการหรือรุ่นที่ได้รับการรับรองจากต้นฉบับ
+รุ่นภาษาไทยนี้ต่อยอดจาก [VectorCraft โดย storytold](https://github.com/storytold/vectorcraft) รุ่น 0.22.0 ที่ commit `654749c16eb20b6d3182a96defb66e11d1a9649a` เป็นงานแปลอิสระ ไม่ใช่รุ่นทางการหรือรุ่นที่ได้รับการรับรองจากต้นฉบับ
 
 ## การทำงานและการเลือกภาษา
 
@@ -12,9 +12,9 @@ VectorCraft เป็นแอปวาดภาพเวกเตอร์แ�
 
 ## ความครอบคลุมของคำแปล
 
-ตารางภาษาไทยมี 7,813 รายการ ครอบคลุมคีย์ในแค็ตตาล็อกอ้างอิงและรายการเพิ่มเติมที่สแกนจากซอร์สของรุ่นนี้ การตรวจ `scripts/thai/validate.py` ไม่พบข้อผิดพลาดด้านตัวแปร ตัวเลข รูปแบบข้อความ หรือคีย์ที่ขาด ความครอบคลุมนี้ไม่รวมข้อความจากระบบปฏิบัติการหรือส่วนที่ไม่ได้เรียกใช้ระบบแปล
+ตารางภาษาไทยมี 7,920 รายการ ครอบคลุมคีย์ในแค็ตตาล็อกอ้างอิงและรายการเพิ่มเติมที่สแกนจากซอร์สของรุ่นนี้ การตรวจ `scripts/thai/validate.py` ไม่พบข้อผิดพลาดด้านตัวแปร ตัวเลข รูปแบบข้อความ หรือคีย์ที่ขาด ความครอบคลุมนี้ไม่รวมข้อความจากระบบปฏิบัติการหรือส่วนที่ไม่ได้เรียกใช้ระบบแปล
 
-ผลรายงานสแกน `i18n::tests::untranslated_report` ไม่พบรายการตกค้างในหัวข้อภาษาไทยหรือหัวข้อที่ขาดทุกภาษา สำหรับซอร์สรุ่นนี้
+รายงาน `i18n::tests::untranslated_report` ที่คอมไพล์จากซอร์ส 0.22.0 ไม่พบคีย์ภาษาไทยตกหล่น หลังเติมข้อความที่สแกนพบใหม่อีก 11 รายการ
 
 ระบบตรวจอัปเดตชี้ไปที่ `tapanapon-com/vectorcraft-th` เพื่อไม่ให้รุ่นต้นฉบับทับคำแปล ช่องทางตรวจอัปเดตอาจไม่เสนอ prerelease ให้ดาวน์โหลดรุ่นทดลองจาก Releases โดยตรง
 
@@ -47,7 +47,7 @@ bash scripts/thai/package-local.sh
 
 ## English
 
-This is an independent Thai localization of [storytold/VectorCraft](https://github.com/storytold/vectorcraft), based on 0.21.0 at revision `644acb89cccaad92fd4f1f6af9156ef3f9865e9f`. It is not an official or endorsed upstream release.
+This is an independent Thai localization of [storytold/VectorCraft](https://github.com/storytold/vectorcraft), based on 0.22.0 at revision `654749c16eb20b6d3182a96defb66e11d1a9649a`. It is not an official or endorsed upstream release.
 
 VectorCraft is a native Rust vector illustration application. Paths, anchors, shapes, text, layers and artboards are operated through a shared command engine used by the desktop UI, CLI and automation interface. The UI explicitly installs the bundled Noto Sans Thai face as a fallback in every UI font family. Thai text is embedded at build time; command identifiers and document contents retain their original values.
 
@@ -57,13 +57,25 @@ The translation combines MIT/Apache-licensed sibling wording with a locally mach
 
 The local package embeds official craft-fonts at revision `b076417b5880bd4154bd22f00695b1d28c6bea83`, including Noto Sans Thai, and bundles OFL notices. It is ad-hoc signed and not Apple-notarized. Upstream describes VectorCraft as alpha; do not assume complete Illustrator parity or lossless `.ai` round trips. Keep source files and review the upstream gaps before important work.
 
-The Thai catalog contains 7,813 entries covering the reference catalogs and additional keys scanned from this source revision. The catalog validator reports zero missing keys or formatting/placeholder/number errors. The compiled `i18n::tests::untranslated_report` also lists no Thai or all-language gaps for this revision. This is catalog coverage, not a guarantee about external or dynamically constructed diagnostics.
+The Thai catalog contains 7,920 entries covering the reference catalogs and additional keys scanned from this source revision. The catalog validator reports zero missing keys or formatting/placeholder/number errors. The fresh compiled `i18n::tests::untranslated_report` lists no Thai or all-language gaps after adding 11 source-discovered strings. This is catalog coverage, not a guarantee about external or dynamically constructed diagnostics.
 
 Build and validation commands appear above. Preserve upstream code, asset, font and branding notices when redistributing.
 
 
 Update checks use `tapanapon-com/vectorcraft-th`, keeping upstream-only binaries out of this edition’s update channel. Prereleases may not be offered automatically; download them from Releases.
 
-### Release validation
+### Historical release validation — 0.21.0-th.1
 
 `cargo xtask ci` passed every gate. The workspace test stage passed 13,965 tests with zero failures and 15 upstream-ignored tests. Native save/close/reopen preserved the document content summary and produced byte-identical PNG exports. Switching Thai/English preserved the full document inspection result. See [validation-th.json](validation-th.json). Filesystem timestamp-sensitive tests ran with a temporary directory on APFS.
+
+## อัปเกรด 7 พฤศจิกายน 2026
+
+รวมซอร์สต้นฉบับรุ่นใหม่และคงชุดแปลภาษาไทย ดูสถานะการตรวจและการแพ็กเกจใน [บันทึกอัปเกรด](thai-upgrade-20261107.md) ก่อนใช้ตัวเลขทดสอบรุ่นเก่าอ้างอิงรุ่นนี้
+
+## ผลตรวจปัจจุบัน / Current source validation
+
+Complete shared CI passed all 12 stages:14,487 tests passed,15 skipped,0 failed. The compiled translation report has zero missing Thai/shared strings. Mac UI library:3,279 passed. See [full gate](https://github.com/tapanapon-com/vectorcraft-th/actions/runs/42376413663).
+
+The mounted **0.22.0-th.1** Mac DMG passed integrity/signature/arm64 checks, native save-close-reopen, byte-identical PNG round-trip, language switching and actual MCP initialize/tools-list (**33 tools**). The workspace, created blank document and exported PNG were visually inspected. Mac build source:`43629e9c15293f0f95ad3f63e5ab3b69f5baf168`; SHA-256:`09f5abb836e9e28b6d47105aad563b5997a97340880ea0fbaad22ec958a802a1`; 147,126,134 bytes.
+
+Windows x64 native packaging, CLI/MCP and installer checks passed; see the current report for the exact artifacts and source commit. Platform checks and exact source provenance are recorded in [current validation](validation-0.22.0-th.1.json). Earlier0.21.0 results above remain historical. Mac builds are ad-hoc signed and not Apple-notarized. Thai updates require manual downloads from this repository’s Releases.

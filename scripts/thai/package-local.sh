@@ -5,7 +5,7 @@ ROOT="$(cd "$(dirname "$0")/../.." && pwd)"
 DIST="$ROOT/dist/thai"
 APP="$DIST/VectorCraft.app"
 STAGE="$DIST/dmg-stage"
-VERSION=0.21.0-th.1
+VERSION=0.22.0-th.1
 ARCH="$(uname -m)"
 BINARY="$ROOT/target/release/vectorcraft"
 [[ -x "$ROOT/target/release/vectorcraft-cli" ]] || { echo 'Build vectorcraft-cli --release first.' >&2; exit 1; }
@@ -22,8 +22,9 @@ cp "$BINARY" "$APP/Contents/MacOS/VectorCraft"
 cp "$ROOT/target/release/vectorcraft-cli" "$APP/Contents/MacOS/vectorcraft-cli"
 cp "$ROOT/assets/app-icon/vectorcraft.icns" "$APP/Contents/Resources/VectorCraft.icns"
 cp "$ROOT/NOTICE" "$ROOT/ASSETS.md" "$ROOT/LICENSE-MIT" "$ROOT/LICENSE-APACHE" "$APP/Contents/Resources/"
-cp "$ROOT/docs/localization-th.md" "$ROOT/docs/validation-th.json" "$ROOT/ATTRIBUTION.md" "$APP/Contents/Resources/"
-sed -e "s/@VERSION@/$VERSION/g" -e 's/@SHORT_VERSION@/0.21.0/g' \
+cp "$ROOT/docs/localization-th.md" "$ROOT/docs/validation-0.22.0-th.1.json" "$ROOT/ATTRIBUTION.md" "$APP/Contents/Resources/"
+cp "$ROOT/docs/thai-upgrade-20261107.md" "$APP/Contents/Resources/"
+sed -e "s/@VERSION@/$VERSION/g" -e 's/@SHORT_VERSION@/0.22.0/g' \
   -e "s/@BUILD_SHA@/$(git -C "$ROOT" rev-parse --short HEAD)-thai/g" \
   "$ROOT/packaging/macos/Info.plist.in" > "$APP/Contents/Info.plist"
 printf 'APPL????' > "$APP/Contents/PkgInfo"
