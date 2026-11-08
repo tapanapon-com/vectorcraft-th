@@ -13,3 +13,5 @@ VectorCraft TH is an independent localization, not an official or endorsed upstr
 | ArtCraft branding | Upstream docs/brand | Original trademark terms; see docs/brand/LICENSE-brand.txt |
 
 Keep LICENSE-MIT, LICENSE-APACHE, NOTICE and ASSETS.md when redistributing. Translation was machine-assisted locally and edited for terminology; no proprietary application resources were used. The upstream README is preserved as README-upstream.md.
+
+Thai interface screenshots `docs/images/th/vectorcraft-th-workspace.png` and `vectorcraft-th-new-document.png` were captured from the released 0.22.0-th.1 DMG using this fork’s original Thai vector demo. They are unedited native window captures under MIT OR Apache-2.0; upstream UI and branding retain their existing terms. See the adjacent capture proof.
